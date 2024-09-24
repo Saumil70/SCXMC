@@ -37,6 +37,11 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
+        hostname: 'xmc-sourceved15434-jsitecorexmc413-dev0494.sitecorecloud.io',
+        port: '',
+      },
+      {
+        protocol: 'https',
         hostname: 'edge*.**',
         port: '',
       },

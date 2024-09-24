@@ -1,10 +1,10 @@
 {
-  "name": "sxastarter",
+  "name": "inance",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
   "version": "22.0.0",
   "private": true,
   "config": {
-    "appName": "sxastarter",
+    "appName": "inance",
     "rootPlaceholders": [
       "jss-main"
     ],

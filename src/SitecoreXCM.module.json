@@ -1,6 +1,6 @@
 {
     "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-    "namespace": "Project.SitecoreXMC",
+    "namespace": "Project.Inance",
     "items": {
       "includes": [
         {
@@ -23,12 +23,12 @@
         },
         {
             "name": "templatesProject",
-            "path": "/sitecore/templates/Project/SitecoreXMC",
+            "path": "/sitecore/templates/Project/Inance",
             "allowedPushOperations": "CreateUpdateAndDelete"
         },
         {
           "name": "projectMediaFolders",
-          "path": "/sitecore/Media Library/Project/SitecoreXMC",
+          "path": "/sitecore/Media Library/Project/Inance",
           "rules": [
             {
               "path": "/shared",
@@ -44,29 +44,29 @@
         },
         {
           "name": "projectRenderings",
-          "path": "/sitecore/Layout/Renderings/Project/SitecoreXMC",
+          "path": "/sitecore/Layout/Renderings/Project/Inance",
           "scope": "ItemAndDescendants",
           "allowedPushOperations": "CreateUpdateAndDelete"
         },
         {
           "name": "projectPlaceholderSettings",
-          "path": "/sitecore/Layout/Placeholder Settings/Project/SitecoreXMC",
+          "path": "/sitecore/Layout/Placeholder Settings/Project/Inance",
           "allowedPushOperations": "CreateUpdateAndDelete"
         },
         {
             "name": "modules",
-            "path": "/sitecore/system/Settings/Project/SitecoreXMC",
+            "path": "/sitecore/system/Settings/Project/Inance",
             "allowedPushOperations": "CreateUpdateAndDelete"
           },
         {
           "name": "tenantRoot",
-          "path": "/sitecore/content/SitecoreXMC",
+          "path": "/sitecore/content/Inance",
           "scope": "SingleItem",
           "allowedPushOperations": "CreateAndUpdate"
         },
         {
           "name": "site",
-          "path": "/sitecore/content/SitecoreXMC/SitecoreXMC",
+          "path": "/sitecore/content/Inance/inance",
           "rules": [
             {
               "path": "/home",

@@ -11,7 +11,7 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Web;
 
-namespace XmCloudSXAStarter.Commands
+namespace XmCloudinance.Commands
 {
     public class SyncRandom : Command
     {
@@ -32,12 +32,12 @@ namespace XmCloudSXAStarter.Commands
         {
             Sitecore.Data.Database masterDB = Sitecore.Configuration.Factory.GetDatabase("master");
 
-            Item parentItem = masterDB.GetItem("/sitecore/content/SitecoreXMC/SitecoreXMC/Data/Randoms");
+            Item parentItem = masterDB.GetItem("/sitecore/content/Inance/inance/Data/Randoms");
             Sitecore.Diagnostics.Log.Info($"Parent Item: {parentItem.ID}", this);
             Random random = new Random();
             int number = random.Next();
             string name = number + "" + Sitecore.DateUtil.IsoNow;
-            var template = masterDB.GetTemplate("/sitecore/templates/Project/SitecoreXMC/Random");
+            var template = masterDB.GetTemplate("/sitecore/templates/Project/Inance/Random");
 
             using (new Sitecore.SecurityModel.SecurityDisabler())   
             {
