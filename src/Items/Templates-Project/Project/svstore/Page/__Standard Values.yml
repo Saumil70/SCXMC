@@ -1,0 +1,13 @@
+﻿---
+ID: "fc7ca97c-8c50-47e3-8cfc-8174eeb86453"
+Parent: "9a09d81b-0617-4073-b2cb-88eeaeb30b9e"
+Template: "9a09d81b-0617-4073-b2cb-88eeaeb30b9e"
+Path: /sitecore/templates/Project/svstore/Page/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0818fc6a-95b5-4420-b337-f7bb7f6e8949"
+      Hint: Title
+      Value: $name

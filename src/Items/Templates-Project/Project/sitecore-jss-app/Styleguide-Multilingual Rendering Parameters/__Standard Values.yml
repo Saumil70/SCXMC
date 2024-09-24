@@ -1,0 +1,9 @@
+﻿---
+ID: "2a6f73b6-affd-5717-b5e8-8cc0b929014a"
+Parent: "dff195be-058f-5265-9521-ca912b28100e"
+Template: "dff195be-058f-5265-9521-ca912b28100e"
+Path: "/sitecore/templates/Project/sitecore-jss-app/Styleguide-Multilingual Rendering Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
