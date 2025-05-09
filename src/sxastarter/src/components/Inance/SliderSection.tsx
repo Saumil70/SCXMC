@@ -9,14 +9,14 @@ import {
   Link,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 
-type SliderSectionProps = {
-  fields: {
-    Title: Field<string>;
-    Description: Field<string>;
-    Image: ImageField;
-    Button: LinkField;
+  type SliderSectionProps = {
+    fields: {
+      Title: Field<string>;
+      Description: Field<string>;
+      Image: ImageField;
+      Button: LinkField;
+    };
   };
-};
 
 function SliderSection({ fields }: SliderSectionProps) {
   return (
