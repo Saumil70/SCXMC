@@ -26,7 +26,7 @@ const FeatureSection = ({ fields }: FeatureSectionProps): JSX.Element => {
               <div className="img-box">
                 <Image field={card.fields.Image} />
               </div>
-              <h5 className="name"> 
+              <h5 className="name">
                 <Text field={card.fields.Title} />
               </h5>
             </div>

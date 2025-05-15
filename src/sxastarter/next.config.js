@@ -50,7 +50,7 @@ const nextConfig = {
         hostname: 'feaas*.blob.core.windows.net',
         port: '',
       },
-    ]
+    ],
   },
 
   async rewrites() {

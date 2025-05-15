@@ -2,7 +2,7 @@ $white: #ffffff;
 $black: #000000;
 $primary1: #0355cc;
 // $primary2:#e31414;
-$primary2:#ff8a1d;
+$primary2: #ff8a1d;
 
 // import fonts
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap');
@@ -117,7 +117,6 @@ a:focus {
   background-color: #d1e3ff;
 }
 
-
 .header_section {
   .container-fluid {
     padding-right: 25px;
@@ -145,10 +144,7 @@ a:focus {
   .header_bottom {
     padding: 10px 0;
   }
-
 }
-
-
 
 .navbar-brand {
   padding: 0;
@@ -187,8 +183,6 @@ a:focus {
   }
 }
 
-
-
 .custom_nav-container .form-inline .nav_search-btn {
   width: 35px;
   height: 35px;
@@ -201,8 +195,6 @@ a:focus {
   }
 }
 
-
-
 .custom_nav-container .navbar-toggler {
   outline: none;
 }
@@ -211,7 +203,7 @@ a:focus {
   padding: 0;
   width: 37px;
   height: 42px;
-  transition: all .3s;
+  transition: all 0.3s;
 
   span {
     display: block;
@@ -222,11 +214,11 @@ a:focus {
     transition: all 0.3s;
     position: relative;
     border-radius: 5px;
-    transition: all .3s;
+    transition: all 0.3s;
 
     &::before,
     &::after {
-      content: "";
+      content: '';
       position: absolute;
       left: 0;
       height: 100%;
@@ -234,7 +226,7 @@ a:focus {
       background-color: $black;
       top: -10px;
       border-radius: 5px;
-      transition: all .3s;
+      transition: all 0.3s;
     }
 
     &::after {
@@ -242,7 +234,7 @@ a:focus {
     }
   }
 
-  &[aria-expanded="true"] {
+  &[aria-expanded='true'] {
     transform: rotate(360deg);
 
     span {
@@ -272,8 +264,7 @@ a:focus {
     }
   }
 
-  &[aria-expanded="false"] {
-
+  &[aria-expanded='false'] {
     .s-1,
     .s-2,
     .s-3 {
@@ -320,7 +311,6 @@ a:focus {
     position: unset;
   }
 
-
   .detail-box {
     padding-bottom: 90px;
 
@@ -328,7 +318,6 @@ a:focus {
       font-weight: bold;
       margin-bottom: 25px;
       color: $primary1;
-
     }
 
     p {
@@ -347,12 +336,9 @@ a:focus {
       width: 100%;
     }
   }
-
-
 }
 
 // end slider section
-
 
 // feature section
 
@@ -373,7 +359,7 @@ a:focus {
       background-color: $white;
       color: #555089;
       transition: all.3s;
-      box-shadow: 0 0 15px 0 rgba($color: #000000, $alpha: .2);
+      box-shadow: 0 0 15px 0 rgba($color: #000000, $alpha: 0.2);
 
       .img-box {
         width: 90px;
@@ -397,7 +383,6 @@ a:focus {
         text-transform: uppercase;
         @include secondary-font();
         margin-bottom: 0;
-
       }
 
       &:hover,
@@ -414,7 +399,6 @@ a:focus {
             }
           }
         }
-
       }
     }
   }
@@ -454,7 +438,6 @@ a:focus {
 
 // end about section
 
-
 // professional section
 
 .professional_section {
@@ -486,7 +469,6 @@ a:focus {
     a {
       margin-top: 25px;
       @include hero_btn($primary2, $white, 10px, 45px, 2px);
-
     }
   }
 }
@@ -501,9 +483,9 @@ a:focus {
   .box {
     margin-top: 30px;
     text-align: center;
-    box-shadow: 0 0 5px 2px rgba($color: $black, $alpha: .15);
+    box-shadow: 0 0 5px 2px rgba($color: $black, $alpha: 0.15);
     padding: 25px 15px;
-    transition: all .3s;
+    transition: all 0.3s;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -518,7 +500,7 @@ a:focus {
       img {
         max-height: 100%;
         max-width: 100%;
-        transition: all .3s;
+        transition: all 0.3s;
       }
     }
 
@@ -532,7 +514,6 @@ a:focus {
       p {
         margin: 0;
       }
-
     }
 
     &:hover {
@@ -570,7 +551,7 @@ a:focus {
 
   .box {
     margin: 15px;
-    box-shadow: 0 0 10px 0 rgba($color: #000000, $alpha: .2);
+    box-shadow: 0 0 10px 0 rgba($color: #000000, $alpha: 0.2);
     padding: 25px;
 
     .client_id {
@@ -611,7 +592,6 @@ a:focus {
     }
   }
 
-
   .owl-carousel {
     .owl-nav {
       display: flex;
@@ -626,14 +606,11 @@ a:focus {
         margin: 0 20px;
         color: $white;
       }
-
     }
   }
-
 }
 
 // end client section
-
 
 // contact section
 
@@ -642,7 +619,6 @@ a:focus {
 }
 
 .contact_section {
-
   input {
     width: 100%;
     border: none;
@@ -652,7 +628,7 @@ a:focus {
     background-color: $white;
     outline: none;
     color: $white;
-    box-shadow: 0 0 7px 0 rgba($color: #000000, $alpha: .2);
+    box-shadow: 0 0 7px 0 rgba($color: #000000, $alpha: 0.2);
 
     &::placeholder {
       color: #737272;
@@ -687,8 +663,6 @@ a:focus {
   text-align: center;
   color: #fff;
 
-
-
   h4 {
     text-transform: uppercase;
     font-weight: bold;
@@ -704,7 +678,6 @@ a:focus {
     .box {
       background-color: $white;
       padding: 5px 15px;
-
     }
   }
 
@@ -723,7 +696,6 @@ a:focus {
 }
 
 .info_items {
-
   a {
     position: relative;
   }
@@ -761,7 +733,6 @@ a:focus {
     &:hover {
       .img-box {
         background-color: $primary2;
-
       }
     }
   }
@@ -771,7 +742,7 @@ a:focus {
   position: relative;
 
   &::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 65px;
     width: 75%;
@@ -784,14 +755,10 @@ a:focus {
 
 // end info section
 
-
-
 /* footer section*/
 
 .footer_section {
-
   background-color: #0a0f43;
-
 }
 
 .footer_section p {
@@ -799,7 +766,7 @@ a:focus {
   padding: 25px 0;
   color: $white;
   text-align: center;
-  border-top: .8px solid $white;
+  border-top: 0.8px solid $white;
 }
 
 .footer_section a {

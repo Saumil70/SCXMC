@@ -1,10 +1,9 @@
-@import "@sass/abstracts/vars/colors";
-@import "@sass/abstracts/mixins";
-@import "variables";
+@import '@sass/abstracts/vars/colors';
+@import '@sass/abstracts/mixins';
+@import 'variables';
 
 .prod-mode {
   #header {
-
     @include respond-to(mobile-large) {
       padding-bottom: 0;
       flex-direction: column-reverse;

@@ -39,12 +39,6 @@ const Layout = ({ layoutData, headLinks }: LayoutProps): JSX.Element => {
         ))}
       </Head>
 
-      <Script src="js/jquery-3.4.1.min.js" strategy="beforeInteractive"></Script>
-      <Script src="js/bootstrap.js" strategy="beforeInteractive"></Script>
-      <Script
-        src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
-        strategy="beforeInteractive"
-      ></Script>
       <Script src="js/custom.js" strategy="afterInteractive"></Script>
       <Script
         src={`https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI`}
