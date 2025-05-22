@@ -1,5 +1,6 @@
-import { JssConfig } from 'lib/config';
 import { ConfigPlugin } from '..';
+
+import { JssConfig } from 'lib/config';
 
 /**
  * This plugin will set configuration specific for SXA.

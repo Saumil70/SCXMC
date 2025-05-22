@@ -4,6 +4,7 @@ import {
   useSitecoreContext,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { useEffect } from 'react';
+
 import config from 'temp/config';
 import { context } from 'lib/context';
 

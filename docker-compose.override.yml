@@ -1,5 +1,4 @@
 services:
-
   # A Windows-based nodejs base image
   nodejs:
     image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
@@ -73,7 +72,9 @@ services:
       - ${LOCAL_DEPLOY_PATH}\platform:C:\deploy
       - ${LOCAL_DATA_PATH}\cm:C:\inetpub\wwwroot\App_Data\logs
       - ${HOST_LICENSE_FOLDER}:c:\license
+      - ./docker/config/cm/include:C:\inetpub\wwwroot\App_Config\Include\zzz_Custom
     environment:
+      SITECORE_SPE_ELEVATION: "Allow"
       SITECORE_LICENSE_LOCATION: c:\license\license.xml
       RENDERING_HOST_INTERNAL_URI: "http://rendering:3000"
       JSS_DEPLOYMENT_SECRET_xmcloudpreview: ${JSS_DEPLOYMENT_SECRET_xmcloudpreview}

@@ -1,6 +1,7 @@
 import * as FEAAS from '@sitecore-feaas/clientside/react';
 import '@sitecore/components/context';
 import dynamic from 'next/dynamic';
+
 import { context } from 'lib/context';
 /**
  * This is an out-of-box bundler for External components (BYOC) (see Sitecore documentation for more details)

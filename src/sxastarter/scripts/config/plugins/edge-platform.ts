@@ -1,7 +1,9 @@
 import chalk from 'chalk';
 import { constantCase } from 'constant-case';
-import { JssConfig } from 'lib/config';
+
 import { ConfigPlugin } from '..';
+
+import { JssConfig } from 'lib/config';
 
 /**
  * This plugin will set config props used by the Sitecore Edge Platform.

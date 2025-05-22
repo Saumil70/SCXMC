@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { MultisiteMiddleware } from '@sitecore-jss/sitecore-jss-nextjs/middleware';
-import { siteResolver } from 'lib/site-resolver';
+
 import { MiddlewarePlugin } from '..';
+
+import { siteResolver } from 'lib/site-resolver';
 
 /**
  * This is the multisite middleware plugin for Next.js.

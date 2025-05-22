@@ -1,4 +1,5 @@
 import { normalizePersonalizedRewrite } from '@sitecore-jss/sitecore-jss-nextjs';
+
 import { Plugin } from '..';
 
 class PersonalizePlugin implements Plugin {

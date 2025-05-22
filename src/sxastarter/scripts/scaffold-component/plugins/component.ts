@@ -1,5 +1,7 @@
 import path from 'path';
+
 import { scaffoldFile } from '@sitecore-jss/sitecore-jss-dev-tools';
+
 import { ScaffoldComponentPlugin, ScaffoldComponentPluginConfig } from '..';
 
 /**

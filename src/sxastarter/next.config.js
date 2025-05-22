@@ -2,14 +2,16 @@ const jssConfig = require('./src/temp/config');
 const plugins = require('./src/temp/next-config-plugins') || {};
 
 const publicUrl = jssConfig.publicUrl;
+const baseURL = "https://nopstore/api/";
 
 /**
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  //
+  baseURL: baseURL,
   // Set assetPrefix to our public URL
   assetPrefix: publicUrl,
-
   // Allow specifying a distinct distDir when concurrently running app in a container
   distDir: process.env.NEXTJS_DIST_DIR || '.next',
 
@@ -17,7 +19,6 @@ const nextConfig = {
   env: {
     PUBLIC_URL: publicUrl,
   },
-
   i18n: {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
@@ -28,7 +29,7 @@ const nextConfig = {
   },
 
   // Enable React Strict Mode
-  reactStrictMode: true,
+  reactStrictMode: false,
 
   // use this configuration to ensure that only images from the whitelisted domains
   // can be served from the Next.js Image Optimization API
@@ -45,7 +46,7 @@ const nextConfig = {
         hostname: 'feaas*.blob.core.windows.net',
         port: '',
       },
-    ]
+    ],
   },
 
   async rewrites() {

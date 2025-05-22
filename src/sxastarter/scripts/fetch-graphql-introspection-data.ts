@@ -1,5 +1,6 @@
-import { GraphQLRequestClient } from '@sitecore-jss/sitecore-jss-nextjs/graphql';
 import fs from 'fs';
+
+import { GraphQLRequestClient } from '@sitecore-jss/sitecore-jss-nextjs/graphql';
 import { getIntrospectionQuery } from 'graphql';
 
 // This script load graphql introspection data in order to use graphql code generator and generate typescript types

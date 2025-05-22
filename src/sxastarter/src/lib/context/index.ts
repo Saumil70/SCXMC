@@ -1,7 +1,8 @@
 import { Context } from '@sitecore-jss/sitecore-jss-nextjs/context';
-import config from 'temp/config';
 
 import Events from './sdk/events';
+
+import config from 'temp/config';
 
 /**
  * List of SDKs to be initialized.

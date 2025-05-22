@@ -1,5 +1,6 @@
-import { JssConfig } from 'lib/config';
 import { ConfigPlugin } from '..';
+
+import { JssConfig } from 'lib/config';
 
 /**
  * This plugin will set config props based on scjssconfig.json.

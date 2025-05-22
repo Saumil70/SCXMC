@@ -1,6 +1,8 @@
-import { SitecorePageProps } from 'lib/page-props';
 import { getComponentLibraryStylesheetLinks } from '@sitecore-jss/sitecore-jss-nextjs';
+
 import { Plugin } from '..';
+
+import { SitecorePageProps } from 'lib/page-props';
 import config from 'temp/config';
 
 class ComponentThemesPlugin implements Plugin {
