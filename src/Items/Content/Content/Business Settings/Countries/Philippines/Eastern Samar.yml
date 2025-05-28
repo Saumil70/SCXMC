@@ -1,8 +1,8 @@
 ﻿---
-ID: "8df96c05-056b-4198-918e-a5412a574a8a"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "7367503d-59b6-468d-ae67-6789e42c25ba"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Eastern Samar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Eastern Samar"
 Languages:
 - Language: en
   Versions:

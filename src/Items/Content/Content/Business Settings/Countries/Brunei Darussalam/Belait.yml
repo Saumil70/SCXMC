@@ -1,8 +1,8 @@
 ﻿---
-ID: "fbcfbab6-7f4b-42f6-8c21-2d16e15d03e6"
-Parent: "fa74a657-0eea-44a5-8469-7c1e413ef526"
+ID: "2c486a9c-e700-4b4c-a3a5-2f5b23ad55c8"
+Parent: "c7aa32ce-bcc9-4998-9b58-6a982e07dd2e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brunei Darussalam/Belait"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brunei Darussalam/Belait"
 Languages:
 - Language: en
   Versions:

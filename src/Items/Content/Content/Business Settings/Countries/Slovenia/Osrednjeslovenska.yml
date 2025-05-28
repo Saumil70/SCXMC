@@ -1,8 +1,8 @@
 ﻿---
-ID: "96517eb9-1748-4242-aef9-884dbc6d2d7d"
-Parent: "7f7e6fbe-afbd-445d-9021-efea368d0966"
+ID: "d0302934-dc50-47c4-b040-f5c3747e2bf7"
+Parent: "0f1d8039-c13e-4022-8505-5dbbab5a6e98"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Slovenia/Osrednjeslovenska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Slovenia/Osrednjeslovenska"
 Languages:
 - Language: en
   Versions:

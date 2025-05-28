@@ -1,8 +1,8 @@
 ﻿---
-ID: "39ebb1ef-5238-5d1e-bee0-65ecef6abb8b"
-Parent: "16a383f1-58be-5406-a1bc-0cba816f2e1c"
+ID: "cf1b9813-7126-42c8-a4ae-8b66f55c5565"
+Parent: "decad4c4-c74f-4d77-b7fa-8feee7f93f35"
 Template: "e534cf25-0e00-5105-af81-a623907ba22e"
-Path: "/sitecore/content/sitecore-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-7DE41A1A-24E4-5963-8206-3BB0B7D9DD69-0-Styleguide-Layout-Reuse-1"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/styleguide/Page Components/styleguide-jss-styleguide-section-7DE41A1A-24E4-5963-8206-3BB0B7D9DD69-0-Styleguide-Layout-Reuse-1"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow

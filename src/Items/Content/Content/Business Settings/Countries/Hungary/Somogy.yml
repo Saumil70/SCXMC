@@ -1,8 +1,8 @@
 ﻿---
-ID: "f2063173-da54-4c67-a1a8-e88b7a41f545"
-Parent: "cbecbf5a-299b-4b05-a1ef-f5601fa5b6e5"
+ID: "058386c5-5dc1-427c-ada3-cb29c8398e53"
+Parent: "17f2991d-cf18-4dc8-aa84-ad901be92e19"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Hungary/Somogy"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Hungary/Somogy"
 Languages:
 - Language: en
   Versions:

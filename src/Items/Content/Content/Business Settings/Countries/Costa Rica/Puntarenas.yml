@@ -1,8 +1,8 @@
 ﻿---
-ID: "93f30194-c0d0-4b66-9018-239d8995dd59"
-Parent: "137391fd-25ac-4884-abf7-a9d1498af3e1"
+ID: "55676374-42cd-450a-9e9f-3e2d70602130"
+Parent: "5f76ff65-aad6-4a82-b258-ab41db2cc582"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Costa Rica/Puntarenas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Costa Rica/Puntarenas"
 Languages:
 - Language: en
   Versions:

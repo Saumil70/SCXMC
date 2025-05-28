@@ -1,8 +1,8 @@
 ﻿---
-ID: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain"
 Languages:
 - Language: en
   Versions:

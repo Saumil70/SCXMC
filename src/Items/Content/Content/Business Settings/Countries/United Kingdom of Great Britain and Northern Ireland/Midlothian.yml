@@ -1,8 +1,8 @@
 ﻿---
-ID: "92050762-f77e-42cd-8af6-9e03006a118f"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "da4a724d-1a4f-473e-8012-cb1a3367fc6e"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Midlothian"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Midlothian"
 Languages:
 - Language: en
   Versions:

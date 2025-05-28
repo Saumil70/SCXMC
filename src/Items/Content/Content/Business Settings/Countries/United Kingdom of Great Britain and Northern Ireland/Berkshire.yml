@@ -1,8 +1,8 @@
 ﻿---
-ID: "4fbd2c6a-218f-4a29-bebf-c9c74bb07d47"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "81cda124-92ff-4095-8f11-d439068e3c1c"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Berkshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Berkshire"
 Languages:
 - Language: en
   Versions:

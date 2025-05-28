@@ -1,8 +1,8 @@
 ﻿---
-ID: "e627366c-8298-489e-bffe-396281678ebb"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "d914fc79-904a-4226-9ba1-528d9d9b6bd2"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Midlands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Midlands"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "0ad37d59-0be9-443d-9bbb-3dd868ef8e2c"
-Parent: "88c30c60-818e-4eda-98d8-48f96e349b5c"
+ID: "6e261254-079f-47b5-a4b3-19aba4f1053e"
+Parent: "8ba8d527-9c05-4d0c-a5df-94f7477e065b"
 Template: "730acfdf-9b8e-44d0-8918-f4e213533649"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Login/Page Components/FAQList/FeatureFAQ"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Login/Page Components/FAQList/FeatureFAQ"
 BranchID: "570be036-290e-4e39-a6a1-19b42b429d7b"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"

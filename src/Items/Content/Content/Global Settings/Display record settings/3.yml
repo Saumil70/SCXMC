@@ -1,8 +1,8 @@
 ﻿---
-ID: "7568e646-1382-447d-84a3-7e17e9a0a8fd"
-Parent: "0a50afb0-2f04-4c68-9e8d-29ac73749afc"
+ID: "7e6e6d60-2880-4666-8541-c621fae0f17b"
+Parent: "cc5c07f4-a241-4f76-9185-a5c7ed7e6519"
 Template: "22ea3316-ed22-4e6a-9ff4-f98ff7d4cce4"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Display record settings/3"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Display record settings/3"
 Languages:
 - Language: en
   Versions:

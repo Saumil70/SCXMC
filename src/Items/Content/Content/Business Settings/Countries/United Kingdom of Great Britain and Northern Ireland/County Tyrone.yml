@@ -1,8 +1,8 @@
 ﻿---
-ID: "b54a7d36-039e-4b4d-b081-54d62300eb78"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "602a1342-48d2-4555-87c6-8c6cb0b3243f"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Tyrone"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Tyrone"
 Languages:
 - Language: en
   Versions:

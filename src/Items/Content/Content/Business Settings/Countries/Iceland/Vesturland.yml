@@ -1,8 +1,8 @@
 ﻿---
-ID: "43d2aca2-873e-4b3f-adb8-9179a25a31f2"
-Parent: "04bad27e-4b3b-4517-ad58-819fe18b40a7"
+ID: "61b2ba57-327f-422f-8044-0c8242dbbdec"
+Parent: "fadc0a97-602e-4032-bcac-a92411e1221c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Iceland/Vesturland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Iceland/Vesturland"
 Languages:
 - Language: en
   Versions:

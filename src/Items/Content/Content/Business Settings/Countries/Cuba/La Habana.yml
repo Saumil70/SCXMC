@@ -1,8 +1,8 @@
 ﻿---
-ID: "01c04a6c-d791-41e3-accc-6bc9c3f8bb72"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "98675e30-21f4-480d-8815-7fdae370be19"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/La Habana"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/La Habana"
 Languages:
 - Language: en
   Versions:

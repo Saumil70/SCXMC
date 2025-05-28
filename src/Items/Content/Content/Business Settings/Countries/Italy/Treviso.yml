@@ -1,8 +1,8 @@
 ﻿---
-ID: "3bfdb0bd-e55b-4bd7-be1d-32ddc39adb4e"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "1415a5a2-3b39-4f58-b173-b66a4ff1e458"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Treviso"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Treviso"
 Languages:
 - Language: en
   Versions:

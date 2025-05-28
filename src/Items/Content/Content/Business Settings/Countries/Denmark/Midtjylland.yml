@@ -1,8 +1,8 @@
 ﻿---
-ID: "c92d1b14-1d68-4fce-a02b-51c93149e684"
-Parent: "8ad74f3a-7d93-440a-8384-fa17b20bc7c3"
+ID: "6c22d030-48a3-4097-8be4-1940ec181a68"
+Parent: "0058ac4b-5cb1-44af-bf52-2aa61332a815"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Denmark/Midtjylland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Denmark/Midtjylland"
 Languages:
 - Language: en
   Versions:

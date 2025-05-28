@@ -1,8 +1,8 @@
 ﻿---
-ID: "d7b30aaa-c455-4e69-9d06-74280af018b3"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "f61d1829-9f70-4e0e-9d8d-d065036381ae"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Oristano"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Oristano"
 Languages:
 - Language: en
   Versions:

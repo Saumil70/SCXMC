@@ -1,8 +1,8 @@
 ﻿---
-ID: "b826a9b4-0106-40ac-bdd6-7669b75c9214"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "618bba40-eb45-46da-aaba-4a08ffd10570"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Oriental Mindoro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Oriental Mindoro"
 Languages:
 - Language: en
   Versions:

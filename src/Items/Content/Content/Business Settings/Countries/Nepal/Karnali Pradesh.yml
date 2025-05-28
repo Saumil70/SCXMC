@@ -1,8 +1,8 @@
 ﻿---
-ID: "60e7f8ea-e05f-4362-9c90-370625991ea4"
-Parent: "1715624b-52c4-4755-be29-fae458dc620b"
+ID: "35c0802c-7914-451a-98cb-4ae9bb4f1a4f"
+Parent: "48aa15e8-03e4-4718-99a6-d5c05681ee7e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nepal/Karnali Pradesh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nepal/Karnali Pradesh"
 Languages:
 - Language: en
   Versions:

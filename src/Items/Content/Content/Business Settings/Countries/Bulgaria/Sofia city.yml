@@ -1,8 +1,8 @@
 ﻿---
-ID: "a743e7f4-e493-4388-9454-bf8092f94214"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "9fa3bc96-de7b-4c2e-824f-9f154b197472"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Sofia city"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Sofia city"
 Languages:
 - Language: en
   Versions:

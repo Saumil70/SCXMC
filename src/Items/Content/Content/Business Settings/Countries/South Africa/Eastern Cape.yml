@@ -1,8 +1,8 @@
 ﻿---
-ID: "8fa4dad6-eeb4-4ee8-aa15-01bfcde0bb27"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "5ba7882c-9580-49a3-8dee-f189f38ff618"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/Eastern Cape"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/Eastern Cape"
 Languages:
 - Language: en
   Versions:

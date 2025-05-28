@@ -1,8 +1,8 @@
 ﻿---
-ID: "192d025a-e964-40c1-be6d-9e1a2f218377"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "3828a4a7-7304-4c2d-aa15-0f1cde352d5c"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Alpes Maritimes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Alpes Maritimes"
 Languages:
 - Language: en
   Versions:

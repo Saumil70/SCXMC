@@ -1,8 +1,8 @@
 ﻿---
-ID: "8e4eba29-d686-46b4-a761-6531b897ab70"
-Parent: "d0ae8dcd-460c-4918-a3d7-1b1a28544315"
+ID: "03962cbb-b2cf-4453-abcf-081655b8b8b6"
+Parent: "55672e42-3958-482c-8c04-bf28fb140ba3"
 Template: "2094f93d-218e-47bd-a777-a513b45fb946"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Price filter settings/Price filter"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Price filter settings/Price filter"
 Languages:
 - Language: en
   Versions:

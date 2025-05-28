@@ -1,8 +1,8 @@
 ﻿---
-ID: "0a58e2a7-9309-4a36-9c3a-cdefcab890ec"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "8d9f75a0-efe8-41cc-a44c-149de5a7d798"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Aude"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Aude"
 Languages:
 - Language: en
   Versions:

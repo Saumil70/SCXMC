@@ -1,8 +1,8 @@
 ﻿---
-ID: "7214dc73-bb95-4c90-be6b-1586eef22dd0"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "2b9f3674-849f-4cf0-aab6-1028f4213c30"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Leicestershire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Leicestershire"
 Languages:
 - Language: en
   Versions:

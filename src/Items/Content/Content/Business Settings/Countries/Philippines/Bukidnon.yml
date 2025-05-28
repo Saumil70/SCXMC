@@ -1,8 +1,8 @@
 ﻿---
-ID: "b13516a0-ae3d-464d-ba7c-12eb547152e5"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "4284904c-7021-402d-a35a-e55b6e9f5e98"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Bukidnon"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Bukidnon"
 Languages:
 - Language: en
   Versions:

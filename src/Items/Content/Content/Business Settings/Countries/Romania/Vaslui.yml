@@ -1,8 +1,8 @@
 ﻿---
-ID: "02bc6997-2edd-44c2-816f-780c3bc46ffd"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "aefb93ab-1a2c-43a4-8fda-489d6807ae81"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Vaslui"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Vaslui"
 Languages:
 - Language: en
   Versions:

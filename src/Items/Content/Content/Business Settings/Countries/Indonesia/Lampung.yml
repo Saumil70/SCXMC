@@ -1,8 +1,8 @@
 ﻿---
-ID: "7eb48cc1-ab2b-492f-bfe2-85b6a2f118f5"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "d4eae6b7-fd83-4a21-a237-d21dd6ef0b2b"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Lampung"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Lampung"
 Languages:
 - Language: en
   Versions:

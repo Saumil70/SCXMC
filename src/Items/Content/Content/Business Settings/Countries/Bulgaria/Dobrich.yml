@@ -1,8 +1,8 @@
 ﻿---
-ID: "794e8f50-86c0-4921-b6d3-2fe3dcf842eb"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "ea9b93fa-477e-46bd-8f2a-46b0f5f3d6c3"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Dobrich"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Dobrich"
 Languages:
 - Language: en
   Versions:

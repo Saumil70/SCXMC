@@ -1,8 +1,8 @@
 ﻿---
-ID: "7a42b9c2-bfa2-4c40-b34b-b49b5b1b6126"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "764e2e86-5dcc-4de7-96f2-a9d3ae8c9c44"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Armagh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Armagh"
 Languages:
 - Language: en
   Versions:

@@ -1,12 +1,15 @@
 ﻿---
-ID: "0dcccdef-fc1a-417c-8f43-362f3f0aa856"
-Parent: "5288d54b-295e-5fed-9225-d9a08f763234"
+ID: "5b44d418-453f-469a-b0f7-e22c2346ddf3"
+Parent: "9d40a625-af56-47b7-958e-5729adbaf492"
 Template: "ccd7acfa-6848-5b61-960c-fb0a533d3cd3"
-Path: "/sitecore/content/sitecore-jss-app/home/demo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/demo"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a5207a80-ab59-461f-93d8-03f1bc13b1a2"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -17,9 +20,9 @@ SharedFields:
         <r
           uid="{75B4B7D8-A7C8-468B-BE1D-9CC4146C46E0}"
           p:after="*[1=2]"
-          s:ds="{7322E437-346F-43BC-9B77-F2B067B58BE8}"
+          s:ds="{CB5DF0AD-A508-4E9A-B01D-E8589C19EE20}"
           s:id="{90B60323-6418-424D-8D23-CBC0B7546026}"
-          s:par=""
+          s:par="CSSStyles"
           s:ph="jss-main"
           s:ccb="Clear on publish" />
       </d>
@@ -51,11 +54,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e2963157-1957-4bc9-bdad-7ce200044376"
+      Value: "617112b9-75bf-4daa-b554-dc89a93f5538"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T120348Z
+      Value: 20250528T122948Z

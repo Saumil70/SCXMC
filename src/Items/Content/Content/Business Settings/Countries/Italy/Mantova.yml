@@ -1,8 +1,8 @@
 ﻿---
-ID: "f7b835ab-576a-459a-8f65-c2e068270a2e"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "f5c72a28-4a97-4968-983b-da3d42360e72"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Mantova"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Mantova"
 Languages:
 - Language: en
   Versions:

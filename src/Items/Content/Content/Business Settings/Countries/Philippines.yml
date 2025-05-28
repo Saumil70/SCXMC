@@ -1,8 +1,8 @@
 ﻿---
-ID: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines"
 Languages:
 - Language: en
   Versions:

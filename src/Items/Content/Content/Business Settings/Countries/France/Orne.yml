@@ -1,8 +1,8 @@
 ﻿---
-ID: "03f357c3-3907-4b0f-8fc9-9429beb273af"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "e71ab45c-5c08-4152-864f-040e5d4b0dd1"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Orne"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Orne"
 Languages:
 - Language: en
   Versions:

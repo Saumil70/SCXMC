@@ -1,8 +1,8 @@
 ﻿---
-ID: "6b891571-b64e-4972-b4df-38a0499284e9"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "2ada22c8-e55e-4bc1-ad80-8c1c3801af06"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Mecklenburg-Vorpommern"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Mecklenburg-Vorpommern"
 Languages:
 - Language: en
   Versions:

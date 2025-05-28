@@ -1,8 +1,8 @@
 ﻿---
-ID: "221323bb-4426-4c4e-a2d6-412d12532e96"
-Parent: "de4bb742-e172-4408-8b8a-21e8c68f0467"
+ID: "0f8eeb91-a820-47f8-a4da-843aae3e21e8"
+Parent: "82b80023-3f72-45ae-88fa-59a67e7554a0"
 Template: "bf57e65e-315b-403b-b0fb-7b09a9c12f42"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Specification Attributes/System unit/CPU Type/Intel Core i5"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Specification Attributes/System unit/CPU Type/Intel Core i5"
 Languages:
 - Language: en
   Versions:

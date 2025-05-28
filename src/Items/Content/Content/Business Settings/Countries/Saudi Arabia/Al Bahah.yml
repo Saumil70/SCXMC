@@ -1,8 +1,8 @@
 ﻿---
-ID: "10349316-0755-4cb5-8d92-d0a42b9ffc69"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "26d40126-3d58-49a8-82c4-1ce510f18e24"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Al Bahah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Al Bahah"
 Languages:
 - Language: en
   Versions:

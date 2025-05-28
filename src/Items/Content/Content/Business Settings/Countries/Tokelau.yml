@@ -1,8 +1,8 @@
 ﻿---
-ID: "99722ac2-b65c-4c1c-b600-b64e21942ec3"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "6c18adaa-b634-467c-80a0-5226a33cbf2c"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Tokelau"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Tokelau"
 Languages:
 - Language: en
   Versions:

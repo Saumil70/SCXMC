@@ -1,8 +1,8 @@
 ﻿---
-ID: "af71c2ab-e55a-4564-8d50-2671d1ae225e"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "98498c9a-99df-48dd-8f4c-c423b07c7aaf"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Harare"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Harare"
 Languages:
 - Language: en
   Versions:

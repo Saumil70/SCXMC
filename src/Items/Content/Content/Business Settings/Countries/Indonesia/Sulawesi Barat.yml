@@ -1,8 +1,8 @@
 ﻿---
-ID: "d7432b9d-26d3-4677-a74a-9dd7ada991fb"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "c5351bc2-61ff-46ba-be55-49d7b173361e"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Sulawesi Barat"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Sulawesi Barat"
 Languages:
 - Language: en
   Versions:

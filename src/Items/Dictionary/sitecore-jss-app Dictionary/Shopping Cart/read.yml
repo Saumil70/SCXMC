@@ -1,8 +1,8 @@
 ﻿---
-ID: "bab0edae-3e7b-4c82-999d-38976c135c63"
-Parent: "b202d35f-cf25-476f-b775-ad6ef861e551"
+ID: "5360ddc9-5077-475e-84d4-be13774ffbcd"
+Parent: "bd0490e2-c23b-4de5-bd27-6e6b1e9f4a9a"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Shopping Cart/read"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Shopping Cart/read"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

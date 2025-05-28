@@ -1,8 +1,8 @@
 ﻿---
-ID: "3c6213be-acad-468b-bdcf-bc3ad5264032"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "61e14c9a-4ccd-4018-9b69-1554bafda04b"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mongolia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mongolia"
 Languages:
 - Language: en
   Versions:

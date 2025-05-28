@@ -1,8 +1,8 @@
 ﻿---
-ID: "824f8c93-910a-47aa-8de4-2bf40cfcbbac"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "581cbe74-1d00-4b1f-9250-1ba775e5648d"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Upload any additional document scan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Upload any additional document scan"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

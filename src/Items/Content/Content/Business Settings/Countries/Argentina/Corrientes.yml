@@ -1,8 +1,8 @@
 ﻿---
-ID: "e7d52b87-357a-4275-9b97-d270c1888d46"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "5874ead8-c27b-43bd-b688-d8d2fd7ca26b"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Corrientes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Corrientes"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "affae5ba-be6a-4bb1-9861-56d17460975c"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "f3b37233-a8c5-494e-923e-f4aa7b0f42e0"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Waterford"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Waterford"
 Languages:
 - Language: en
   Versions:

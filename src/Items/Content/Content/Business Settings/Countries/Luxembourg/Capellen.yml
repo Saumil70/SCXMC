@@ -1,8 +1,8 @@
 ﻿---
-ID: "dc2af167-b399-49c1-a84b-fa062f3f8135"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "ff0cd23c-8a7b-4139-a9aa-02fe82ba5782"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Capellen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Capellen"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "a495a668-f30f-451d-9a3d-b918f2c8afec"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "7c39c7f6-11d3-48fc-a81c-941f307540a5"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Najran"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Najran"
 Languages:
 - Language: en
   Versions:

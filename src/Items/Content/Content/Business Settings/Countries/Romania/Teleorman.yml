@@ -1,8 +1,8 @@
 ﻿---
-ID: "00a11a3e-f085-4955-b991-c6b23ee811a6"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "4651b9dd-1fa2-4784-b80d-d41911e65762"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Teleorman"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Teleorman"
 Languages:
 - Language: en
   Versions:

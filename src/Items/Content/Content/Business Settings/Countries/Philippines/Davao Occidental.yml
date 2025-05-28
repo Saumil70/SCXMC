@@ -1,8 +1,8 @@
 ﻿---
-ID: "d89ffd6d-504d-4139-a17a-16a68007ccc7"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "e1891d27-4404-49ac-8ada-cbbc4010c351"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Davao Occidental"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Davao Occidental"
 Languages:
 - Language: en
   Versions:

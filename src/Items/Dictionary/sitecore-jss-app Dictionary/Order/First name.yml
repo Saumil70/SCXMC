@@ -1,8 +1,8 @@
 ﻿---
-ID: "fc06543d-5c21-48ce-8b3d-103133023be5"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "b470fa3c-9216-40f8-9a72-a97b0e745fd4"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/First name"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/First name"
 Languages:
 - Language: en
   Versions:

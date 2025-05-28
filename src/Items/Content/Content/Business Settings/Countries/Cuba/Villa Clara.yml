@@ -1,8 +1,8 @@
 ﻿---
-ID: "f392079e-f091-4b3e-9173-73b8d2b79594"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "d3a54d78-724e-426c-bc18-4ec1d3d3e60b"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Villa Clara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Villa Clara"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "76701527-f1d5-4f38-b84b-f3c7faa7cd5e"
-Parent: "3ed3daa8-5877-4d84-9357-6d4f872f4c39"
+ID: "90e3c83e-8318-49ef-a061-8a1f74568e46"
+Parent: "68fd0b82-cf40-43b7-ad15-9f7e60fae35e"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Products/GTIN"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Products/GTIN"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

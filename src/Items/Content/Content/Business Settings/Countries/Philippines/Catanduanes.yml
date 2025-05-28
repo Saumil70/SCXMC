@@ -1,8 +1,8 @@
 ﻿---
-ID: "57bdc0ae-23f8-427e-855f-d95eebae76ae"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "73bfc193-4d94-4ed1-8208-1291bd33d2ac"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Catanduanes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Catanduanes"
 Languages:
 - Language: en
   Versions:

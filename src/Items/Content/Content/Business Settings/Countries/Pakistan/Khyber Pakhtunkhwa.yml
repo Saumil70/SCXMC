@@ -1,8 +1,8 @@
 ﻿---
-ID: "4c9ccdf0-6588-47f2-8b27-ffe68684b83a"
-Parent: "fd886250-271f-4595-bae2-ba8465531c5c"
+ID: "99996fc0-d016-47ca-aafc-0c6dda478beb"
+Parent: "cd7ffadb-f880-4a5a-ab42-9b9adddecec3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Pakistan/Khyber Pakhtunkhwa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Pakistan/Khyber Pakhtunkhwa"
 Languages:
 - Language: en
   Versions:

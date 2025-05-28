@@ -1,8 +1,8 @@
 ﻿---
-ID: "24096a2c-5b66-43d5-b125-5c4949972c40"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "921ae0ae-47a9-4860-8ad2-b1a7effda52c"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Varna"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Varna"
 Languages:
 - Language: en
   Versions:

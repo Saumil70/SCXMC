@@ -1,8 +1,8 @@
 ﻿---
-ID: "2a710ad4-fe36-470a-ae11-27cccf00779b"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "2b7f579d-eca4-413a-8185-57feeb764db2"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Corse du sud"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Corse du sud"
 Languages:
 - Language: en
   Versions:

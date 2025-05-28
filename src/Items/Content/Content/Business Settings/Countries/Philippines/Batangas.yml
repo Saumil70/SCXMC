@@ -1,8 +1,8 @@
 ﻿---
-ID: "93f2c305-14f0-4302-9051-6107b47203bf"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "13530e38-eadd-4296-812a-4879139678e7"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Batangas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Batangas"
 Languages:
 - Language: en
   Versions:

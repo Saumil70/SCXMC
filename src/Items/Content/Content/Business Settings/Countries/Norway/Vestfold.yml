@@ -1,8 +1,8 @@
 ﻿---
-ID: "1664dc21-1511-4002-9bd5-4fde1510a05f"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "8b8b7d94-1e38-4d33-8889-13ed260c2468"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Vestfold"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Vestfold"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "0b3d0339-aeef-4d96-8e1e-f2fb7483427b"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "1fe7fd92-b601-4a47-9172-3daf40706799"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Retry Payment"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Retry Payment"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

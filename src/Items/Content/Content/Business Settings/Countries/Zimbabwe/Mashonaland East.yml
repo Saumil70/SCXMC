@@ -1,8 +1,8 @@
 ﻿---
-ID: "e6b0d1b3-f144-4a2d-961d-02fc3aab7d6b"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "94dc7bf6-af8d-4d39-9cea-773bdad190af"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Mashonaland East"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Mashonaland East"
 Languages:
 - Language: en
   Versions:

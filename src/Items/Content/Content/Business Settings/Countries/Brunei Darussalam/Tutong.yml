@@ -1,8 +1,8 @@
 ﻿---
-ID: "eece13b2-0cee-495d-8bd7-ca32c529fc1f"
-Parent: "fa74a657-0eea-44a5-8469-7c1e413ef526"
+ID: "1463699b-fcb4-431b-a580-e4ef7d7a006c"
+Parent: "c7aa32ce-bcc9-4998-9b58-6a982e07dd2e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brunei Darussalam/Tutong"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brunei Darussalam/Tutong"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "01689ccf-2ec0-4a64-ac34-0f7db6e6d441"
-Parent: "a4226bc2-72c9-49b7-811c-321edb21c633"
+ID: "e9bad571-ca57-4615-90ca-dbeb6ff991f7"
+Parent: "e7d207ab-9f25-4547-bcd3-941b106d45af"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Croatia/Grad Zagreb"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Croatia/Grad Zagreb"
 Languages:
 - Language: en
   Versions:

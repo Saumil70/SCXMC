@@ -1,8 +1,8 @@
 ﻿---
-ID: "b29c3995-7d7c-4b3a-99d5-63fcd5a4be1b"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "f6c457c6-83dc-486d-bb38-f2bb3f8bec51"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Jawa Barat"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Jawa Barat"
 Languages:
 - Language: en
   Versions:

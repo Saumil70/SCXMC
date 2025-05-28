@@ -1,8 +1,8 @@
 ﻿---
-ID: "d8ee2b78-8faf-44d1-9df7-340c2918dd2f"
-Parent: "555b4296-66bd-4741-90f1-8b73b1554a77"
+ID: "e0e3d351-0069-4890-8c46-9388d79dc01c"
+Parent: "17a3c85d-64dc-40ee-8295-7acd98285206"
 Template: "a58162c7-9343-4456-aeb9-085a45b83454"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Product Feature/Page Components/Topic"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Product Feature/Page Components/Topic"
 BranchID: "570be036-290e-4e39-a6a1-19b42b429d7b"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"

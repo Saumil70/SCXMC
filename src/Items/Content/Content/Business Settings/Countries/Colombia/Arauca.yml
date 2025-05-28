@@ -1,8 +1,8 @@
 ﻿---
-ID: "689b2199-cfbe-4b12-998e-08eb843450b9"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "6a4db9f4-7f79-45cd-a2f8-79e0bea4e5f2"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Arauca"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Arauca"
 Languages:
 - Language: en
   Versions:

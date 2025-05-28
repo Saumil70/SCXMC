@@ -1,8 +1,8 @@
 ﻿---
-ID: "20282ade-4f6d-4523-ae22-0df193c1e7d7"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "c23c4a8c-9fc3-43ae-a5b3-59c007bae427"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Toledo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Toledo"
 Languages:
 - Language: en
   Versions:

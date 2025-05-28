@@ -1,8 +1,8 @@
 ﻿---
-ID: "e13c2c1f-c06e-4769-b3d1-0c6e81685349"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "b691008f-34bf-4700-b9ad-a4688295f936"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Agusan del Norte"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Agusan del Norte"
 Languages:
 - Language: en
   Versions:

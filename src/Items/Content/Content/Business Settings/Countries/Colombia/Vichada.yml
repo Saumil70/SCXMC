@@ -1,8 +1,8 @@
 ﻿---
-ID: "d07dfc48-2230-44f4-bb58-696b8a2fac9e"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "865fafa8-ab56-4050-8e0a-f828c20fa147"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Vichada"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Vichada"
 Languages:
 - Language: en
   Versions:

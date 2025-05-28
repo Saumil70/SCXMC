@@ -1,8 +1,8 @@
 ﻿---
-ID: "01d23d63-bee5-4949-afd5-259fa5f1efc3"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "d7b8517d-e97a-4251-a2bf-d09a98a7945e"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Hordaland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Hordaland"
 Languages:
 - Language: en
   Versions:

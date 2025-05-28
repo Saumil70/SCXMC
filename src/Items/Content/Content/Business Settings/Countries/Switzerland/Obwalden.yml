@@ -1,8 +1,8 @@
 ﻿---
-ID: "c4cf1db3-da30-4e0f-83e6-27664e44d5f9"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "bc4320e5-b6c9-4287-808a-ddeb9ba768b3"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Obwalden"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Obwalden"
 Languages:
 - Language: en
   Versions:

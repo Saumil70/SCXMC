@@ -1,8 +1,8 @@
 ﻿---
-ID: "01de8e80-8f40-4d63-b3dc-3aa6c22ad05d"
-Parent: "04bad27e-4b3b-4517-ad58-819fe18b40a7"
+ID: "ae3895a8-916b-4c9f-a04a-b21e9e0b3928"
+Parent: "fadc0a97-602e-4032-bcac-a92411e1221c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Iceland/Austurland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Iceland/Austurland"
 Languages:
 - Language: en
   Versions:

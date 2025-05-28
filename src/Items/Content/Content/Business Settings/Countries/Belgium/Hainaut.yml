@@ -1,8 +1,8 @@
 ﻿---
-ID: "dc8f0d55-2824-4940-a8f2-cd7a67bb6b86"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "7bae1a2c-241d-4689-8599-41829859ad28"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Hainaut"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Hainaut"
 Languages:
 - Language: en
   Versions:

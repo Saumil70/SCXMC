@@ -1,8 +1,8 @@
 ﻿---
-ID: "c2e82d1c-bfbf-489e-be02-44ec035e4e9e"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "fc21e130-5766-428f-84b1-b1a26780b3b3"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Taupo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Taupo"
 Languages:
 - Language: en
   Versions:

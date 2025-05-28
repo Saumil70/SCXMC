@@ -1,8 +1,8 @@
 ﻿---
-ID: "c54709f3-60fe-4e26-a6c6-ed71293a082d"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "36a95d52-9182-4a34-9333-80b49f3c9ed9"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/Northern Cape"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/Northern Cape"
 Languages:
 - Language: en
   Versions:

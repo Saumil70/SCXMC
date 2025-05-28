@@ -1,8 +1,8 @@
 ﻿---
-ID: "c67b98bf-d6e0-4188-90f5-ed4cd467662b"
-Parent: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
+ID: "4a5eeec9-b58c-462e-8758-de4d79a45020"
+Parent: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco/Mohammedia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco/Mohammedia"
 Languages:
 - Language: en
   Versions:

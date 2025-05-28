@@ -1,8 +1,8 @@
 ﻿---
-ID: "fdb5f386-c5cd-4d35-8e7b-a4b1f4c12065"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "2d4fc8fc-dc6a-4f2c-a3d5-63a8552745bb"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Sarawak"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Sarawak"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "9fdbf180-430b-4e8c-8b21-4d15f1584885"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "1486bfec-2b25-4c3e-a642-7e4fdb2ec749"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Neuquen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Neuquen"
 Languages:
 - Language: en
   Versions:

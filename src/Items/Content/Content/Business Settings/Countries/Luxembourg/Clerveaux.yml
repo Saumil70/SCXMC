@@ -1,8 +1,8 @@
 ﻿---
-ID: "8ad47d30-1ec9-4817-9058-11a9df575aa4"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "4996bfd8-c1fc-4a17-97de-5df42ba3754c"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Clerveaux"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Clerveaux"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "4fed886a-79f9-4cc3-a8b1-568525723fe0"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "ebfbf172-304c-450e-b708-7a64760e3b70"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Val de Marne"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Val de Marne"
 Languages:
 - Language: en
   Versions:

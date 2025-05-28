@@ -1,8 +1,8 @@
 ﻿---
-ID: "4636ac13-b24a-4d2f-a8d2-153b49592e3a"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "cbce25e8-336d-4d33-b191-67f71f712311"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/King Country"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/King Country"
 Languages:
 - Language: en
   Versions:

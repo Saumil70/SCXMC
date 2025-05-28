@@ -1,8 +1,8 @@
 ﻿---
-ID: "f143ad0b-da26-4f56-ab4c-52f8997c4962"
-Parent: "a0c07aed-1263-4c98-bb0b-2d143d0c35c0"
+ID: "e3f8f332-9714-447c-8a08-ef7e24a21bfe"
+Parent: "d7f80ea3-fcf3-4062-9cf6-3374d612cf86"
 Template: "49bb78df-c027-49fe-8258-f357cf000d18"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Overview/Page Components/Key Features/tax calculation and exemption rules per store"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Overview/Page Components/Key Features/tax calculation and exemption rules per store"
 Languages:
 - Language: en
   Versions:

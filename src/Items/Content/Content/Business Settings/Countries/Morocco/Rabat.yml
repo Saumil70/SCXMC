@@ -1,8 +1,8 @@
 ﻿---
-ID: "70125f1f-83b8-4ed3-8129-7442c137a42e"
-Parent: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
+ID: "c215578b-dc20-49d9-8de2-38e4179572ea"
+Parent: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco/Rabat"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco/Rabat"
 Languages:
 - Language: en
   Versions:

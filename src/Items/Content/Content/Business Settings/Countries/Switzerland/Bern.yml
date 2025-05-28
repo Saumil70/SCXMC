@@ -1,8 +1,8 @@
 ﻿---
-ID: "c013fc44-b646-4775-ace2-00798521724b"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "747a7ed0-ec80-4b01-af0d-63995f775467"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Bern"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Bern"
 Languages:
 - Language: en
   Versions:

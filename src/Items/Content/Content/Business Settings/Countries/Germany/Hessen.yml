@@ -1,8 +1,8 @@
 ﻿---
-ID: "50d43685-96a7-4538-a787-e43dfcc5ed9b"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "c9cb35da-c72a-4a7d-a584-9631b856d533"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Hessen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Hessen"
 Languages:
 - Language: en
   Versions:

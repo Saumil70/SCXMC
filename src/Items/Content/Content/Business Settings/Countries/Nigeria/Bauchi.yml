@@ -1,8 +1,8 @@
 ﻿---
-ID: "dbb4d301-276e-47b8-b98c-f6d3d45313a4"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "986305b2-15b9-4551-9ffd-5469f2bab2b0"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Bauchi"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Bauchi"
 Languages:
 - Language: en
   Versions:

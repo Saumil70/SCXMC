@@ -1,8 +1,8 @@
 ﻿---
-ID: "e1ce6edd-cbfd-4756-9beb-a53708f22172"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "78517824-9180-4512-802b-7fa19eb0d571"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Schleswig-Holstein"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Schleswig-Holstein"
 Languages:
 - Language: en
   Versions:

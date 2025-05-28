@@ -1,8 +1,8 @@
 ﻿---
-ID: "556311dd-cf68-4eca-bb7d-bf922e7082f4"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "18e23176-5e52-4afa-98a7-6da41b4428c1"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Vizcaya"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Vizcaya"
 Languages:
 - Language: en
   Versions:

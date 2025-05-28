@@ -1,8 +1,8 @@
 ﻿---
-ID: "a49bb8a5-6ac2-4563-82ac-9a727639405c"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "e99a9ea5-e2fe-40e0-9cb0-5cf21b1baa87"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Surrey"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Surrey"
 Languages:
 - Language: en
   Versions:

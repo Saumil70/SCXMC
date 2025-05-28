@@ -1,8 +1,8 @@
 ﻿---
-ID: "8a96186e-3a80-4ce7-8063-79bd6e87fdd5"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "97cc23c3-ed3a-45f6-b6a4-976db29c8d4b"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Cordoba"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Cordoba"
 Languages:
 - Language: en
   Versions:

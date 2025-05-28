@@ -1,8 +1,8 @@
 ﻿---
-ID: "2f1c8864-89c5-4d00-9ec1-54972ee78886"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "97e11cf5-7b8c-46c0-98db-a3eac02e3a6b"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Guinea"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Guinea"
 Languages:
 - Language: en
   Versions:

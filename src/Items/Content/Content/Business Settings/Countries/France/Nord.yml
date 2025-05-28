@@ -1,8 +1,8 @@
 ﻿---
-ID: "55c50464-033e-43b0-9a42-a0931daca440"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "3161465f-0798-4a35-98c3-9df96b07052f"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Nord"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Nord"
 Languages:
 - Language: en
   Versions:

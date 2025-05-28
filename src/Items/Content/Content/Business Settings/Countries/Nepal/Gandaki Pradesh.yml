@@ -1,8 +1,8 @@
 ﻿---
-ID: "b29763f5-8afc-4f15-a8fa-4eb041e0754c"
-Parent: "1715624b-52c4-4755-be29-fae458dc620b"
+ID: "e535a8d6-5667-43fc-83b1-c49b9a3ac1ed"
+Parent: "48aa15e8-03e4-4718-99a6-d5c05681ee7e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nepal/Gandaki Pradesh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nepal/Gandaki Pradesh"
 Languages:
 - Language: en
   Versions:

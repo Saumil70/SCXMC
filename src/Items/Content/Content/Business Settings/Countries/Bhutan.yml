@@ -1,8 +1,8 @@
 ﻿---
-ID: "9f950b21-1c2a-40ae-bda0-34d652aa1f50"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "26573355-c62f-4976-9c65-73f2c1b95bf9"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bhutan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bhutan"
 Languages:
 - Language: en
   Versions:

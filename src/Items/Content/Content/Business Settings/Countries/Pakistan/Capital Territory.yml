@@ -1,8 +1,8 @@
 ﻿---
-ID: "cec454aa-2e0b-4ae2-b9d7-7d010d808370"
-Parent: "fd886250-271f-4595-bae2-ba8465531c5c"
+ID: "12490cd8-1012-4ebc-a00c-7d57e7c949bb"
+Parent: "cd7ffadb-f880-4a5a-ab42-9b9adddecec3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Pakistan/Capital Territory"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Pakistan/Capital Territory"
 Languages:
 - Language: en
   Versions:

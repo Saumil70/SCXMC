@@ -1,8 +1,8 @@
 ﻿---
-ID: "3cec468d-736a-4196-910c-6b37e1db8519"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "1021e4bd-123b-4871-bea5-5c71f39510d0"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Rize"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Rize"
 Languages:
 - Language: en
   Versions:

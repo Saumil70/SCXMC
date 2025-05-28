@@ -1,8 +1,8 @@
 ﻿---
-ID: "0f45e380-7ef0-42b2-be32-6c13c824c8f0"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "c6b448db-8cf3-40da-b7b2-4a266b9f6795"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Asyut"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Asyut"
 Languages:
 - Language: en
   Versions:

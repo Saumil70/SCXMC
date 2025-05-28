@@ -1,8 +1,8 @@
 ﻿---
-ID: "0762e9ad-c5a8-4024-8995-85753fbb062a"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "a0cf20ba-8e07-4a79-94e2-1eb79d3cf04b"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Hunedoara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Hunedoara"
 Languages:
 - Language: en
   Versions:

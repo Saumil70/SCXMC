@@ -1,8 +1,8 @@
 ﻿---
-ID: "0b2e961b-94f3-410b-8bda-191251cdf98b"
-Parent: "a8376828-2ea4-419c-9024-8b4e288c931d"
+ID: "4a1543c1-eb18-49ae-bd56-d01292be0ac5"
+Parent: "c9309ce8-0cb2-4c6e-a228-84a0f2238808"
 Template: "24762cd3-7a83-467e-9e97-13afe816843a"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Currencies"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Currencies"
 Languages:
 - Language: en
   Versions:

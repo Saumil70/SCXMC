@@ -1,8 +1,8 @@
 ﻿---
-ID: "f531dc5e-55ce-452f-95e2-3ff87a3ec5b2"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "107affe8-c3ee-4776-be3c-4b8246dd2c6b"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Las Tunas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Las Tunas"
 Languages:
 - Language: en
   Versions:

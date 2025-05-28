@@ -1,8 +1,8 @@
 ﻿---
-ID: "ca7f6d7b-9ae0-4ab0-b6f7-267cbd92feeb"
-Parent: "f2663c2e-a4d9-4a43-983a-d7d092358344"
+ID: "36a6933b-b35e-40c7-aeeb-b5e4c3130c01"
+Parent: "25a6f27a-aea1-4862-a17b-dc22e8638111"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Return Order/Select Reason"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Return Order/Select Reason"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "332c96ee-63ff-436c-84de-8fecd4db4344"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "8624b607-e9fe-4333-8722-d4363bc913c9"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Zamafara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Zamafara"
 Languages:
 - Language: en
   Versions:

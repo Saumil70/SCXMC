@@ -1,8 +1,8 @@
 ﻿---
-ID: "15bba568-ea76-4984-9c82-d1743e340b90"
-Parent: "cb1fb002-53d3-4d25-a340-c2b89f5a4c97"
+ID: "95c53a25-7f39-44f3-9527-ea7e6d45b7ea"
+Parent: "2b9f2b72-d777-45de-a7a9-ce11b5e9d0bf"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Wishlist/Empty wishlist"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Wishlist/Empty wishlist"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "98fcf7fd-0351-4cb8-b0e4-8c7e0cef47a1"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "5609fe0c-d512-4767-80a7-0318a1484b35"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Somme"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Somme"
 Languages:
 - Language: en
   Versions:

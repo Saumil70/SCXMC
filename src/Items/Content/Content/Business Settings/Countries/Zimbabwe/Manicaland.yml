@@ -1,8 +1,8 @@
 ﻿---
-ID: "7a1e104b-7817-4718-a06d-f7cbd61cc77e"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "a6cd85e5-6cb0-4322-b082-2ffced763674"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Manicaland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Manicaland"
 Languages:
 - Language: en
   Versions:

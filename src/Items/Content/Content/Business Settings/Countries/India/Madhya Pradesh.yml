@@ -1,8 +1,8 @@
 ﻿---
-ID: "2a30cd2a-bec3-431f-ab6e-35109182311a"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "5154629c-1389-47d2-9e1c-988dc74cadd1"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Madhya Pradesh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Madhya Pradesh"
 Languages:
 - Language: en
   Versions:

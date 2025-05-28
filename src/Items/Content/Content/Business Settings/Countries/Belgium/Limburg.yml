@@ -1,8 +1,8 @@
 ﻿---
-ID: "a578d84c-d90b-42e9-ac29-4d77cd68bf22"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "09a7383a-b003-4002-ba08-aac79bc8b87a"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Limburg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Limburg"
 Languages:
 - Language: en
   Versions:

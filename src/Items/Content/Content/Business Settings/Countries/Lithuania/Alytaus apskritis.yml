@@ -1,8 +1,8 @@
 ﻿---
-ID: "c86d3786-5142-4122-86bc-2803d8f90663"
-Parent: "b086aa6c-507c-44c1-9c2f-0dcffb277b60"
+ID: "cfb5977e-8388-4c93-8ee9-2c8ef4454190"
+Parent: "d115c217-b9a6-4b22-81eb-5353db0ebbad"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Lithuania/Alytaus apskritis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Lithuania/Alytaus apskritis"
 Languages:
 - Language: en
   Versions:

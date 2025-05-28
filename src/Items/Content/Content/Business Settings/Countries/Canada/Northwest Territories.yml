@@ -1,8 +1,8 @@
 ﻿---
-ID: "96d68293-40af-4ea1-bd22-c85139301fc4"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "9f60193c-88a4-41e2-ba75-feb0a70bdbf2"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Northwest Territories"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Northwest Territories"
 Languages:
 - Language: en
   Versions:

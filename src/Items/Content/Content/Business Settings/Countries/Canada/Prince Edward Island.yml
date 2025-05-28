@@ -1,8 +1,8 @@
 ﻿---
-ID: "8647b5ef-ddd6-4ba7-bf11-e067c11b5f74"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "85a8f572-1cfa-4c63-81f0-d5e2c09bc433"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Prince Edward Island"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Prince Edward Island"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "dd7785d2-c03c-4345-91c8-95898a1e8f40"
-Parent: "0b646375-7f96-44ec-b13f-eaf473283536"
+ID: "d9646919-c94e-4c85-bbe2-3267cc783e64"
+Parent: "3be2326c-3e2c-4589-b1cb-b4ac2d84df14"
 Template: "bf57e65e-315b-403b-b0fb-7b09a9c12f42"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Specification Attributes/System unit/Memory/4 GB"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Specification Attributes/System unit/Memory/4 GB"
 Languages:
 - Language: en
   Versions:

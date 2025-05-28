@@ -1,8 +1,8 @@
 ﻿---
-ID: "6d197eda-96fa-477b-9be3-de83bd8bdd51"
-Parent: "f2b5fe7a-4526-46f9-8cc1-cd7e7412e9c2"
+ID: "7a66a17b-d7ab-444f-880a-5b4dc39c5c63"
+Parent: "a9b7e6ee-0993-485a-a74b-f80eff2cdeb3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Poland/Zachodniopomorskie"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Poland/Zachodniopomorskie"
 Languages:
 - Language: en
   Versions:

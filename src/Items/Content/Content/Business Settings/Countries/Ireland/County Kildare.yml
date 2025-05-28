@@ -1,8 +1,8 @@
 ﻿---
-ID: "4e31e6d0-ddc4-4ce5-b6ef-faecb604678f"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "38b8a1ff-89d6-46e2-a75e-5cf8ce503497"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Kildare"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Kildare"
 Languages:
 - Language: en
   Versions:

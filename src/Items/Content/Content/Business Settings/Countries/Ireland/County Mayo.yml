@@ -1,8 +1,8 @@
 ﻿---
-ID: "6e16a737-5fec-4a98-adb5-9910a77df3ee"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "e486ff18-ff2d-48a6-a6b5-dd902b6480fe"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Mayo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Mayo"
 Languages:
 - Language: en
   Versions:

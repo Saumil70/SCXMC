@@ -1,8 +1,8 @@
 ﻿---
-ID: "1dfa9f4e-79a1-463f-8271-9e10293c849a"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "8aa1e91f-df75-438f-bfc2-87b95fb90979"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Padova"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Padova"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "2dad6f47-aafe-481e-bb4f-8841d1b54c48"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "b439e7af-6973-455b-be13-5af079a7497e"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Cauca"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Cauca"
 Languages:
 - Language: en
   Versions:

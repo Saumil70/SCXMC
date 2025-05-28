@@ -1,8 +1,8 @@
 ﻿---
-ID: "1ff6994e-a7a0-463e-8a32-a09acfdfb9fc"
-Parent: "fcd7c541-cb2e-43c6-bc98-d33b5fbc9fbc"
+ID: "1e885597-aaf6-4dbd-b772-f0e27174e027"
+Parent: "fe86ed54-3c82-4266-a595-2d2ea2591d47"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Estonia/Raplamaa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Estonia/Raplamaa"
 Languages:
 - Language: en
   Versions:

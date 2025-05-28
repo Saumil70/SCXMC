@@ -1,8 +1,8 @@
 ﻿---
-ID: "311911ad-8e65-49fc-8850-2cb8fdcd7e40"
-Parent: "fcd7c541-cb2e-43c6-bc98-d33b5fbc9fbc"
+ID: "20e66ceb-d900-433a-84c9-d3227a198837"
+Parent: "fe86ed54-3c82-4266-a595-2d2ea2591d47"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Estonia/Hiiumaa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Estonia/Hiiumaa"
 Languages:
 - Language: en
   Versions:

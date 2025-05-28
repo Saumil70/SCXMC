@@ -1,8 +1,8 @@
 ﻿---
-ID: "d7df21f7-eaf0-4248-9fa4-484a1c5f3648"
-Parent: "a4226bc2-72c9-49b7-811c-321edb21c633"
+ID: "89231fc2-2252-4404-93dd-2f02ffbcf19b"
+Parent: "e7d207ab-9f25-4547-bcd3-941b106d45af"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Croatia/Vukovarsko-srijemska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Croatia/Vukovarsko-srijemska"
 Languages:
 - Language: en
   Versions:

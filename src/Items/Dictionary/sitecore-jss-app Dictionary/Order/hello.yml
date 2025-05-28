@@ -1,8 +1,8 @@
 ﻿---
-ID: "772f1082-b7f7-452f-872e-baf89b68770f"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "fde112c9-1f9a-4565-8536-cd974fb3bca8"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/hello"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/hello"
 Languages:
 - Language: en
   Versions:
@@ -11,3 +11,13 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: "20240328T105733:638472202538469394Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "832d4e8d-3d30-4128-97e7-a433ca3269ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tilak.sheta@sourceved.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250528T105322Z

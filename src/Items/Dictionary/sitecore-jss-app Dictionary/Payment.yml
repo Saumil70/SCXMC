@@ -1,8 +1,8 @@
 ﻿---
-ID: "35fb448e-9e96-41fd-9032-eb7cc4c9d8a9"
-Parent: "037e0c1b-7448-52b2-a58e-782201b96286"
+ID: "6b4eecfc-701e-4fda-8fbf-ae23239a90cf"
+Parent: "3a31506f-f946-47d4-8428-72ee1a6fee82"
 Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Payment"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Payment"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d0a60c0-744e-494b-bf6d-434969f71af2"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "f1f6e5d9-5092-420f-968c-08ff6fba051f"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Zamboanga Sibugay"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Zamboanga Sibugay"
 Languages:
 - Language: en
   Versions:

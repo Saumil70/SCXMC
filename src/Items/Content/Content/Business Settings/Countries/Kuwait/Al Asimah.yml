@@ -1,8 +1,8 @@
 ﻿---
-ID: "6ba28e92-7c28-4991-9abf-be28d72ec708"
-Parent: "39b42163-1248-48ab-a9ba-9ac01e3587f9"
+ID: "80caca50-1dc9-4471-9180-478b656eddaf"
+Parent: "363bc0fc-d9f5-4bee-aedd-dcc553f45a62"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Kuwait/Al Asimah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Kuwait/Al Asimah"
 Languages:
 - Language: en
   Versions:

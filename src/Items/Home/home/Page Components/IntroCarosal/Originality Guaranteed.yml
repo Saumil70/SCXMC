@@ -1,8 +1,8 @@
 ﻿---
-ID: "d9bbaf74-2c47-4410-ae4a-fedbcb19766e"
-Parent: "5d5baacf-43fc-44c9-a93f-b56875f180c1"
+ID: "723d28c2-69bb-4f89-8065-b462f11a0429"
+Parent: "7054d652-a383-4c28-999f-8977669104c7"
 Template: "29b911bb-fe6e-4ac5-9916-b59b2cc2d262"
-Path: "/sitecore/content/sitecore-jss-app/home/Page Components/IntroCarosal/Originality Guaranteed"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/Page Components/IntroCarosal/Originality Guaranteed"
 Languages:
 - Language: en
   Versions:

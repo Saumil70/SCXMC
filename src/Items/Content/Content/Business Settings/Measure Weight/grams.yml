@@ -1,8 +1,8 @@
 ﻿---
-ID: "7a6a34cc-1d99-4a56-908c-ff3053752f8a"
-Parent: "da282a63-e03f-47d1-b4f7-c4a7840a95f8"
+ID: "c50649c3-a1ce-4da0-a45e-af622dcd53ef"
+Parent: "1c19b64f-1319-4c10-a9d1-9a1c29473579"
 Template: "a8c3ce2f-3d65-4049-bd23-890b6ae1b4df"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Weight/grams"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Weight/grams"
 Languages:
 - Language: en
   Versions:

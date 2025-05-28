@@ -1,8 +1,8 @@
 ﻿---
-ID: "aa00b619-4c49-40a8-bae2-73aed3deb684"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "ef4d8936-d27e-4876-b63d-43b7f30e4650"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Leiria"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Leiria"
 Languages:
 - Language: en
   Versions:

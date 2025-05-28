@@ -1,8 +1,8 @@
 ﻿---
-ID: "5cdc1aea-a084-4959-bc5a-589f9a4eade5"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "929c5dc1-7823-40c6-bbf9-7fafb193d41e"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Taraba"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Taraba"
 Languages:
 - Language: en
   Versions:

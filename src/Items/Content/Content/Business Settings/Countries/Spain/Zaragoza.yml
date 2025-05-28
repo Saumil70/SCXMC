@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0fd9fdd-b58a-4f77-a054-03c665906429"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "65fb6d4b-0692-4367-ba13-9417b0b75a61"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Zaragoza"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Zaragoza"
 Languages:
 - Language: en
   Versions:

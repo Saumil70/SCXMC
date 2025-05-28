@@ -1,8 +1,8 @@
 ﻿---
-ID: "5a73c1df-8740-4c99-9b42-f2b573f4e1bd"
-Parent: "137391fd-25ac-4884-abf7-a9d1498af3e1"
+ID: "9a4c9c38-4e8c-4691-b4f4-0efc65f78b1e"
+Parent: "5f76ff65-aad6-4a82-b258-ab41db2cc582"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Costa Rica/Heredia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Costa Rica/Heredia"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "a8c0c5dc-0c80-4a07-bae8-d049ade0e822"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "136be9f6-559f-4abf-979b-8c1a23cb7023"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Valladolid"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Valladolid"
 Languages:
 - Language: en
   Versions:

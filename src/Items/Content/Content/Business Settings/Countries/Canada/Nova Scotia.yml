@@ -1,8 +1,8 @@
 ﻿---
-ID: "4e31b40e-2a31-46d0-88ba-7f61c60b410e"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "b93d8ad3-8025-49b1-be6d-6f937084b14d"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Nova Scotia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Nova Scotia"
 Languages:
 - Language: en
   Versions:

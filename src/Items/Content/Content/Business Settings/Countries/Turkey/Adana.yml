@@ -1,8 +1,8 @@
 ﻿---
-ID: "610d05b3-9c0b-4967-b3e4-d4de753d0e01"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "e9b3aa22-d1ab-4137-9136-38742ee196dc"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Adana"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Adana"
 Languages:
 - Language: en
   Versions:

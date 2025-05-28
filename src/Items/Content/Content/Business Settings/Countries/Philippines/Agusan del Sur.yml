@@ -1,8 +1,8 @@
 ﻿---
-ID: "ac177b8c-b29c-46cf-8f62-53ededd03e62"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "f236d6f5-bb2c-4ccc-b7b3-4a7cfc44e1c4"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Agusan del Sur"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Agusan del Sur"
 Languages:
 - Language: en
   Versions:

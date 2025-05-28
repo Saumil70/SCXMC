@@ -1,8 +1,8 @@
 ﻿---
-ID: "8307a87f-10c1-4893-9518-79b8ccc52cbb"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "db220a3f-5ef9-4ed8-9890-11966cd82529"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Denizli"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Denizli"
 Languages:
 - Language: en
   Versions:

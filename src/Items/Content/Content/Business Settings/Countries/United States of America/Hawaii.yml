@@ -1,8 +1,8 @@
 ﻿---
-ID: "edaca41e-69ce-4d53-a2bd-8d142285d305"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "d661cc62-9a1d-48e6-b020-ada4ddc75d48"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Hawaii"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Hawaii"
 Languages:
 - Language: en
   Versions:

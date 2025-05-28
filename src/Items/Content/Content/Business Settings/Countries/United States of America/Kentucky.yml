@@ -1,8 +1,8 @@
 ﻿---
-ID: "e086deb9-e318-4d1f-84f3-98f5c6d679f6"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "8eabd61d-ca9e-4d70-8f10-a6954609da90"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Kentucky"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Kentucky"
 Languages:
 - Language: en
   Versions:

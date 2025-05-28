@@ -1,8 +1,8 @@
 ﻿---
-ID: "7d31e1d2-8558-414f-bb27-756581c9bd7d"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "063a40fd-43e1-4bd5-870e-d1b82cc9d47f"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Highland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Highland"
 Languages:
 - Language: en
   Versions:

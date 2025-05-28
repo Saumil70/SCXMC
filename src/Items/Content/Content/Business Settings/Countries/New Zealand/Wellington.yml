@@ -1,8 +1,8 @@
 ﻿---
-ID: "1a3ed77a-9052-42fe-873d-0c6aaa52b683"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "1674bde7-ad0f-45cd-95fb-1690cd29a658"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Wellington"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Wellington"
 Languages:
 - Language: en
   Versions:

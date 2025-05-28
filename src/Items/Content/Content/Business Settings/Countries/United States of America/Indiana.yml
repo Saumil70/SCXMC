@@ -1,8 +1,8 @@
 ﻿---
-ID: "b54466ad-9573-4128-81ff-f3e0e7bb1a02"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "847edfdf-0466-4e32-ba07-de79c6c45916"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Indiana"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Indiana"
 Languages:
 - Language: en
   Versions:

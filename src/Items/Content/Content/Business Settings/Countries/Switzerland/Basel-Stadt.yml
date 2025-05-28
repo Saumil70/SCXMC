@@ -1,8 +1,8 @@
 ﻿---
-ID: "8e8ae236-2ebb-40a4-9a4d-9ae8bee9627d"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "6ad6397f-40ef-42b9-8e34-c7c6f7674952"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Basel-Stadt"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Basel-Stadt"
 Languages:
 - Language: en
   Versions:

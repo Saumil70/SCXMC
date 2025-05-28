@@ -1,8 +1,8 @@
 ﻿---
-ID: "3901f4a5-f514-49e8-9ea9-8a14915285b0"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "16071cfd-52df-4970-a363-cfa2b610008e"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Anambra"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Anambra"
 Languages:
 - Language: en
   Versions:

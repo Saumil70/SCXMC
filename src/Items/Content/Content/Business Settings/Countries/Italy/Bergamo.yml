@@ -1,8 +1,8 @@
 ﻿---
-ID: "8f6e435f-4b7c-4353-9edd-13bf20abd5da"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "227b8650-a03d-4a23-8097-9fa22943cc67"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Bergamo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Bergamo"
 Languages:
 - Language: en
   Versions:

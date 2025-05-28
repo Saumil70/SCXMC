@@ -1,8 +1,8 @@
 ﻿---
-ID: "0108a09c-a1dd-403d-a855-7086e37f16d8"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "962857b1-197b-46dd-93b1-7adeac339d7d"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Asir"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Asir"
 Languages:
 - Language: en
   Versions:

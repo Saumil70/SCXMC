@@ -1,8 +1,8 @@
 ﻿---
-ID: "76a4c34a-7872-4bd8-ad88-4abfbe77a158"
-Parent: "39b42163-1248-48ab-a9ba-9ac01e3587f9"
+ID: "73734240-885e-475f-bbea-abd59859eafe"
+Parent: "363bc0fc-d9f5-4bee-aedd-dcc553f45a62"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Kuwait/Mubarak Al Kabeer"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Kuwait/Mubarak Al Kabeer"
 Languages:
 - Language: en
   Versions:

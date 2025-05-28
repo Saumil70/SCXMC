@@ -1,8 +1,8 @@
 ﻿---
-ID: "0005908f-bdbb-4bdf-b5aa-5216cceb0ce4"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "3b6f7b80-c97d-450c-b40f-479bb1280d28"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Federated States of Micronesia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Federated States of Micronesia"
 Languages:
 - Language: en
   Versions:

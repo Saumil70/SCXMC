@@ -1,8 +1,8 @@
 ﻿---
-ID: "e73d7b4c-0264-4467-a39a-d4f6aeb9a7ce"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "637036b3-d833-4d15-85b2-3530eb3cd01d"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Rhondda Cynon Taff"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Rhondda Cynon Taff"
 Languages:
 - Language: en
   Versions:

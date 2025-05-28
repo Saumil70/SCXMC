@@ -1,8 +1,8 @@
 ﻿---
-ID: "27ae1141-a28e-4c4a-af1a-85cea26857e5"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "152872b7-0804-4e8c-913e-a1e6375725e4"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cook Islands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cook Islands"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "13523d37-c2b8-4358-8508-6dbb8868abb4"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "549494d3-71bc-4140-9f70-e76a2c12a5b1"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Tarragona"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Tarragona"
 Languages:
 - Language: en
   Versions:

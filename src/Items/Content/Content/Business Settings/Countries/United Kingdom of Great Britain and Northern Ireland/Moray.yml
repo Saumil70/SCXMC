@@ -1,8 +1,8 @@
 ﻿---
-ID: "9fca9946-956d-4a09-9e20-6c3e20975292"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "4186129b-4b1a-461b-90f0-03e48e9bac33"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Moray"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Moray"
 Languages:
 - Language: en
   Versions:

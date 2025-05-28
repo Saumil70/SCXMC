@@ -1,8 +1,8 @@
 ﻿---
-ID: "e3bfb28b-01a8-4ebb-b31a-7dd559fb6932"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "17e28f1c-2acf-452a-abdb-6548549b8319"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Wrexham"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Wrexham"
 Languages:
 - Language: en
   Versions:

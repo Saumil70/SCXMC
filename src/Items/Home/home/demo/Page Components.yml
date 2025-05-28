@@ -1,8 +1,8 @@
 ﻿---
-ID: "77d93fdb-0495-4b20-9882-6422546b99fe"
-Parent: "0dcccdef-fc1a-417c-8f43-362f3f0aa856"
+ID: "dd518613-3f25-406b-b893-be46b0502616"
+Parent: "5b44d418-453f-469a-b0f7-e22c2346ddf3"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/sitecore-jss-app/home/demo/Page Components"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/demo/Page Components"
 Languages:
 - Language: en
   Versions:

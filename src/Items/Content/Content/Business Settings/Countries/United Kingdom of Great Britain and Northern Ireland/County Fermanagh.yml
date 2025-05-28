@@ -1,8 +1,8 @@
 ﻿---
-ID: "46141fd2-00f3-4ad8-b1cd-6e54bc1ecc64"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "ece66847-fb9c-48d8-996b-02ba2ae911b9"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Fermanagh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Fermanagh"
 Languages:
 - Language: en
   Versions:

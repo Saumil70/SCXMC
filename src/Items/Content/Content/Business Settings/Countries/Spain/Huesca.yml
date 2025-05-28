@@ -1,8 +1,8 @@
 ﻿---
-ID: "1ec91bd0-f68f-4cb8-b076-ec87e2bb9b6b"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "bc0d8bcf-a111-45bc-81a5-5a3394027c40"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Huesca"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Huesca"
 Languages:
 - Language: en
   Versions:

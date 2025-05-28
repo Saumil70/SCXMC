@@ -1,8 +1,8 @@
 ﻿---
-ID: "d0149842-578a-4a74-934e-0824c4a57693"
-Parent: "35fb448e-9e96-41fd-9032-eb7cc4c9d8a9"
+ID: "1fd4cd65-6fd8-490e-a407-16cbed5408b8"
+Parent: "6b4eecfc-701e-4fda-8fbf-ae23239a90cf"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Payment/Select CreditCard"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Payment/Select CreditCard"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

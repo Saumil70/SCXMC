@@ -1,8 +1,8 @@
 ﻿---
-ID: "404e163d-4c68-4a5d-a2af-455673ef4540"
-Parent: "61bee559-2317-4e6e-8065-64fff0003ad3"
+ID: "1167d268-f0aa-47d7-9713-4637c436a134"
+Parent: "5f617216-fe27-4788-86fa-80f706190841"
 Template: "16e5a984-4601-48d0-9bf0-357819d24722"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Sort settings/Price High to Low"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Sort settings/Price High to Low"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

@@ -1,8 +1,8 @@
 ﻿---
-ID: "e089e218-8433-4e48-8e4c-f3fb8cc6e250"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "e39c1488-ef17-41f2-bd63-02f3b1a44e4d"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Ilocos Norte"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Ilocos Norte"
 Languages:
 - Language: en
   Versions:

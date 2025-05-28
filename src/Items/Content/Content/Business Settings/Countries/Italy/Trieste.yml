@@ -1,8 +1,8 @@
 ﻿---
-ID: "f3c70f1a-d91b-48a0-82ca-4adb838c58e8"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "a8f17a7d-da6c-4971-8ade-e56ca90d41fd"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Trieste"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Trieste"
 Languages:
 - Language: en
   Versions:

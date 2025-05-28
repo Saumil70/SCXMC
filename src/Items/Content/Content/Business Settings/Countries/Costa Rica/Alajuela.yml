@@ -1,8 +1,8 @@
 ﻿---
-ID: "b7f24f8f-8914-4f27-9de9-7c50defd98cc"
-Parent: "137391fd-25ac-4884-abf7-a9d1498af3e1"
+ID: "b14b1c58-b31a-4809-8bfa-119964cfed22"
+Parent: "5f76ff65-aad6-4a82-b258-ab41db2cc582"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Costa Rica/Alajuela"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Costa Rica/Alajuela"
 Languages:
 - Language: en
   Versions:

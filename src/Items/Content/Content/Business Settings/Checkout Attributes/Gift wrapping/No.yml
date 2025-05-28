@@ -1,8 +1,8 @@
 ﻿---
-ID: "07dd31f0-5e5b-48d7-bb4d-a9350d5fb32f"
-Parent: "b804e207-a1a9-408a-b336-c835afe938f9"
+ID: "63c64776-6f28-4070-a4bf-7baaf3aff94f"
+Parent: "747f027c-fded-4b5f-ad77-05251057ebdf"
 Template: "a2eeb069-44b6-4a39-8a39-9c14d2864528"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Checkout Attributes/Gift wrapping/No"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Checkout Attributes/Gift wrapping/No"
 Languages:
 - Language: en
   Versions:

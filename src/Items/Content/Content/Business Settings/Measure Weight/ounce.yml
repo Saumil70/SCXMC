@@ -1,8 +1,8 @@
 ﻿---
-ID: "ad7e426b-203e-4d4c-a3fe-e96b5027e661"
-Parent: "da282a63-e03f-47d1-b4f7-c4a7840a95f8"
+ID: "6c4682fb-a192-4013-bbbc-95dc2e2ca258"
+Parent: "1c19b64f-1319-4c10-a9d1-9a1c29473579"
 Template: "a8c3ce2f-3d65-4049-bd23-890b6ae1b4df"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Weight/ounce"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Weight/ounce"
 Languages:
 - Language: en
   Versions:

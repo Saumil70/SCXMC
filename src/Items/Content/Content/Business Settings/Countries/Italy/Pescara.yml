@@ -1,8 +1,8 @@
 ﻿---
-ID: "75b2d4ce-ce05-47e8-b525-5404834dc627"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "2bd6fa26-16b4-4fcf-8472-de21f72b021f"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Pescara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Pescara"
 Languages:
 - Language: en
   Versions:

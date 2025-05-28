@@ -1,8 +1,8 @@
 ﻿---
-ID: "223891e7-b952-449e-917b-e50419203981"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "aaad917b-fbb5-4aec-821a-093e0a20a815"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Vratsa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Vratsa"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "ad2a48b9-5cad-4817-b527-c938bfdde21d"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "7036c615-250b-4cea-8afb-70a3c195fca3"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Kano"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Kano"
 Languages:
 - Language: en
   Versions:

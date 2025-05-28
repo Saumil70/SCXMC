@@ -1,8 +1,8 @@
 ﻿---
-ID: "69b9d065-1cc7-4eb5-b80f-d7ee351de9d0"
-Parent: "fa74a657-0eea-44a5-8469-7c1e413ef526"
+ID: "dfc56f30-5213-4369-9a86-2b030759aae0"
+Parent: "c7aa32ce-bcc9-4998-9b58-6a982e07dd2e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brunei Darussalam/Brunei-Muara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brunei Darussalam/Brunei-Muara"
 Languages:
 - Language: en
   Versions:

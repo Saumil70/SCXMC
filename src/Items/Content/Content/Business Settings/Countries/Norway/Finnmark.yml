@@ -1,8 +1,8 @@
 ﻿---
-ID: "9dc6a7d3-1ff2-4c5c-a50e-93efd8032d44"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "061e3132-dbed-40a1-a4ea-d1d18cc2a056"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Finnmark"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Finnmark"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "a4c0902c-32a2-4e0f-83cf-07ff2264319d"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "dfe77bdb-aa58-4432-9c62-0639987d19d9"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Nasarawa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Nasarawa"
 Languages:
 - Language: en
   Versions:

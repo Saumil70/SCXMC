@@ -1,8 +1,8 @@
 ﻿---
-ID: "f7321394-019e-49f1-a8ad-752dc1ac7fe3"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "a369b7da-28db-4c5f-a555-da70d5b77523"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Meta"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Meta"
 Languages:
 - Language: en
   Versions:

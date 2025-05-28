@@ -1,8 +1,8 @@
 ﻿---
-ID: "5917fd26-eef3-4b07-a34e-be9acda39038"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "dd32b0d5-3ae3-4035-b3b3-942428a7b96c"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Santa Catarina"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Santa Catarina"
 Languages:
 - Language: en
   Versions:

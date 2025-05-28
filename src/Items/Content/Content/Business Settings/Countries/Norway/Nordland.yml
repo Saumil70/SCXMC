@@ -1,8 +1,8 @@
 ﻿---
-ID: "00bcf40a-fb85-4786-8790-2e7f0022f585"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "a6af5bff-06dc-41b4-91ff-1cf43974f4c1"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Nordland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Nordland"
 Languages:
 - Language: en
   Versions:

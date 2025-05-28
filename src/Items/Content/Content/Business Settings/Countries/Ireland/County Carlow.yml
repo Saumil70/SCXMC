@@ -1,8 +1,8 @@
 ﻿---
-ID: "292f65b0-cd87-4532-8798-9c9f9f76bf14"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "8dac5dea-4964-4f30-855a-fcdf50a06c86"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Carlow"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Carlow"
 Languages:
 - Language: en
   Versions:

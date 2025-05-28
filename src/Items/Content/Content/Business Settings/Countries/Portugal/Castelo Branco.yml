@@ -1,8 +1,8 @@
 ﻿---
-ID: "445483ee-5072-4ba9-ab11-c7024065bbc3"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "8d561ed0-b43e-4c52-9f86-ab5a3805e5bb"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Castelo Branco"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Castelo Branco"
 Languages:
 - Language: en
   Versions:

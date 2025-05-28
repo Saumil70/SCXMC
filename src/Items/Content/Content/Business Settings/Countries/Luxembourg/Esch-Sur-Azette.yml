@@ -1,8 +1,8 @@
 ﻿---
-ID: "f5d2a50b-8538-4e5f-9ddb-2bcfa9f1cd73"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "68482bd0-f103-4ab3-b925-3effb512abbc"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Esch-Sur-Azette"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Esch-Sur-Azette"
 Languages:
 - Language: en
   Versions:

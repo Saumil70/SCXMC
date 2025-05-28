@@ -1,8 +1,8 @@
 ﻿---
-ID: "4bbf60b8-f9ee-4205-9923-b4948c07f008"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "d018ed22-2282-4e58-8b86-e8fdf0a73fcc"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Cienfuegos"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Cienfuegos"
 Languages:
 - Language: en
   Versions:

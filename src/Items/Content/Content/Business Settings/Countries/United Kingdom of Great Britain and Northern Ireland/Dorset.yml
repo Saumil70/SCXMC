@@ -1,8 +1,8 @@
 ﻿---
-ID: "4c24abf2-be4c-4bf4-abea-cd86b76e6d74"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "ebdb7f26-fc7b-4400-b1eb-4cc22dd429b1"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Dorset"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Dorset"
 Languages:
 - Language: en
   Versions:

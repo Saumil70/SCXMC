@@ -1,8 +1,8 @@
 ﻿---
-ID: "be794e15-12f3-4a43-8681-a743af0b1361"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "14f7a53e-b654-46a5-bb97-50785c81c01b"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Luxor"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Luxor"
 Languages:
 - Language: en
   Versions:

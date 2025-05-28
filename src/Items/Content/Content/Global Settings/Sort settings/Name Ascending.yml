@@ -1,8 +1,8 @@
 ﻿---
-ID: "726eb3b5-58ae-49da-84f8-b8823c1e2852"
-Parent: "61bee559-2317-4e6e-8065-64fff0003ad3"
+ID: "8e1b2ab0-02d9-40a1-95b4-52bb04e750d8"
+Parent: "5f617216-fe27-4788-86fa-80f706190841"
 Template: "16e5a984-4601-48d0-9bf0-357819d24722"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Sort settings/Name Ascending"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Sort settings/Name Ascending"
 Languages:
 - Language: en
   Versions:

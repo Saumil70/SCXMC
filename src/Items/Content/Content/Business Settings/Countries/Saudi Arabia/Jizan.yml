@@ -1,8 +1,8 @@
 ﻿---
-ID: "f26cff1a-d9f7-4820-b1dc-47961451093b"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "16f0c854-1975-4cc9-aa29-1292a0e20b8f"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Jizan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Jizan"
 Languages:
 - Language: en
   Versions:

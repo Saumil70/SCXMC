@@ -1,8 +1,8 @@
 ﻿---
-ID: "17f037d7-d1d9-4ad0-b324-5c0bf7f826a1"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "ef69ba68-1b43-45e7-95d8-64362a1312d4"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Date ready for pickup"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Date ready for pickup"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

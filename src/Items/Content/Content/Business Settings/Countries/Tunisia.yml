@@ -1,8 +1,8 @@
 ﻿---
-ID: "4e8ceb1c-be79-4fa0-a7d9-55e9eae12d19"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "134374ab-6ffe-45b1-9c05-a6fe815b65a0"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Tunisia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Tunisia"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "e0a560bf-4c99-415a-ad51-4e45decde4ea"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "59d6fb1d-62e9-4b9e-913f-de644096b523"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/KwaZulu-Natal"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/KwaZulu-Natal"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "e7ad6b95-7a51-4ac1-9b49-903aeeb634b3"
-Parent: "6e4d5838-bf80-473a-bb79-bb115eaf5683"
+ID: "c04e8383-9d5f-403f-97b9-b28a8338dc09"
+Parent: "2eb76e71-a864-40e5-ad10-bf0c85833836"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Serbia/Vojvodina"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Serbia/Vojvodina"
 Languages:
 - Language: en
   Versions:

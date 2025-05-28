@@ -1,8 +1,8 @@
 ﻿---
-ID: "9bb47ee2-c6d7-446f-b712-836010286b96"
-Parent: "30595d63-5aa3-4c35-b4c0-d41f794d2f4f"
+ID: "da3710f1-695c-45d6-acf3-19db371c2f7a"
+Parent: "2549c57f-e8dc-49f4-9fff-946ca9b9c2e1"
 Template: "bf57e65e-315b-403b-b0fb-7b09a9c12f42"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Specification Attributes/System unit/Hard drive/1 TB"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Specification Attributes/System unit/Hard drive/1 TB"
 Languages:
 - Language: en
   Versions:

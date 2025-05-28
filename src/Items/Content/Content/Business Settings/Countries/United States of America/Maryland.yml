@@ -1,8 +1,8 @@
 ﻿---
-ID: "59c71f2d-588c-4914-9542-5e9792b409e2"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "d6f87311-f14d-4073-9c6a-8136718e1697"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Maryland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Maryland"
 Languages:
 - Language: en
   Versions:

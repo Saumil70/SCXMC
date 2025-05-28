@@ -1,8 +1,8 @@
 ﻿---
-ID: "790a3e1f-979d-4a3d-974f-204dd81caa2e"
-Parent: "24685db7-a56a-40b6-a9b7-5db25687c4bb"
+ID: "0c95b851-520e-414f-9ecb-5edcffabed68"
+Parent: "db0d235c-46c3-4d70-bb60-4c9c431d63e3"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Search/Price"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Search/Price"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

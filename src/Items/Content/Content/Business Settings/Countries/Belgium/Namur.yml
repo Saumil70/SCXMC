@@ -1,8 +1,8 @@
 ﻿---
-ID: "fd57adb8-5cf3-4f1d-9cf7-9becdc0e52ae"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "60b8112e-778b-4c87-b4b5-c267f0beec90"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Namur"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Namur"
 Languages:
 - Language: en
   Versions:

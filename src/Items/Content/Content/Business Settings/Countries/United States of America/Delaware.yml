@@ -1,8 +1,8 @@
 ﻿---
-ID: "a348a0e7-1f3b-41f2-856e-d9e8127d6161"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "71ed56f7-2e70-4f6d-bd47-de40b130a7d0"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Delaware"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Delaware"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "42c31fb6-4f78-4e8a-af6a-620a5f432940"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "a30eb1e8-2652-42fe-84f6-30b460ae9f4e"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Cuenca"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Cuenca"
 Languages:
 - Language: en
   Versions:

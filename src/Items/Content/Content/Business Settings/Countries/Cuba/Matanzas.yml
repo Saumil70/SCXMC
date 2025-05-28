@@ -1,8 +1,8 @@
 ﻿---
-ID: "f1387c97-82ac-418d-9369-6f0a8e9c07c0"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "e62cf799-4ee0-40d1-ae57-14b002ced5b7"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Matanzas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Matanzas"
 Languages:
 - Language: en
   Versions:

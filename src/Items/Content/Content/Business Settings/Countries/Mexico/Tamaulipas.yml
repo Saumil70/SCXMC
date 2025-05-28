@@ -1,8 +1,8 @@
 ﻿---
-ID: "1d8ac4fd-16c5-4753-bd20-539bbc7ba9d1"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "08cf6616-1335-4d91-be0f-56784936c044"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Tamaulipas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Tamaulipas"
 Languages:
 - Language: en
   Versions:

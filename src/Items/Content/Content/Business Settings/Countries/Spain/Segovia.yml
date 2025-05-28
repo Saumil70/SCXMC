@@ -1,8 +1,8 @@
 ﻿---
-ID: "53557e1c-7037-4e1b-a1f6-f4efa1ec07d2"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "95fcdf6b-6510-4b18-af6d-293ebd70c53c"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Segovia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Segovia"
 Languages:
 - Language: en
   Versions:

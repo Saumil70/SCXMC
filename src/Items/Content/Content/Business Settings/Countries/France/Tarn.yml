@@ -1,8 +1,8 @@
 ﻿---
-ID: "26c55b9d-9ac5-442b-8899-82b8cde3e20f"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "52c7e86d-f33c-41ee-94d3-651723aba930"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Tarn"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Tarn"
 Languages:
 - Language: en
   Versions:

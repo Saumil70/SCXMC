@@ -1,8 +1,8 @@
 ﻿---
-ID: "cc50ee0b-728a-4cbb-8af5-6ea02f6f664e"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "1a3e18c4-766d-4c18-a563-2d0acdf63194"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Southland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Southland"
 Languages:
 - Language: en
   Versions:

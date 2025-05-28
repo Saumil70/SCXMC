@@ -1,8 +1,8 @@
 ﻿---
-ID: "627951eb-01aa-48ad-9589-9c82be244f7b"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "0873ab9f-69f2-437b-852e-906cc52054b6"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Indre et Loire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Indre et Loire"
 Languages:
 - Language: en
   Versions:

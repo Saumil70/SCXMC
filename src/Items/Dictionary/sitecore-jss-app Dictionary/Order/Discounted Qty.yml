@@ -1,8 +1,8 @@
 ﻿---
-ID: "7752d930-5bbf-4c66-a808-c449741ee8c8"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "9cb668aa-af81-4f36-825a-a32fdfa2159a"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Discounted Qty"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Discounted Qty"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "2860f7e7-7594-4e68-8387-812c81f26ea1"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "b0a8e0d8-d2e8-434f-b4ba-1f6bad42672e"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saint Lucia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saint Lucia"
 Languages:
 - Language: en
   Versions:

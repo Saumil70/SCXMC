@@ -1,8 +1,8 @@
 ﻿---
-ID: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "38fb4869-c61d-4b48-8b53-d5b4b7a5406d"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "0aa56761-01a5-417a-9eaa-20545ef5960f"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/VAT Number"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/VAT Number"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "08c9b791-a77f-44d0-999c-a6ba849e0156"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "8ab270b0-b7a3-4c92-ab6f-0b8c480cf246"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Kent"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Kent"
 Languages:
 - Language: en
   Versions:

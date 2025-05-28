@@ -1,8 +1,8 @@
 ﻿---
-ID: "6d6fe1dc-088d-4a06-a51c-b7455d83620e"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "4993caed-6ce9-4ad1-9ec6-210bf9ac64b8"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Sucre"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Sucre"
 Languages:
 - Language: en
   Versions:

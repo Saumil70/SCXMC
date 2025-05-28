@@ -1,8 +1,8 @@
 ﻿---
-ID: "06d1b0b2-3941-4f35-9296-3452ccc3c5ed"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "f62ca900-4356-4dcb-8294-287bfd3b796f"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bouvet Island"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bouvet Island"
 Languages:
 - Language: en
   Versions:

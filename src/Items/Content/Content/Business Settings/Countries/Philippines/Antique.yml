@@ -1,8 +1,8 @@
 ﻿---
-ID: "74fc8007-ce96-4e92-a541-5b7e0ba253be"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "a729438b-8c35-4e9c-9e58-6ae4428250b4"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Antique"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Antique"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "8e61ddc4-e951-4555-af13-193506140b0e"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "643949f2-1634-4eae-bab7-96e7bcde1dec"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Waitomo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Waitomo"
 Languages:
 - Language: en
   Versions:

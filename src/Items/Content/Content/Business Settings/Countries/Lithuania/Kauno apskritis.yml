@@ -1,8 +1,8 @@
 ﻿---
-ID: "865346aa-9427-4b77-bc10-47572635d474"
-Parent: "b086aa6c-507c-44c1-9c2f-0dcffb277b60"
+ID: "d48ee54a-b8eb-4b77-a45f-d2a73ada372d"
+Parent: "d115c217-b9a6-4b22-81eb-5353db0ebbad"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Lithuania/Kauno apskritis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Lithuania/Kauno apskritis"
 Languages:
 - Language: en
   Versions:

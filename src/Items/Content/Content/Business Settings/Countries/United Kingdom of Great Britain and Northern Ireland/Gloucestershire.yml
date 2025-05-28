@@ -1,8 +1,8 @@
 ﻿---
-ID: "e4887442-ab26-468a-a831-a67bb084a009"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "fb69ea5c-82d8-4c88-b51c-674e6daad428"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Gloucestershire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Gloucestershire"
 Languages:
 - Language: en
   Versions:

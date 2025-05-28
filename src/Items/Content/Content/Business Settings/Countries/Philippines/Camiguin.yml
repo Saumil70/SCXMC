@@ -1,8 +1,8 @@
 ﻿---
-ID: "2bcf4df0-6098-4c9a-9fb7-83796c1e1185"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "735bf422-13c7-4d02-a7f7-451b4496ad39"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Camiguin"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Camiguin"
 Languages:
 - Language: en
   Versions:

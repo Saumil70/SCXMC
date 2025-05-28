@@ -1,8 +1,8 @@
 ﻿---
-ID: "f25b2dca-49d7-4d60-97d9-601f22b304f0"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "ee5e0bf8-cd5b-4e76-81b0-4a3249b0c331"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Sri Lanka"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Sri Lanka"
 Languages:
 - Language: en
   Versions:

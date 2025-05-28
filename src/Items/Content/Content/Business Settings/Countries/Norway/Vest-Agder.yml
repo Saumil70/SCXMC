@@ -1,8 +1,8 @@
 ﻿---
-ID: "55549313-7270-436d-980a-32b01bf0a5ee"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "4530ed7f-07bc-418e-8007-41fafe8172b1"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Vest-Agder"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Vest-Agder"
 Languages:
 - Language: en
   Versions:

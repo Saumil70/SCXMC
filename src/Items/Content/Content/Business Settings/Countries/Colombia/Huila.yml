@@ -1,8 +1,8 @@
 ﻿---
-ID: "3911cd8e-dc7a-4281-9fbc-2bf5600e7c3f"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "2b8b953b-8643-4b2c-be59-f2f0b759c048"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Huila"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Huila"
 Languages:
 - Language: en
   Versions:

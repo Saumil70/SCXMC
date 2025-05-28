@@ -1,8 +1,8 @@
 ﻿---
-ID: "9be665fd-51c9-442e-a8e3-4c7651b0dc0f"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "b236382d-1684-4a23-bc2e-71c3de3a3bd0"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Ebonyi"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Ebonyi"
 Languages:
 - Language: en
   Versions:

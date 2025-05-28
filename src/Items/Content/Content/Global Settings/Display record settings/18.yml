@@ -1,8 +1,8 @@
 ﻿---
-ID: "1efc36dd-1637-4fd1-9b65-624f678a1ec7"
-Parent: "0a50afb0-2f04-4c68-9e8d-29ac73749afc"
+ID: "1be43749-f331-4221-b8fb-215ff685d499"
+Parent: "cc5c07f4-a241-4f76-9185-a5c7ed7e6519"
 Template: "22ea3316-ed22-4e6a-9ff4-f98ff7d4cce4"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Display record settings/18"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Display record settings/18"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

@@ -1,8 +1,8 @@
 ﻿---
-ID: "0c258ac2-13b4-439f-abdb-546189e09d67"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "c4fea226-32e2-4597-9766-5ee471aaccb8"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Guatemala"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Guatemala"
 Languages:
 - Language: en
   Versions:

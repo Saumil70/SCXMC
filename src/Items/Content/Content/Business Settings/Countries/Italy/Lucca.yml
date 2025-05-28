@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9ed9cbd-bcea-4d67-9fde-9addededee94"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "246a2f33-6b24-41ec-b677-f864effa833a"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Lucca"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Lucca"
 Languages:
 - Language: en
   Versions:

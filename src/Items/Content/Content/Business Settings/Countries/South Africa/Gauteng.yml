@@ -1,8 +1,8 @@
 ﻿---
-ID: "6adbb054-5cb5-47d8-915c-e24fc0e1918d"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "30a359dd-7548-4c7d-8642-21764d4526ba"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/Gauteng"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/Gauteng"
 Languages:
 - Language: en
   Versions:

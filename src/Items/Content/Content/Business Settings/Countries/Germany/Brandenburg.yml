@@ -1,8 +1,8 @@
 ﻿---
-ID: "8347f0b6-40e8-411d-a9d6-961314ff83c7"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "ba2b106c-672b-420d-9f62-5e60d58b8866"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Brandenburg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Brandenburg"
 Languages:
 - Language: en
   Versions:

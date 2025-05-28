@@ -1,8 +1,8 @@
 ﻿---
-ID: "eb5f55c1-87e0-4b5f-bf50-f80c79709ec2"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "4a3070e9-f003-4419-8881-f208cd318d16"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Palermo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Palermo"
 Languages:
 - Language: en
   Versions:

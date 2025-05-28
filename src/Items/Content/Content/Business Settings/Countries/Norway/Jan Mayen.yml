@@ -1,8 +1,8 @@
 ﻿---
-ID: "5d123804-ecee-4ce5-b8de-7ba9d0fd4dc2"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "2d188ba3-9e6c-45ca-af14-1ecbbded681c"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Jan Mayen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Jan Mayen"
 Languages:
 - Language: en
   Versions:

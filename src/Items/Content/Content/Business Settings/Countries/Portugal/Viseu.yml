@@ -1,8 +1,8 @@
 ﻿---
-ID: "652bb402-8843-4fa4-8034-3af471d75bdf"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "ce8c72fe-de6c-44bd-848d-d3a9aaebd670"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Viseu"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Viseu"
 Languages:
 - Language: en
   Versions:

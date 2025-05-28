@@ -1,8 +1,8 @@
 ﻿---
-ID: "0ff45622-3286-4990-b5a1-d7e300702e5d"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "f8d3b885-0f86-43ab-b875-7defb3b56b09"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Messina"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Messina"
 Languages:
 - Language: en
   Versions:

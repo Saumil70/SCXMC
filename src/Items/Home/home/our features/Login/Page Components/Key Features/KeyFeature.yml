@@ -1,8 +1,8 @@
 ﻿---
-ID: "5ccda2b5-4034-4530-8c99-b7db95afe98a"
-Parent: "096f12f0-cf10-4f08-a441-a5442cb94818"
+ID: "904a84a1-1555-4cea-9094-bc0315ce393e"
+Parent: "338c7e21-2afb-4000-b57b-753727defe0d"
 Template: "49bb78df-c027-49fe-8258-f357cf000d18"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Login/Page Components/Key Features/KeyFeature"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Login/Page Components/Key Features/KeyFeature"
 BranchID: "570be036-290e-4e39-a6a1-19b42b429d7b"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -29,3 +29,29 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20240523T071306Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250528T105142Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tilak.sheta@sourceved.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tilak.sheta@sourceved.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b5b28c8-bba2-4f9e-8b21-654f1033dd6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tilak.sheta@sourceved.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20250528T105142Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250528T105142Z

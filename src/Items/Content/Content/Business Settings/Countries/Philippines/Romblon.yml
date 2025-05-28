@@ -1,8 +1,8 @@
 ﻿---
-ID: "3c6d58b2-7e1a-4cb5-a2e8-61f01b671242"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "ec18f2dd-4833-457a-91b9-83ab5a3ec30d"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Romblon"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Romblon"
 Languages:
 - Language: en
   Versions:

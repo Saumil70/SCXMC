@@ -1,8 +1,8 @@
 ﻿---
-ID: "92e16448-6a04-48fe-88c0-641f9c38b357"
-Parent: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
+ID: "a3d36d24-31da-4677-bf72-cf3c3060b31f"
+Parent: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco/Berkane"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco/Berkane"
 Languages:
 - Language: en
   Versions:

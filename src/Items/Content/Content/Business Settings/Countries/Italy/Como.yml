@@ -1,8 +1,8 @@
 ﻿---
-ID: "a37fece3-e6d3-4fb0-b304-4a7af0943ce8"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "52d51dfe-9373-4005-af35-b30822c7f7e7"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Como"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Como"
 Languages:
 - Language: en
   Versions:

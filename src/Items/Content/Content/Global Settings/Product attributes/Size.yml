@@ -1,8 +1,8 @@
 ﻿---
-ID: "435ef8ac-146b-4119-8aa3-1f2fbb5f4c8b"
-Parent: "1fa2c459-2191-4f2d-a476-04203eff73c6"
+ID: "a11c5e3a-21bf-4910-ab14-35820c64a31b"
+Parent: "e58f2705-efa5-486f-8d5c-87cffdd1b5ee"
 Template: "d2e8495c-467b-4e23-ba94-b2a07f3d0456"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Product attributes/Size"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Product attributes/Size"
 Languages:
 - Language: en
   Versions:

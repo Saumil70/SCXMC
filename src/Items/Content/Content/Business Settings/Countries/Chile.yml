@@ -1,8 +1,8 @@
 ﻿---
-ID: "7c5ae2b1-00d1-4c13-b0fe-388ffeed43c4"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "ad89de6e-2ae2-47ef-9a0e-10698792c188"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Chile"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Chile"
 Languages:
 - Language: en
   Versions:

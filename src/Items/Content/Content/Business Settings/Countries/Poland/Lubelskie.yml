@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9338101-ec73-4362-99a2-7b74b5f8111f"
-Parent: "f2b5fe7a-4526-46f9-8cc1-cd7e7412e9c2"
+ID: "c78364c1-b4ec-4282-9a89-6628b98b5575"
+Parent: "a9b7e6ee-0993-485a-a74b-f80eff2cdeb3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Poland/Lubelskie"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Poland/Lubelskie"
 Languages:
 - Language: en
   Versions:

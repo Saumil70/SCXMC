@@ -1,8 +1,8 @@
 ﻿---
-ID: "060d5de7-a1c0-410c-a601-d36f34e02101"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "592f20cd-6901-4480-86c5-252f4edddcb5"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Yukon Territory"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Yukon Territory"
 Languages:
 - Language: en
   Versions:

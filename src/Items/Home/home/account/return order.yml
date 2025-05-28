@@ -1,8 +1,8 @@
 ﻿---
-ID: "cdac9424-b482-4a37-acf8-3e0a3f655c2b"
-Parent: "f93c1494-678f-4935-815c-d2ff70fff7bd"
+ID: "16efcf34-6095-4c5c-a0cc-2370708023bd"
+Parent: "5ff0393e-4387-4906-83af-6ea3d409a37c"
 Template: "ccd7acfa-6848-5b61-960c-fb0a533d3cd3"
-Path: "/sitecore/content/sitecore-jss-app/home/account/return order"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/account/return order"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -12,9 +12,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -34,7 +31,7 @@ Languages:
       Value: 20240411T092055Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
     - ID: "50e0c6e5-f875-53c2-b98c-9b5b5a96705b"
       Hint: pageTitle
       Value: Return Order
@@ -48,11 +45,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a3285053-4809-473e-a72e-b59c5f3aa6bf"
+      Value: "3b60ffef-30e9-457f-a93d-2f98c855a120"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240411T104129Z
+      Value: 20250528T105842Z

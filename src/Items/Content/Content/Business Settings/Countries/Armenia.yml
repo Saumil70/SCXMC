@@ -1,8 +1,8 @@
 ﻿---
-ID: "ac16772a-e5ed-4743-9201-9e48ae7639fc"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "95aecb28-2a4a-47ce-883d-dda2cee3458b"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Armenia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Armenia"
 Languages:
 - Language: en
   Versions:

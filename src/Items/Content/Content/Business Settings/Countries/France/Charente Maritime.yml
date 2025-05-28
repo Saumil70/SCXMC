@@ -1,8 +1,8 @@
 ﻿---
-ID: "2b27fd0e-84db-49b4-b7b7-cdcefb9c675b"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "707453f5-63c2-4a5d-8cca-ec293049ed69"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Charente Maritime"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Charente Maritime"
 Languages:
 - Language: en
   Versions:

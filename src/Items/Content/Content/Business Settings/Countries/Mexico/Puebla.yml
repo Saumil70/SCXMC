@@ -1,8 +1,8 @@
 ﻿---
-ID: "0f77e879-a711-44d0-ad55-84882290286f"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "35d416e2-0d3a-4d40-8a80-86fb5095d55b"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Puebla"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Puebla"
 Languages:
 - Language: en
   Versions:

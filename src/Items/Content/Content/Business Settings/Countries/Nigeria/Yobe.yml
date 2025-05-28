@@ -1,8 +1,8 @@
 ﻿---
-ID: "c8849867-c445-4afd-ac57-3144f7eb4068"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "04586cc7-5e7c-4906-884b-b0ae7c2b31cc"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Yobe"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Yobe"
 Languages:
 - Language: en
   Versions:

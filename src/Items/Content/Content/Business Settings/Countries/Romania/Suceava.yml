@@ -1,8 +1,8 @@
 ﻿---
-ID: "0bc50e16-70af-4546-a0b7-25431c8c504e"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "4375b3a8-1081-45ef-988e-31bf5cf8e2da"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Suceava"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Suceava"
 Languages:
 - Language: en
   Versions:

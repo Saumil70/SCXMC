@@ -1,8 +1,8 @@
 ﻿---
-ID: "e17e45de-5e4b-4434-8d49-d7d05d5a52bb"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "555a2e8f-56f3-446b-865a-61b15864bfa5"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Nunavut"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Nunavut"
 Languages:
 - Language: en
   Versions:

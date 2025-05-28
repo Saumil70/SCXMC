@@ -1,8 +1,8 @@
 ﻿---
-ID: "8bddfdfb-45a1-4bf6-9951-d38189532f48"
-Parent: "06cd9940-914b-4c63-b845-909fe584cac4"
+ID: "1208c2cc-8279-4688-962f-b70aaa21b8ca"
+Parent: "bd4cf689-d75e-41cb-8976-edda2c22c6cd"
 Template: "f30c429e-01cb-4f69-b2f0-1cb3c5ab40bc"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Contact/Hr Gmail"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Contact/Hr Gmail"
 Languages:
 - Language: en
   Versions:

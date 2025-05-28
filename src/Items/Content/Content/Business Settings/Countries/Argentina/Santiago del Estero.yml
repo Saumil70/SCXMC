@@ -1,8 +1,8 @@
 ﻿---
-ID: "859778a3-ea67-4681-af7d-2f9ca7a03c5c"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "1a316230-8dd2-4c3c-b8cb-bd15d2430adc"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Santiago del Estero"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Santiago del Estero"
 Languages:
 - Language: en
   Versions:

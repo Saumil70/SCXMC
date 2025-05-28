@@ -1,8 +1,8 @@
 ﻿---
-ID: "debcd58c-5b02-4ae9-a9aa-9b41c6ab78f2"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "10ea37ad-93a8-465a-b5fc-7b42b01aa333"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Beheira"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Beheira"
 Languages:
 - Language: en
   Versions:

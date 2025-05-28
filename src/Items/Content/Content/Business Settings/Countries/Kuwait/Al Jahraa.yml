@@ -1,8 +1,8 @@
 ﻿---
-ID: "b33e63f6-ba7e-49af-8587-38d434cc642e"
-Parent: "39b42163-1248-48ab-a9ba-9ac01e3587f9"
+ID: "36c0eb71-5af9-46e8-bbd6-c6784bff2d2c"
+Parent: "363bc0fc-d9f5-4bee-aedd-dcc553f45a62"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Kuwait/Al Jahraa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Kuwait/Al Jahraa"
 Languages:
 - Language: en
   Versions:

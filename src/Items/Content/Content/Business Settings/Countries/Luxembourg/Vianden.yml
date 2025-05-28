@@ -1,8 +1,8 @@
 ﻿---
-ID: "1a08f5cd-ce9d-4fa9-b1f0-170f7126d5fe"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "6c4a06a4-3e0b-46aa-b08a-a038246967ed"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Vianden"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Vianden"
 Languages:
 - Language: en
   Versions:

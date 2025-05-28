@@ -1,8 +1,8 @@
 ﻿---
-ID: "4d2bc26b-f2d5-497b-9ed8-425393c87c36"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "a2b46932-c0cf-420b-a61f-9c6af432a4fe"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Tabuk"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Tabuk"
 Languages:
 - Language: en
   Versions:

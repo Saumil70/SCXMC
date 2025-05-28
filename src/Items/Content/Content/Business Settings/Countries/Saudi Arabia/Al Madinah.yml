@@ -1,8 +1,8 @@
 ﻿---
-ID: "543431d8-5fd6-433f-9cb2-ffe0baf77fec"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "dc342f45-d699-44c2-bd6b-60245eb7c93a"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Al Madinah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Al Madinah"
 Languages:
 - Language: en
   Versions:

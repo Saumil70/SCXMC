@@ -1,8 +1,8 @@
 ﻿---
-ID: "e4de05c4-a19a-4cd7-8611-c4de89751b60"
-Parent: "a8376828-2ea4-419c-9024-8b4e288c931d"
+ID: "853b696a-9adb-4462-bfb1-b398021e36f3"
+Parent: "c9309ce8-0cb2-4c6e-a228-84a0f2238808"
 Template: "626a0e17-e4a4-4853-bdb2-72a5d010e928"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Specification Attributes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Specification Attributes"
 Languages:
 - Language: en
   Versions:

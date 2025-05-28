@@ -1,8 +1,8 @@
 ﻿---
-ID: "8ec169b2-75ce-44a5-912e-0ed4803aedb0"
-Parent: "aa97e08a-ed17-4f15-9248-6261f1c11802"
+ID: "b96c9687-bd1f-449d-8756-c6dab3856e87"
+Parent: "f1918163-fce0-4479-b55a-0f755fccbbe3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Vietnam/An Giang"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Vietnam/An Giang"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "8eaf5482-1229-4a0e-a9f7-8b384f9341f6"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "8c665688-df90-4aeb-a61f-39ff51865a87"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Marshall Islands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Marshall Islands"
 Languages:
 - Language: en
   Versions:

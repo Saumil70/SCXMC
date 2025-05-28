@@ -1,8 +1,8 @@
 ﻿---
-ID: "881e00da-637c-40db-a87c-98d770ca0a71"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "eb9bc75d-5e0a-489b-b1c8-4a4661743fb0"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Foggia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Foggia"
 Languages:
 - Language: en
   Versions:

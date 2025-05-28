@@ -1,8 +1,8 @@
 ﻿---
-ID: "d3ec9e4f-bb46-43c8-b404-cbb85ba78ac2"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "7566b58b-3df5-4cc0-bd75-ea272577e7f2"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/New Valley"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/New Valley"
 Languages:
 - Language: en
   Versions:

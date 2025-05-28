@@ -1,8 +1,8 @@
 ﻿---
-ID: "e8c2f004-1835-49ab-b5c3-4d97e6db1dde"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "a01186d3-ffcc-4b31-8240-a03c70f6f0ca"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Prahova"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Prahova"
 Languages:
 - Language: en
   Versions:

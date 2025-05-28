@@ -1,8 +1,8 @@
 ﻿---
-ID: "1fbe1dfe-df60-491b-bff8-4ac41659e529"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "1e2f8775-7436-4d02-93ec-c647b42801dd"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Virginia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Virginia"
 Languages:
 - Language: en
   Versions:

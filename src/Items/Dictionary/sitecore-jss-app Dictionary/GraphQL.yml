@@ -1,8 +1,8 @@
 ﻿---
-ID: "675e4b38-bb80-521b-af0e-58c9408b3160"
-Parent: "037e0c1b-7448-52b2-a58e-782201b96286"
+ID: "6f97c318-b36c-48a4-a11b-0bb8170ad159"
+Parent: "3a31506f-f946-47d4-8428-72ee1a6fee82"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/GraphQL"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/GraphQL"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "cedc3d65-8df4-40b5-8fb3-d57966516b18"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "0a4fc599-25ff-4678-80cf-0f888f3437af"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Coahuila"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Coahuila"
 Languages:
 - Language: en
   Versions:

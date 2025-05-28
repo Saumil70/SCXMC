@@ -1,8 +1,8 @@
 ﻿---
-ID: "00fbd58c-92ae-48b0-ad38-bbbc7b7f1c49"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "e72dbc23-7018-45cb-a1ac-99874c35f770"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Casanare"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Casanare"
 Languages:
 - Language: en
   Versions:

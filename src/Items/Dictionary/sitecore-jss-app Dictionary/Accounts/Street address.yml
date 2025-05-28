@@ -1,8 +1,8 @@
 ﻿---
-ID: "a4841ac6-4d3c-465f-b355-c9ff743ad50e"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "66681928-2236-4185-81e3-b49912796a1a"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Street address"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Street address"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

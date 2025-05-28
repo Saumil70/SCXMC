@@ -1,8 +1,8 @@
 ﻿---
-ID: "2b486482-fdf7-4590-9877-5a6fe74d29cd"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "4169fea2-6379-4c3b-bbfe-18848a1a17bb"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Quebec"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Quebec"
 Languages:
 - Language: en
   Versions:

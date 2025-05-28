@@ -1,8 +1,8 @@
 ﻿---
-ID: "21da9633-43ab-4697-bf00-2bfc977a19a4"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "764abc4f-c55d-4c51-9a19-2c4992858de5"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Lanao del Norte"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Lanao del Norte"
 Languages:
 - Language: en
   Versions:

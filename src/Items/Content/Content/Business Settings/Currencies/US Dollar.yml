@@ -1,8 +1,8 @@
 ﻿---
-ID: "6f2fc975-1758-4322-8f2c-b57b36487267"
-Parent: "0b2e961b-94f3-410b-8bda-191251cdf98b"
+ID: "c767ceb9-c677-42fc-91a7-e9073c9ff57c"
+Parent: "4a1543c1-eb18-49ae-bd56-d01292be0ac5"
 Template: "65710310-e588-4359-82eb-14866047918f"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Currencies/US Dollar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Currencies/US Dollar"
 Languages:
 - Language: en
   Versions:

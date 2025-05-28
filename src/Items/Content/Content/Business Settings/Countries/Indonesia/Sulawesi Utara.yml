@@ -1,8 +1,8 @@
 ﻿---
-ID: "eb693e39-d8b0-414f-8fff-46569982b2b4"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "8e19532c-e1ab-4bf3-8031-00309456f3e4"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Sulawesi Utara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Sulawesi Utara"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "2528cd4d-9ee6-4b75-a8e8-3eb8a9897569"
-Parent: "16bbb266-2892-4ef1-88a5-8bbe9311b45d"
+ID: "6e1eb7a8-93c8-481e-8d0b-b33b2e367243"
+Parent: "f90a031f-fdfc-4208-8b44-8eb33c3144b3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cyprus/Nicosia district"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cyprus/Nicosia district"
 Languages:
 - Language: en
   Versions:

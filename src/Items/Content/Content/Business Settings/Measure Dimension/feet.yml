@@ -1,8 +1,8 @@
 ﻿---
-ID: "c906d405-9f99-47e3-8435-98655c00527d"
-Parent: "98ff1768-a5e0-4ea1-b76a-0c6637c5a55e"
+ID: "99b5df58-f925-4713-8e9b-37d1c947c2f3"
+Parent: "d3fe0352-bda5-40af-bc32-0b5fa9c91e37"
 Template: "84b4281c-4c1d-4836-8987-ecaba72bec96"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Dimension/feet"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Dimension/feet"
 Languages:
 - Language: en
   Versions:

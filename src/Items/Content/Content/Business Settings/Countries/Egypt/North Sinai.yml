@@ -1,8 +1,8 @@
 ﻿---
-ID: "c7e7c519-ac1b-4a08-a5e8-c0f504386bf4"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "0b5000fd-1351-4153-9a7b-6d5594383a9b"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/North Sinai"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/North Sinai"
 Languages:
 - Language: en
   Versions:

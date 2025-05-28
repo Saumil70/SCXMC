@@ -1,8 +1,8 @@
 ﻿---
-ID: "fd334603-f1a4-4487-a5cd-0865a4d4d863"
-Parent: "5d5baacf-43fc-44c9-a93f-b56875f180c1"
+ID: "412cd575-9a00-4e35-a99f-c0cdb7901f32"
+Parent: "7054d652-a383-4c28-999f-8977669104c7"
 Template: "1b76a016-f2d4-4e42-b425-a9b8dc79cde3"
-Path: "/sitecore/content/sitecore-jss-app/home/Page Components/IntroCarosal/Carousal 2"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/Page Components/IntroCarosal/Carousal 2"
 Languages:
 - Language: en
   Versions:

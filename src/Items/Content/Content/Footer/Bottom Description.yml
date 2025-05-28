@@ -1,8 +1,8 @@
 ﻿---
-ID: "510d5a15-d433-45b7-b34e-a53102f370e3"
-Parent: "dd65b116-2d12-41c9-af80-d58eef4e1db5"
+ID: "3b0ef9e4-b57c-48c0-bce3-51f68789f2be"
+Parent: "79de7eda-24ef-42df-bd16-aa61a3f0ca65"
 Template: "e9a310d6-9996-4c46-84b0-0ec175f87be3"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Bottom Description"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Bottom Description"
 Languages:
 - Language: en
   Versions:

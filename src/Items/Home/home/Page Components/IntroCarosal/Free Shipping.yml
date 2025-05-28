@@ -1,8 +1,8 @@
 ﻿---
-ID: "c2a28918-daa8-4878-9d2f-618470b66b98"
-Parent: "5d5baacf-43fc-44c9-a93f-b56875f180c1"
+ID: "aa80e609-45fa-48a3-8c6a-b6a4a30eea87"
+Parent: "7054d652-a383-4c28-999f-8977669104c7"
 Template: "29b911bb-fe6e-4ac5-9916-b59b2cc2d262"
-Path: "/sitecore/content/sitecore-jss-app/home/Page Components/IntroCarosal/Free Shipping"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/Page Components/IntroCarosal/Free Shipping"
 Languages:
 - Language: en
   Versions:

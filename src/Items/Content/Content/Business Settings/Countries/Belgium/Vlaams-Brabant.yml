@@ -1,8 +1,8 @@
 ﻿---
-ID: "4ab47d85-021d-4e7d-b152-450061c5088a"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "e03a1c6d-798d-456b-92e6-678cc5918bd3"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Vlaams-Brabant"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Vlaams-Brabant"
 Languages:
 - Language: en
   Versions:

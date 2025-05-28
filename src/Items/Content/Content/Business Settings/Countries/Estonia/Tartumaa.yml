@@ -1,8 +1,8 @@
 ﻿---
-ID: "fcd84d13-0a8e-4fc0-b256-44690c31972a"
-Parent: "fcd7c541-cb2e-43c6-bc98-d33b5fbc9fbc"
+ID: "9a243daa-2b9d-4507-847b-9a9a2188254e"
+Parent: "fe86ed54-3c82-4266-a595-2d2ea2591d47"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Estonia/Tartumaa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Estonia/Tartumaa"
 Languages:
 - Language: en
   Versions:

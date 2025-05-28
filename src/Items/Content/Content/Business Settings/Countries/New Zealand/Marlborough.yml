@@ -1,8 +1,8 @@
 ﻿---
-ID: "d9942925-c9ec-4e1f-9b7b-8d6df0ebdfe4"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "47583018-b2da-41a2-a0e5-af8f3fca59fa"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Marlborough"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Marlborough"
 Languages:
 - Language: en
   Versions:

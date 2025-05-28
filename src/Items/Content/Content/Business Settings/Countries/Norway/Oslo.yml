@@ -1,8 +1,8 @@
 ﻿---
-ID: "74c080ba-126b-4639-9388-a71c8903f4fc"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "ad443952-c971-416b-8d75-4b2f559131fc"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Oslo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Oslo"
 Languages:
 - Language: en
   Versions:

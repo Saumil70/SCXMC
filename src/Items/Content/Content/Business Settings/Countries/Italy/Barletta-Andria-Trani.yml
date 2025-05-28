@@ -1,8 +1,8 @@
 ﻿---
-ID: "ce5ad22c-7f0a-4279-981c-9b3ce8f63111"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "9aca6eb2-ec96-4bba-ac4d-b2f98a4ce526"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Barletta-Andria-Trani"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Barletta-Andria-Trani"
 Languages:
 - Language: en
   Versions:

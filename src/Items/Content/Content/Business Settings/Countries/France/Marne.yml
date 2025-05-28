@@ -1,8 +1,8 @@
 ﻿---
-ID: "ae30a470-1986-43b1-bea2-c5fbb1491805"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "85346a37-d7c2-48c2-80a3-96283cb5a8d1"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Marne"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Marne"
 Languages:
 - Language: en
   Versions:

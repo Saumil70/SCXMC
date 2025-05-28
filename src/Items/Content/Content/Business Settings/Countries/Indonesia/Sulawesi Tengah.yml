@@ -1,8 +1,8 @@
 ﻿---
-ID: "781983f3-b351-4591-b46b-f706a471c5d0"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "115eb66a-92b7-4f21-8d51-8803bcd09ff9"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Sulawesi Tengah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Sulawesi Tengah"
 Languages:
 - Language: en
   Versions:

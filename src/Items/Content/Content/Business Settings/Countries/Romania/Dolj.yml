@@ -1,8 +1,8 @@
 ﻿---
-ID: "520c273f-909f-40e6-bc11-359afe35d828"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "6b79eb7e-99d2-4fc1-b208-bcfdeb3ca394"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Dolj"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Dolj"
 Languages:
 - Language: en
   Versions:

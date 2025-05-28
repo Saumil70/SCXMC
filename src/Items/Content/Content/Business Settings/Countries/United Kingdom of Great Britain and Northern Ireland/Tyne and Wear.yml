@@ -1,8 +1,8 @@
 ﻿---
-ID: "fdd3827b-5355-4d4e-ae59-2c84b14dc453"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "2dac5c9e-cb88-459d-8359-2bda320e688a"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Tyne and Wear"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Tyne and Wear"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "44e8d88b-be3c-59dc-b6dd-6cde08e4dca7"
-Parent: "bcf50fcd-1378-57f8-9ee3-9ef228f37a4e"
+ID: "1d00517e-70e5-47ef-9ff3-6f880d55371d"
+Parent: "63be89bd-2bf2-4042-b13b-fe1e7756334d"
 Template: "9e3ba319-a525-5465-8e3d-b221673baec5"
-Path: "/sitecore/content/sitecore-jss-app/home/graphql/sample-1/Page Components/sample-1-jss-main-ContentBlock-1"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/graphql/sample-1/Page Components/sample-1-jss-main-ContentBlock-1"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow

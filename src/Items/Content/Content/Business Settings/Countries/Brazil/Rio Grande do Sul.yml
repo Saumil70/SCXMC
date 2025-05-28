@@ -1,8 +1,8 @@
 ﻿---
-ID: "1ed8ea32-0379-4c11-aa0d-b9243b38ff30"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "9c7291a9-7bb8-4c3d-a68a-59bf85a0d458"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Rio Grande do Sul"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Rio Grande do Sul"
 Languages:
 - Language: en
   Versions:

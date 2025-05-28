@@ -1,8 +1,8 @@
 ﻿---
-ID: "cb2621a3-3899-4ad4-b133-3e52b1465788"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "4751de42-f06b-4da9-a66d-4afef0b09e6f"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Kepulauan Bangka Belitung"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Kepulauan Bangka Belitung"
 Languages:
 - Language: en
   Versions:

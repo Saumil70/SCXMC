@@ -1,8 +1,8 @@
 ﻿---
-ID: "3f3597de-8ef9-4a47-a700-754a9a41a554"
-Parent: "99615e3c-3e17-4591-a154-9406e4cde5bf"
+ID: "64f7a656-a04a-4f3b-b924-6f4ea2c9f806"
+Parent: "c321f05b-9ee4-4544-91e8-07e81b023ef0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Austria/Steiermark"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Austria/Steiermark"
 Languages:
 - Language: en
   Versions:

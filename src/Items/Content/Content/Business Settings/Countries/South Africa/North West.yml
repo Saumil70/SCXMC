@@ -1,8 +1,8 @@
 ﻿---
-ID: "150d68ad-7f84-453d-83ec-abd419e2ec83"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "ae77e7ef-29ab-42cd-b452-754d9f75cda5"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/North West"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/North West"
 Languages:
 - Language: en
   Versions:

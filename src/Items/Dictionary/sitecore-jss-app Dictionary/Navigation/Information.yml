@@ -1,8 +1,8 @@
 ﻿---
-ID: "73cac714-c1f5-4b78-b65a-87d2e3be7a2e"
-Parent: "24fe6774-d927-4de3-a2db-1717054fec1c"
+ID: "8f76db71-0fc8-41f1-b528-d9e5da9d816e"
+Parent: "6d74e9a5-814b-4017-acca-f3faaddd120e"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Navigation/Information"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Navigation/Information"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

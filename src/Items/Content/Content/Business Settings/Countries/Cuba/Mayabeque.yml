@@ -1,8 +1,8 @@
 ﻿---
-ID: "1c5182ff-ee9e-41f7-ae19-51d3252a7410"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "585cc0d1-d1ef-4486-9d87-2ba01184eaa0"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Mayabeque"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Mayabeque"
 Languages:
 - Language: en
   Versions:

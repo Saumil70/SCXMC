@@ -1,8 +1,8 @@
 ﻿---
-ID: "a97b5555-9dc8-42bb-81db-4fd398f789fd"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "81bd27bf-f0d6-47e9-b658-bd317cd3e5b4"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Ancona"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Ancona"
 Languages:
 - Language: en
   Versions:

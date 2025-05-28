@@ -1,8 +1,8 @@
 ﻿---
-ID: "561a4298-f1a4-41ef-9536-b55e915ae154"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "5877cf0b-ba1a-4570-b4a4-50b8fca13b85"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Santa Cruz de Tenerife"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Santa Cruz de Tenerife"
 Languages:
 - Language: en
   Versions:

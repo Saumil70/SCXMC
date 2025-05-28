@@ -1,8 +1,8 @@
 ﻿---
-ID: "ac89cefa-33e7-4039-88e6-b69ddfee17dc"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "e435ee6b-3545-4480-9dd5-24d48fe1740c"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Jamaica"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Jamaica"
 Languages:
 - Language: en
   Versions:

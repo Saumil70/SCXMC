@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d4ade2c-e5b6-4cef-a27c-6c02aa9f8787"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "1ad898eb-85b0-4890-81b5-1bf686abec1d"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Guaviare"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Guaviare"
 Languages:
 - Language: en
   Versions:

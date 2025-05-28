@@ -1,8 +1,8 @@
 ﻿---
-ID: "e46ff865-a96b-4594-a32f-43c97571a86f"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "20cb3ff4-5cc9-4c16-8a20-a1726e24a007"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Isla de la Juventud"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Isla de la Juventud"
 Languages:
 - Language: en
   Versions:

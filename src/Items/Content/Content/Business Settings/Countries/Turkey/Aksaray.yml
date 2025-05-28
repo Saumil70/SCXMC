@@ -1,8 +1,8 @@
 ﻿---
-ID: "7703e9be-77ea-47b9-be96-1e00708a46f7"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "13cce648-8e22-42f1-86f6-5d1129279da8"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Aksaray"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Aksaray"
 Languages:
 - Language: en
   Versions:

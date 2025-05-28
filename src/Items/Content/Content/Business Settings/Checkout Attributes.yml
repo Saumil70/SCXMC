@@ -1,8 +1,8 @@
 ﻿---
-ID: "e785e03e-d431-4fb6-a8c4-7403d344322a"
-Parent: "a8376828-2ea4-419c-9024-8b4e288c931d"
+ID: "02682df7-bc4f-4f28-9b4c-7421c325acc3"
+Parent: "c9309ce8-0cb2-4c6e-a228-84a0f2238808"
 Template: "54e1d2ad-19a2-4c30-84ec-8e08c55dcccc"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Checkout Attributes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Checkout Attributes"
 Languages:
 - Language: en
   Versions:

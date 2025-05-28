@@ -1,8 +1,8 @@
 ﻿---
-ID: "84cb35a6-e35d-4eeb-a669-f1446cfaef3c"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "eead65d8-fccb-445b-92fe-579dfc352fe2"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Amazonas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Amazonas"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "308f09e2-d0f0-491a-b02f-5e917ee1718e"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "834af8cf-f014-4d99-b8e3-560b0a461209"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Oost-Vlaanderen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Oost-Vlaanderen"
 Languages:
 - Language: en
   Versions:

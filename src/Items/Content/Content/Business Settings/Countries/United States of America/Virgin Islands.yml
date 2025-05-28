@@ -1,8 +1,8 @@
 ﻿---
-ID: "5e291cc3-4e81-43ce-964c-2c583f02239b"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "21842f1e-8f77-48ab-996f-321ec3e3f980"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Virgin Islands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Virgin Islands"
 Languages:
 - Language: en
   Versions:

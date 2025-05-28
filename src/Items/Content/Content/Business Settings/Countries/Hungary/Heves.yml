@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0f3e964-b6be-4ac2-9352-707070c83cb5"
-Parent: "cbecbf5a-299b-4b05-a1ef-f5601fa5b6e5"
+ID: "372f97e4-003d-4f84-af1a-56f56f5c2e66"
+Parent: "17f2991d-cf18-4dc8-aa84-ad901be92e19"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Hungary/Heves"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Hungary/Heves"
 Languages:
 - Language: en
   Versions:

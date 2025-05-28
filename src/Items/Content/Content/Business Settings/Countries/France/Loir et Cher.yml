@@ -1,8 +1,8 @@
 ﻿---
-ID: "4992dffc-f3ba-4079-bc6d-8b2fb4a2f114"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "fdb2fa0a-8798-4025-b0a1-6c9a7dc97a8d"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Loir et Cher"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Loir et Cher"
 Languages:
 - Language: en
   Versions:

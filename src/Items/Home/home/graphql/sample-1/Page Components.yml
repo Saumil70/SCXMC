@@ -1,8 +1,8 @@
 ﻿---
-ID: "bcf50fcd-1378-57f8-9ee3-9ef228f37a4e"
-Parent: "0d499482-47ca-591a-9c45-af24e82f5611"
+ID: "63be89bd-2bf2-4042-b13b-fe1e7756334d"
+Parent: "b4ec90e9-ed42-4cae-a37f-f328e0bf2b57"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/sitecore-jss-app/home/graphql/sample-1/Page Components"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/graphql/sample-1/Page Components"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

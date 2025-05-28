@@ -1,8 +1,8 @@
 ﻿---
-ID: "d665c932-191c-4c64-91a4-e9448a9be23d"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "cca6d3ba-509e-4e84-9275-bfcd502f0ee1"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Viana do Castelo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Viana do Castelo"
 Languages:
 - Language: en
   Versions:

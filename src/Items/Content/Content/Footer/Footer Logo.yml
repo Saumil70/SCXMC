@@ -1,8 +1,8 @@
 ﻿---
-ID: "36061976-0165-425f-b5ab-0d6fc96d4e6f"
-Parent: "dd65b116-2d12-41c9-af80-d58eef4e1db5"
+ID: "14b29efa-cebc-4788-b963-ecba154eb86f"
+Parent: "79de7eda-24ef-42df-bd16-aa61a3f0ca65"
 Template: "9bdf4b99-fd64-473e-b29f-1cfa6e0eb319"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Footer Logo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Footer Logo"
 Languages:
 - Language: en
   Versions:

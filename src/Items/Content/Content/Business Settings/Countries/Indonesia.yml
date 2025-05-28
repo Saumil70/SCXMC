@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d25265c-8db3-42c9-8d99-1518587b3f54"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "809c41d3-b0c2-4884-954b-4fd78008b85c"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia"
 Languages:
 - Language: en
   Versions:

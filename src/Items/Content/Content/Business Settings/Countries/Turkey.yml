@@ -1,8 +1,8 @@
 ﻿---
-ID: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey"
 Languages:
 - Language: en
   Versions:

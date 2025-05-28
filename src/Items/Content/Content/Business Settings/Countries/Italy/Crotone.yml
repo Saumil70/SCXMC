@@ -1,8 +1,8 @@
 ﻿---
-ID: "461d238e-b3ef-4e38-9ee5-2122ed4610e8"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "0694de4c-ed7d-4c99-b3a5-9aa24429f220"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Crotone"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Crotone"
 Languages:
 - Language: en
   Versions:

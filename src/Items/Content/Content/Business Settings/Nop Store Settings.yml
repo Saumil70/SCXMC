@@ -1,8 +1,8 @@
 ﻿---
-ID: "fd3a64c9-fd52-4211-9768-05780b07e3b3"
-Parent: "a8376828-2ea4-419c-9024-8b4e288c931d"
+ID: "186a3175-b991-45fe-ae7f-7764debc1925"
+Parent: "c9309ce8-0cb2-4c6e-a228-84a0f2238808"
 Template: "fcd1a0e3-caec-4f64-8cb2-284a8f63a75a"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Nop Store Settings"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Nop Store Settings"
 Languages:
 - Language: en
   Versions:
@@ -21,17 +21,17 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b9ac561a-4960-43b8-8430-1bb9cafac6af"
+      Value: "66f05610-a51e-4733-8f03-bf0591197b44"
     - ID: "9a5cf0c1-5354-4ad1-8770-79fa5738beee"
       Hint: API_KEY
-      Value: 2cJNduxMpkrhSyRyZaoV9pS6GjIt2Ll/166WhOXCdh0=
+      Value: MZOmMTyi7KP6sPCcn5hSlRpFYbBEvKB2+I40GFCtwso=
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d1be68eb-3197-45cd-b1c8-422311651f43"
       Hint: COMMERCE_BASE_URL
-      Value: "https://sv103devtestingsc.dev.local/nopstore/api"
+      Value: "https://localhost:5001/api"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250427T113541Z
+      Value: 20250528T130048Z

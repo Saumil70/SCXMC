@@ -1,8 +1,8 @@
 ﻿---
-ID: "ae710dca-404f-4f7b-b8d3-e66dfe8e590e"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "cd95d409-e590-42ec-a508-70290c428997"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Samar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Samar"
 Languages:
 - Language: en
   Versions:

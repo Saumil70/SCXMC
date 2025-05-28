@@ -1,8 +1,8 @@
 ﻿---
-ID: "886390e1-6453-499c-a825-2efb00717484"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "413fd9f0-3d4f-4e96-846e-c98c99fd6ad8"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Udine"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Udine"
 Languages:
 - Language: en
   Versions:

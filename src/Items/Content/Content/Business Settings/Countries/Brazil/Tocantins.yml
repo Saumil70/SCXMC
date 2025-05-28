@@ -1,8 +1,8 @@
 ﻿---
-ID: "688f7771-f94f-4cb9-b303-61db7ca122f6"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "f0dea207-1850-4344-8e18-dd88a0b01dfc"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Tocantins"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Tocantins"
 Languages:
 - Language: en
   Versions:

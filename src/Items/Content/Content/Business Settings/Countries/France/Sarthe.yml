@@ -1,8 +1,8 @@
 ﻿---
-ID: "0c554540-fbb1-4731-a19f-491da3ca8df3"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "2e8a0081-8d8b-4752-bd78-814c9f2d6892"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Sarthe"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Sarthe"
 Languages:
 - Language: en
   Versions:

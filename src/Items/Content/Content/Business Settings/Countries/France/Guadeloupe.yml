@@ -1,8 +1,8 @@
 ﻿---
-ID: "efa5fd91-75a3-4d3a-b27e-5b98ce55c284"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "90cf23ff-059b-411c-bdc9-a37aa4ad4020"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Guadeloupe"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Guadeloupe"
 Languages:
 - Language: en
   Versions:

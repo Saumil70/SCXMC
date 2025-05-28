@@ -1,8 +1,8 @@
 ﻿---
-ID: "67afc7e7-44f9-4df9-8a61-2cfa1bb33301"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "1b0c54fc-49d8-477f-83f8-7efe0fc54253"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Flintshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Flintshire"
 Languages:
 - Language: en
   Versions:

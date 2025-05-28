@@ -1,8 +1,8 @@
 ﻿---
-ID: "1a267f38-e9de-4fd5-b821-0c64d265fb9d"
-Parent: "16bbb266-2892-4ef1-88a5-8bbe9311b45d"
+ID: "a8d2706b-b28e-42e4-adb7-5e60d996df38"
+Parent: "f90a031f-fdfc-4208-8b44-8eb33c3144b3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cyprus/Limassol district"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cyprus/Limassol district"
 Languages:
 - Language: en
   Versions:

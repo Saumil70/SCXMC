@@ -1,8 +1,8 @@
 ﻿---
-ID: "6317d77e-682e-4175-98b6-cd5b6e2af6f4"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "1967ed66-aab4-4cec-9f93-35c81ef52bbc"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/La Pampa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/La Pampa"
 Languages:
 - Language: en
   Versions:

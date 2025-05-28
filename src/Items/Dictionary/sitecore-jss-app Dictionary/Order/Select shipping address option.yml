@@ -1,8 +1,8 @@
 ﻿---
-ID: "a3d5b875-dfc2-495f-9c5b-54796579a79d"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "b3b7d4d3-dacb-4cc7-807a-9547e17a630d"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Select shipping address option"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Select shipping address option"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

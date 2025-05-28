@@ -1,8 +1,8 @@
 ﻿---
-ID: "f2e521fd-a54b-42d1-8ee5-38a685ff0241"
-Parent: "06cd9940-914b-4c63-b845-909fe584cac4"
+ID: "0118ecb4-f5d6-4cb1-a2ad-7924f446b4df"
+Parent: "bd4cf689-d75e-41cb-8976-edda2c22c6cd"
 Template: "f30c429e-01cb-4f69-b2f0-1cb3c5ab40bc"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Contact/9898787878"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Contact/9898787878"
 Languages:
 - Language: en
   Versions:

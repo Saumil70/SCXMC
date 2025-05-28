@@ -1,8 +1,8 @@
 ﻿---
-ID: "3cdecc79-0c83-405c-8bd0-ead6146660db"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "7bcc34f9-9867-4cca-8f24-6bf888f6c4eb"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Alaska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Alaska"
 Languages:
 - Language: en
   Versions:

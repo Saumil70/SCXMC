@@ -1,8 +1,8 @@
 ﻿---
-ID: "bccb8008-849d-45e6-8c73-9158e0deb6b1"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "dd24b936-a932-4860-8806-dc5c404e8919"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Sachsen-Anhalt"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Sachsen-Anhalt"
 Languages:
 - Language: en
   Versions:

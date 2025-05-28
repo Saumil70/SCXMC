@@ -1,8 +1,8 @@
 ﻿---
-ID: "8c73c062-92e6-4430-9440-5f0fb48fd7b6"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "739986f4-5c92-4093-90d9-7c695eaee42f"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Jura"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Jura"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "045ddb69-5524-4574-832f-ba8801cd9e32"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "11c349bc-7420-44f7-b7ab-68c4d426016c"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Gorj"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Gorj"
 Languages:
 - Language: en
   Versions:

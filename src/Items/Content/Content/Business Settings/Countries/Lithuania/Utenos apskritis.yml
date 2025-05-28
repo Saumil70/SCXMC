@@ -1,8 +1,8 @@
 ﻿---
-ID: "840bbd56-5571-4c7d-8460-765d3016ee6f"
-Parent: "b086aa6c-507c-44c1-9c2f-0dcffb277b60"
+ID: "08a5f2a6-18c2-4bba-8336-e619f7277e15"
+Parent: "d115c217-b9a6-4b22-81eb-5353db0ebbad"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Lithuania/Utenos apskritis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Lithuania/Utenos apskritis"
 Languages:
 - Language: en
   Versions:

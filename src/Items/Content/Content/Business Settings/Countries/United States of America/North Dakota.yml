@@ -1,8 +1,8 @@
 ﻿---
-ID: "d645ed29-2f77-4fbb-8cc7-b3e0e240f94e"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "31fae1ae-bcc2-4b9e-8b02-d9a8fdab0556"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/North Dakota"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/North Dakota"
 Languages:
 - Language: en
   Versions:

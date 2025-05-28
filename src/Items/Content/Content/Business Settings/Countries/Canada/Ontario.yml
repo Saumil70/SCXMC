@@ -1,8 +1,8 @@
 ﻿---
-ID: "aa6ab111-c3a6-4d75-bc7e-8f14f65b6a67"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "2ea01fdc-b2b9-4828-8761-80e45c361170"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Ontario"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Ontario"
 Languages:
 - Language: en
   Versions:

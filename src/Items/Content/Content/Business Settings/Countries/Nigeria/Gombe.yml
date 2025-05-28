@@ -1,8 +1,8 @@
 ﻿---
-ID: "919691f5-76d1-4c40-bfdb-0a9746445248"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "bc71ff7a-fb56-4298-a744-3481579935bb"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Gombe"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Gombe"
 Languages:
 - Language: en
   Versions:

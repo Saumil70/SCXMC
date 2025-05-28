@@ -1,8 +1,8 @@
 ﻿---
-ID: "5b52e50f-7c69-4675-a085-6bfa85a06a92"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "6ea795ce-28bd-48fd-b05b-e48e5f56a0a4"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Louisiana"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Louisiana"
 Languages:
 - Language: en
   Versions:

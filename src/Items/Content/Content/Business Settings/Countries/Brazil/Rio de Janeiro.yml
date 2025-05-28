@@ -1,8 +1,8 @@
 ﻿---
-ID: "1f7b1381-07a6-497f-9b94-ee650bfa084b"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "3e1b7de6-5005-4d08-9133-0bf2a9d53df1"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Rio de Janeiro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Rio de Janeiro"
 Languages:
 - Language: en
   Versions:

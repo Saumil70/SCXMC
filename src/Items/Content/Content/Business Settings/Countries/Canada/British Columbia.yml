@@ -1,8 +1,8 @@
 ﻿---
-ID: "5b6bb081-7ecb-4938-b493-df45afe5013e"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "64416d43-8dcf-4c02-b500-a9437144dc98"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/British Columbia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/British Columbia"
 Languages:
 - Language: en
   Versions:

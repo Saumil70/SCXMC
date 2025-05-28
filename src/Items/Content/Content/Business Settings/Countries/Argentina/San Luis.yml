@@ -1,8 +1,8 @@
 ﻿---
-ID: "029ceb88-30c9-4712-b3f4-0f469eb12f7f"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "6b2993d4-9c63-4ead-b270-7d6ebecc363a"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/San Luis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/San Luis"
 Languages:
 - Language: en
   Versions:

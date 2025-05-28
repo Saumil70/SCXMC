@@ -1,8 +1,8 @@
 ﻿---
-ID: "82fb38e4-4800-4233-a9ba-e4e524bbbe3f"
-Parent: "cbecbf5a-299b-4b05-a1ef-f5601fa5b6e5"
+ID: "83ec983d-6da1-4d2d-8f12-66914d536056"
+Parent: "17f2991d-cf18-4dc8-aa84-ad901be92e19"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Hungary/Zala"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Hungary/Zala"
 Languages:
 - Language: en
   Versions:

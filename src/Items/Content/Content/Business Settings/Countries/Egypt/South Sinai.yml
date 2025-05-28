@@ -1,8 +1,8 @@
 ﻿---
-ID: "9700955d-9476-4783-8024-5551dde4cc11"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "c2cea8d9-0ba8-4289-84ca-7902b2955758"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/South Sinai"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/South Sinai"
 Languages:
 - Language: en
   Versions:

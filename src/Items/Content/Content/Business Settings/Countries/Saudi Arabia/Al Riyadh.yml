@@ -1,8 +1,8 @@
 ﻿---
-ID: "66cdeac9-fb70-4dcf-9486-466d0880d255"
-Parent: "b08edc12-b7e1-4f41-a3f8-5b48e51b596f"
+ID: "be9fb3df-19c7-4f50-895b-0d223e280c2d"
+Parent: "e901dd06-e96c-4e37-a82d-79281094030f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saudi Arabia/Al Riyadh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saudi Arabia/Al Riyadh"
 Languages:
 - Language: en
   Versions:

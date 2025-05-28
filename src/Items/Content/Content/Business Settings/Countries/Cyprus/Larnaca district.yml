@@ -1,8 +1,8 @@
 ﻿---
-ID: "ca71873b-16cd-42f4-9865-c4a453240196"
-Parent: "16bbb266-2892-4ef1-88a5-8bbe9311b45d"
+ID: "52d6459c-6c5e-40d5-814a-b0b89344ab34"
+Parent: "f90a031f-fdfc-4208-8b44-8eb33c3144b3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cyprus/Larnaca district"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cyprus/Larnaca district"
 Languages:
 - Language: en
   Versions:

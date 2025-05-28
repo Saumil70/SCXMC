@@ -1,8 +1,8 @@
 ﻿---
-ID: "705ab9de-cdc4-48ed-9621-a75af0f5e501"
-Parent: "adc324bb-897c-4bb5-bf2e-769a350bbc93"
+ID: "062b9d2d-9636-45dc-af95-7aa37cb26094"
+Parent: "c96f31bf-cd5b-4f80-8323-b13877069fca"
 Template: "9b880c22-909d-4964-af57-45487d7b0ed6"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Stores/NopStore"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Stores/NopStore"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "17b98484-1bfa-4926-8ee0-d80a72f3dd8e"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "e13c4b51-676f-497d-b5b9-384fc1894719"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Savona"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Savona"
 Languages:
 - Language: en
   Versions:

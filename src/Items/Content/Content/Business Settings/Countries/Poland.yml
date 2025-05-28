@@ -1,8 +1,8 @@
 ﻿---
-ID: "f2b5fe7a-4526-46f9-8cc1-cd7e7412e9c2"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "a9b7e6ee-0993-485a-a74b-f80eff2cdeb3"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Poland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Poland"
 Languages:
 - Language: en
   Versions:

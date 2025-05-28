@@ -1,8 +1,8 @@
 ﻿---
-ID: "cf66284c-0a21-45a0-9026-d704e6b49a64"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "77e4b0f3-a184-4f10-b6d0-9b447e2720af"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Alpes de Hautes-Provence"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Alpes de Hautes-Provence"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "ed76f33e-b857-4838-b03a-b099fb701b75"
-Parent: "fcd7c541-cb2e-43c6-bc98-d33b5fbc9fbc"
+ID: "04062d04-7eea-4577-b4ab-c756800b7c51"
+Parent: "fe86ed54-3c82-4266-a595-2d2ea2591d47"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Estonia/Viljandimaa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Estonia/Viljandimaa"
 Languages:
 - Language: en
   Versions:

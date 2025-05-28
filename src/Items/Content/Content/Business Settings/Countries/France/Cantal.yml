@@ -1,8 +1,8 @@
 ﻿---
-ID: "4f600973-f719-4a7f-945c-41cc9202fb3c"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "b1db4a45-1f15-4379-8beb-659a4c5834ff"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Cantal"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Cantal"
 Languages:
 - Language: en
   Versions:

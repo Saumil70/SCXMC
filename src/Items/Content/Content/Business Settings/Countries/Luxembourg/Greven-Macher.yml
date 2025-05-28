@@ -1,8 +1,8 @@
 ﻿---
-ID: "3653a0c4-f724-4d62-b072-a886cf692a7a"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "b6011e92-ba54-455d-8473-4d60c633bf76"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Greven-Macher"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Greven-Macher"
 Languages:
 - Language: en
   Versions:

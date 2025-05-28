@@ -1,8 +1,8 @@
 ﻿---
-ID: "a986bf06-9d2a-47dd-86ba-4489a05ed945"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "7a2356d4-9aeb-4a5c-a163-2af0c57b11ed"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Staffordshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Staffordshire"
 Languages:
 - Language: en
   Versions:

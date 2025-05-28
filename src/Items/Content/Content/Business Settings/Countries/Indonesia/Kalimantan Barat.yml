@@ -1,8 +1,8 @@
 ﻿---
-ID: "f98ef1d1-7499-41e9-8099-82b2d0fc643a"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "0f66575b-42d4-49b3-9bd0-4cbcaaac15b3"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Kalimantan Barat"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Kalimantan Barat"
 Languages:
 - Language: en
   Versions:

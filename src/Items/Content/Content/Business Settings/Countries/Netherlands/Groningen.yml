@@ -1,8 +1,8 @@
 ﻿---
-ID: "e315755e-d734-4116-ad73-0c7a3f96e789"
-Parent: "5c3f476f-c2cf-4fce-8b5a-a2978b1917fa"
+ID: "a68a880f-7fec-4859-839a-c355703d23fd"
+Parent: "0c2433aa-e475-4378-aa09-c725d343a985"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Netherlands/Groningen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Netherlands/Groningen"
 Languages:
 - Language: en
   Versions:

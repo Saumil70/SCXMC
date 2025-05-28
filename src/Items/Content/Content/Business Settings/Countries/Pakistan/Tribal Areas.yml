@@ -1,8 +1,8 @@
 ﻿---
-ID: "04512260-9a16-43fe-b5b4-84115a8e236b"
-Parent: "fd886250-271f-4595-bae2-ba8465531c5c"
+ID: "0b42afd1-0700-47b3-810a-6aa4c0970157"
+Parent: "cd7ffadb-f880-4a5a-ab42-9b9adddecec3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Pakistan/Tribal Areas"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Pakistan/Tribal Areas"
 Languages:
 - Language: en
   Versions:

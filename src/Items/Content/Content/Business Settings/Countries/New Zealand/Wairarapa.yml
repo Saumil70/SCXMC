@@ -1,8 +1,8 @@
 ﻿---
-ID: "3396f5f2-1faa-492c-916b-41a0064b4f48"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "8c5c498b-d4a2-4ff0-a1d8-a14c4868f33f"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Wairarapa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Wairarapa"
 Languages:
 - Language: en
   Versions:

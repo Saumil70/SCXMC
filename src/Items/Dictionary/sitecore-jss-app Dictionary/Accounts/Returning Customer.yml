@@ -1,8 +1,8 @@
 ﻿---
-ID: "190c1b4d-0a3f-4397-9a8b-71a89baf5845"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "3cf0aeb4-5c99-41b7-bbc4-d7626d577c9d"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Returning Customer"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Returning Customer"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

@@ -1,8 +1,8 @@
 ﻿---
-ID: "ae546852-771f-4cfa-bbb9-cb0bb39de02a"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "974f6c0f-8f39-42c3-8dc2-581f882e46fc"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Kedah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Kedah"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "f4c89bfa-4f2e-4cb8-a525-d3cbb08a4bf2"
-Parent: "7f7e6fbe-afbd-445d-9021-efea368d0966"
+ID: "07ba9682-37fb-43aa-898e-0262f4ff2f24"
+Parent: "0f1d8039-c13e-4022-8505-5dbbab5a6e98"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Slovenia/Podravska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Slovenia/Podravska"
 Languages:
 - Language: en
   Versions:

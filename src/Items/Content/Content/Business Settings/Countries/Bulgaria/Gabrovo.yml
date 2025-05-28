@@ -1,8 +1,8 @@
 ﻿---
-ID: "78080878-671e-49d2-9d68-64baf28e6b4d"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "3bf549d5-ea17-4a46-a7cc-67fcdb224aa2"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Gabrovo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Gabrovo"
 Languages:
 - Language: en
   Versions:

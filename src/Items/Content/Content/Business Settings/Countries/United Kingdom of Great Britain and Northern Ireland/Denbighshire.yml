@@ -1,8 +1,8 @@
 ﻿---
-ID: "33386435-b481-4320-88bc-6c2f0a3099bd"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "5c596a32-38bc-438b-bd77-8aa8c20d0324"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Denbighshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Denbighshire"
 Languages:
 - Language: en
   Versions:

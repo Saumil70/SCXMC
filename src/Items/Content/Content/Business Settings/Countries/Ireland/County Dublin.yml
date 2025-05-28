@@ -1,8 +1,8 @@
 ﻿---
-ID: "8f7e48f9-ebe9-49bb-8286-4341796d8908"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "df92ed3d-02fc-4b83-91e4-0c1f7119c0fb"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Dublin"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Dublin"
 Languages:
 - Language: en
   Versions:

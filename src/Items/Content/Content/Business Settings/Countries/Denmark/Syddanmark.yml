@@ -1,8 +1,8 @@
 ﻿---
-ID: "4ef6d106-788d-4ed1-a82d-255626badf6c"
-Parent: "8ad74f3a-7d93-440a-8384-fa17b20bc7c3"
+ID: "f920b13d-cdb3-42ae-a97b-d710249afedc"
+Parent: "0058ac4b-5cb1-44af-bf52-2aa61332a815"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Denmark/Syddanmark"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Denmark/Syddanmark"
 Languages:
 - Language: en
   Versions:

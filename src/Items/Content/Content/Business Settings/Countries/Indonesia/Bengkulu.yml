@@ -1,8 +1,8 @@
 ﻿---
-ID: "f3154e1e-781b-4786-abaf-0a39f6692a0d"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "2947e5bf-1f6f-4d18-96d1-ddd442f1a783"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Bengkulu"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Bengkulu"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "fe3410eb-3346-48c6-bdb2-b2d0d59af99b"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "c496026f-6697-44d8-a1d7-594bc34d2cdd"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Faro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Faro"
 Languages:
 - Language: en
   Versions:

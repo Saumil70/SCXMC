@@ -1,8 +1,8 @@
 ﻿---
-ID: "752aa82e-a32e-463e-937f-fa78c2eb3883"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "494d62ca-8254-4d8b-a133-3250d72e5b92"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Siracusa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Siracusa"
 Languages:
 - Language: en
   Versions:

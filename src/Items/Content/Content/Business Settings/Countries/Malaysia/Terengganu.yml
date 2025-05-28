@@ -1,8 +1,8 @@
 ﻿---
-ID: "d37674e1-cb2c-465e-a29e-fbeaba71752f"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "3ad9849a-f504-411a-a550-abbdcdc8e87a"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Terengganu"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Terengganu"
 Languages:
 - Language: en
   Versions:

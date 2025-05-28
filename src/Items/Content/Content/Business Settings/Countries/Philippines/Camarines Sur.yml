@@ -1,8 +1,8 @@
 ﻿---
-ID: "87effbb3-079c-47b9-bdce-6d8d63da7b99"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "d34c10a2-d415-4ea2-be09-ef5a68256052"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Camarines Sur"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Camarines Sur"
 Languages:
 - Language: en
   Versions:

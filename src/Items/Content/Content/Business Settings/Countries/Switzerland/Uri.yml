@@ -1,8 +1,8 @@
 ﻿---
-ID: "b6359a8f-e4ac-44fe-a55f-b05cd0d5aaee"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "4c8ac619-0f06-424b-840f-261c55d360dc"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Uri"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Uri"
 Languages:
 - Language: en
   Versions:

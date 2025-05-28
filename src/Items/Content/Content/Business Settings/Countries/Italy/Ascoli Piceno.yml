@@ -1,8 +1,8 @@
 ﻿---
-ID: "07f7b132-84a7-46f4-bc53-5d2fe1696311"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "b0572a4a-55c7-4b18-bd62-f275bfde9f0c"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Ascoli Piceno"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Ascoli Piceno"
 Languages:
 - Language: en
   Versions:

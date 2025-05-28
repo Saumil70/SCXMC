@@ -1,8 +1,8 @@
 ﻿---
-ID: "a1dd868a-b57b-4b97-a5d6-416116dc4e53"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "74625b68-7af3-4455-9346-505eee7b132d"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Afyonkarahisar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Afyonkarahisar"
 Languages:
 - Language: en
   Versions:

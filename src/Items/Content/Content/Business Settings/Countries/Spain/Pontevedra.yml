@@ -1,8 +1,8 @@
 ﻿---
-ID: "dfc7884b-df67-4df1-913a-e2206446df5e"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "584e1c4a-f40d-47f7-a995-9f18200639eb"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Pontevedra"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Pontevedra"
 Languages:
 - Language: en
   Versions:

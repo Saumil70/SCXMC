@@ -1,8 +1,8 @@
 ﻿---
-ID: "b911267f-bd50-4467-b16d-5bb62f5079b2"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "4f66b1e8-bd64-4e41-b2e7-2c4c5255771e"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Karaman"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Karaman"
 Languages:
 - Language: en
   Versions:

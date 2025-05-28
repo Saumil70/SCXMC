@@ -1,8 +1,8 @@
 ﻿---
-ID: "04c40e83-86c1-4d32-9e30-28e2447783fa"
-Parent: "cbecbf5a-299b-4b05-a1ef-f5601fa5b6e5"
+ID: "34dee5b1-064d-422c-af1a-e62eb06e9019"
+Parent: "17f2991d-cf18-4dc8-aa84-ad901be92e19"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Hungary/Pest"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Hungary/Pest"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "774c167e-c585-4761-bf2a-2a2081011b7e"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "05000e8a-3323-4cc0-a706-d71239ffa165"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Pordenone"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Pordenone"
 Languages:
 - Language: en
   Versions:

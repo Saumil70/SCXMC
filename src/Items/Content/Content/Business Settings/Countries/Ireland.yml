@@ -1,8 +1,8 @@
 ﻿---
-ID: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "2a79a39a-4127-4a52-886a-e4d86610e500"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland"
 Languages:
 - Language: en
   Versions:

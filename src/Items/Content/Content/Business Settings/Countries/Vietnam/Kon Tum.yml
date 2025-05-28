@@ -1,8 +1,8 @@
 ﻿---
-ID: "206cec71-ee7b-4d1d-8554-261596b3cc90"
-Parent: "aa97e08a-ed17-4f15-9248-6261f1c11802"
+ID: "15de1515-5d4d-49b8-9333-e435cf693e63"
+Parent: "f1918163-fce0-4479-b55a-0f755fccbbe3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Vietnam/Kon Tum"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Vietnam/Kon Tum"
 Languages:
 - Language: en
   Versions:

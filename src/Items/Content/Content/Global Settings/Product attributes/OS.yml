@@ -1,8 +1,8 @@
 ﻿---
-ID: "32cbe067-42e0-4326-9381-4dd69127e97b"
-Parent: "1fa2c459-2191-4f2d-a476-04203eff73c6"
+ID: "a1948ee5-034b-410d-b2fa-8ba9441634bd"
+Parent: "e58f2705-efa5-486f-8d5c-87cffdd1b5ee"
 Template: "d2e8495c-467b-4e23-ba94-b2a07f3d0456"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Product attributes/OS"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Product attributes/OS"
 Languages:
 - Language: en
   Versions:

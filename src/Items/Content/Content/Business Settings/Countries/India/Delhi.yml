@@ -1,8 +1,8 @@
 ﻿---
-ID: "f6825950-d859-49a5-923a-ae555362c813"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "61294882-0fe6-455f-91e5-e72a25b6cd46"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Delhi"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Delhi"
 Languages:
 - Language: en
   Versions:

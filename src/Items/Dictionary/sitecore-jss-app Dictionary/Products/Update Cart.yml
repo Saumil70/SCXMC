@@ -1,8 +1,8 @@
 ﻿---
-ID: "e482e5ad-24f9-4cc9-9592-02575d1d191b"
-Parent: "3ed3daa8-5877-4d84-9357-6d4f872f4c39"
+ID: "64aa80f8-f587-4c98-baf9-402fd3e8e75a"
+Parent: "68fd0b82-cf40-43b7-ad15-9f7e60fae35e"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Products/Update Cart"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Products/Update Cart"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

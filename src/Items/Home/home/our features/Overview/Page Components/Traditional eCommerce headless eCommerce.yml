@@ -1,8 +1,8 @@
 ﻿---
-ID: "e97aad8f-9c36-4b02-abf8-679e37f0def6"
-Parent: "453956c5-bf2f-45ed-b327-35256da91441"
+ID: "27d34c4a-6345-4968-a536-3ad6727d2f7c"
+Parent: "25ecd3ec-1348-42ee-8fc4-d9fcb1c70a4b"
 Template: "a58162c7-9343-4456-aeb9-085a45b83454"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Overview/Page Components/Traditional eCommerce headless eCommerce"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Overview/Page Components/Traditional eCommerce headless eCommerce"
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "138b4a35-1042-4b15-86e7-ebe58632fac7"
       Hint: ImagePosition
-      Value: Bottom
+      Value: 
     - ID: "251a2957-3dd8-4ded-b794-c9cc18f88106"
       Hint: Image
       Value: |
@@ -30,14 +30,14 @@ Languages:
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4ba7d5b7-63e8-42e4-984f-482ab6377607"
+      Value: "c7107a21-5ff8-4f7b-a614-022592208ab5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240717T101313Z
+      Value: 20250528T124512Z
     - ID: "f7b01856-5956-418f-a039-b0409aeecd6f"
       Hint: Heading
       Value: Traditional eCommerce headless eCommerce

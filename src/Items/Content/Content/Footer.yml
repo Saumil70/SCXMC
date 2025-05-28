@@ -1,8 +1,8 @@
 ﻿---
-ID: "dd65b116-2d12-41c9-af80-d58eef4e1db5"
-Parent: "9c5e8262-e1e2-59ba-a591-af9b45a916bc"
+ID: "79de7eda-24ef-42df-bd16-aa61a3f0ca65"
+Parent: "344529bf-ee34-40f6-b7cb-b654cc79b84c"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

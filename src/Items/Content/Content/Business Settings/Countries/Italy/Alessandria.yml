@@ -1,8 +1,8 @@
 ﻿---
-ID: "8a1a4246-c511-4c4e-a54a-b003eee00237"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "aa799c04-7ea9-4e1e-8845-db86b1d27723"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Alessandria"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Alessandria"
 Languages:
 - Language: en
   Versions:

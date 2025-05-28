@@ -1,8 +1,8 @@
 ﻿---
-ID: "6bde677a-68d9-4d54-97b1-5360d3b4c59f"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "35295164-be04-432e-84f3-d703b85b32c3"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Rio Negro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Rio Negro"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "c977c7c6-aede-4f00-9fd0-2c58d17e3e5b"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "3b8b1b01-3840-406e-8d91-0b6cece560df"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Saskatchewan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Saskatchewan"
 Languages:
 - Language: en
   Versions:

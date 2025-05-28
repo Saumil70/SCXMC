@@ -1,8 +1,8 @@
 ﻿---
-ID: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "fb0f4421-0baa-4432-a813-f274ced4a66e"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "7e0c2fc4-77ff-4fa4-901d-db5b01fdf305"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "adb54730-639f-422d-aa01-dcf66ef33212"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Reggio Calabria"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Reggio Calabria"
 Languages:
 - Language: en
   Versions:

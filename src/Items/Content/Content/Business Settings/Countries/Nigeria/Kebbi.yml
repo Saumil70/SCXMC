@@ -1,8 +1,8 @@
 ﻿---
-ID: "d68491ae-4c50-43ed-a870-318036ab26e1"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "6006c9ba-619a-4735-9fed-5a8bb5fed458"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Kebbi"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Kebbi"
 Languages:
 - Language: en
   Versions:

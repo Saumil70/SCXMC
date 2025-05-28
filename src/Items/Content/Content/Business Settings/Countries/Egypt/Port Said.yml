@@ -1,8 +1,8 @@
 ﻿---
-ID: "9f1e1377-5747-4c13-88c3-8452dadb993f"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "8705fd0f-165c-4d6f-9fa6-4fcb0d4cbca6"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Port Said"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Port Said"
 Languages:
 - Language: en
   Versions:

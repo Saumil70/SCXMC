@@ -1,8 +1,8 @@
 ﻿---
-ID: "cfdfe7b5-c88f-4f68-a6c9-c71f52257d1f"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "c5ed31ba-5d1d-4fdc-9c49-c34d64c1fbde"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Pahang"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Pahang"
 Languages:
 - Language: en
   Versions:

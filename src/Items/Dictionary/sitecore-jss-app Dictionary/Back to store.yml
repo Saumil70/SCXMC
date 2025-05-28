@@ -1,8 +1,8 @@
 ﻿---
-ID: "3581cad4-1527-4466-8ca3-92b76adcebbd"
-Parent: "037e0c1b-7448-52b2-a58e-782201b96286"
+ID: "9317f855-32a7-4f74-af2c-b2d9f59398ad"
+Parent: "3a31506f-f946-47d4-8428-72ee1a6fee82"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Back to store"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Back to store"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

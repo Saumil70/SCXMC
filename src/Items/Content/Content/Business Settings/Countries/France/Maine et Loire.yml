@@ -1,8 +1,8 @@
 ﻿---
-ID: "cb4c26b5-9dbe-4903-9870-c7128c4d8d11"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "28e74e59-760d-4284-82e4-414fcf8d4953"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Maine et Loire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Maine et Loire"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "fd205eb4-5d50-4ad6-8439-a3ae235bcca8"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "e8f66308-c9cc-42c3-8b64-0af31694ef76"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Erzincan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Erzincan"
 Languages:
 - Language: en
   Versions:

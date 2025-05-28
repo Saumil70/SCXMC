@@ -1,8 +1,8 @@
 ﻿---
-ID: "50825a10-b5f9-4469-8302-bac4b41d6b58"
-Parent: "68fb3104-fe46-4282-8cf5-9fda382e3e61"
+ID: "c96e0ba9-6376-4e47-a783-a7af55ed360c"
+Parent: "140b8442-3eea-4451-86d4-821d9c96b2f8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Australia/Australian Capital Territory"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Australia/Australian Capital Territory"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "294a8d1e-5848-4684-ac21-62ed587dd890"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "167f5db1-6d75-44ef-8ff4-c85abdeb24bb"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/French Polynesia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/French Polynesia"
 Languages:
 - Language: en
   Versions:

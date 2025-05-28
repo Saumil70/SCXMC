@@ -1,8 +1,8 @@
 ﻿---
-ID: "5d85509c-44b0-4e9e-b0a0-cb8a1508d477"
-Parent: "17e5e627-9853-44a4-b680-acc2400654fa"
+ID: "31955be3-fbb8-40e5-b2da-9dd856cafb5c"
+Parent: "44184a9e-5646-4fa0-b5b1-1df088ce8f4c"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Image Position"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Image Position"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

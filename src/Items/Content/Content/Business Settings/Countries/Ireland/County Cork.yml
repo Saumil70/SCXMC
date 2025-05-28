@@ -1,8 +1,8 @@
 ﻿---
-ID: "8f1f33c4-ca0b-46b3-a884-9f4c5b462ffb"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "16071106-d276-45d5-8c70-9de35af35fee"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Cork"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Cork"
 Languages:
 - Language: en
   Versions:

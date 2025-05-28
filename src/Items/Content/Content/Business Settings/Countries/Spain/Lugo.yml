@@ -1,8 +1,8 @@
 ﻿---
-ID: "161bb981-a40b-4afb-8741-a8752107932f"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "e00f8be2-2070-45ea-9887-ac455e5ae53b"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Lugo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Lugo"
 Languages:
 - Language: en
   Versions:

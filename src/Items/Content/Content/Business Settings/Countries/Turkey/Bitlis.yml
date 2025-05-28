@@ -1,8 +1,8 @@
 ﻿---
-ID: "d200135a-5f75-4900-93aa-1c4c0ae97006"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "6cf7c7be-d666-4ba5-9b8a-36cb0fd1d583"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Bitlis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Bitlis"
 Languages:
 - Language: en
   Versions:

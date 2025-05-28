@@ -1,8 +1,8 @@
 ﻿---
-ID: "06252862-e2d4-404c-b425-5625d2e1e406"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "1eacb039-5a80-475a-aa49-9d456e034d8c"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Gibraltar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Gibraltar"
 Languages:
 - Language: en
   Versions:

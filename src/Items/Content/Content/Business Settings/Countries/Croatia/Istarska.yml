@@ -1,8 +1,8 @@
 ﻿---
-ID: "a925ef83-c939-43d1-8802-c8e9c1d02449"
-Parent: "a4226bc2-72c9-49b7-811c-321edb21c633"
+ID: "1de91e30-63d2-47d2-ac3d-936a30850a32"
+Parent: "e7d207ab-9f25-4547-bcd3-941b106d45af"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Croatia/Istarska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Croatia/Istarska"
 Languages:
 - Language: en
   Versions:

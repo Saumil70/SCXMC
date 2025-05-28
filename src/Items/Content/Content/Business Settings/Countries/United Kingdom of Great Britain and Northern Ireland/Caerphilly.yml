@@ -1,8 +1,8 @@
 ﻿---
-ID: "00e14e0e-dd81-4549-b17b-91f6cc27f5f8"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "145ff11f-d9dc-40f9-84e1-49a65fb39ee6"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Caerphilly"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Caerphilly"
 Languages:
 - Language: en
   Versions:

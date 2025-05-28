@@ -1,8 +1,8 @@
 ﻿---
-ID: "d26177d0-e05d-4743-93c0-18ec706da3d4"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "e528818d-6041-4378-a7ef-beb632024756"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Hidalgo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Hidalgo"
 Languages:
 - Language: en
   Versions:

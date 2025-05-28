@@ -1,8 +1,8 @@
 ﻿---
-ID: "be18216e-4b27-41dc-8542-3eb8a8abc341"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "94fc80e8-ec56-4324-972e-71f4f67661ea"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Redange"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Redange"
 Languages:
 - Language: en
   Versions:

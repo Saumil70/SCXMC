@@ -1,8 +1,8 @@
 ﻿---
-ID: "75e53fe8-d85d-4fe4-8fe5-089816f9d704"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "ecfd270d-7d14-460f-96da-c600d0348e01"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Qatar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Qatar"
 Languages:
 - Language: en
   Versions:

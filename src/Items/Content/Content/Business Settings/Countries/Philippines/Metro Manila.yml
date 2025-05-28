@@ -1,8 +1,8 @@
 ﻿---
-ID: "14fa97be-08a3-4b7c-9124-658c82a697e4"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "6ac68d34-3fd9-43fc-8c81-1014a77a594a"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Metro Manila"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Metro Manila"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "191afaef-9adb-4dc9-86b5-7b1bd78ce2d7"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "155700e7-a38c-44a6-ad92-816dbe7db4f4"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Shetland Isles"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Shetland Isles"
 Languages:
 - Language: en
   Versions:

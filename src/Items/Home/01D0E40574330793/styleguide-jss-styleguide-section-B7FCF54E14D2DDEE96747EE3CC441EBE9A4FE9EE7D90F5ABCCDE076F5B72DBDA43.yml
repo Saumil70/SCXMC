@@ -1,8 +1,8 @@
 ﻿---
-ID: "2a7031c2-3cc0-5a3f-8d2b-bd1cc4d2b7f4"
-Parent: "16a383f1-58be-5406-a1bc-0cba816f2e1c"
+ID: "80f72882-e85d-4441-a9e4-2473b7a87732"
+Parent: "decad4c4-c74f-4d77-b7fa-8feee7f93f35"
 Template: "c52d3769-7913-5274-9c4a-c1967b0f5e26"
-Path: "/sitecore/content/sitecore-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -32,15 +32,14 @@ Languages:
         <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
     - ID: "8971e205-81d8-58da-9bec-ebae9195a25b"
       Hint: internalLink
-      Value: |
-        <link id="{5288D54B-295E-5FED-9225-D9A08F763234}" linktype="internal" />
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "20ff54e2-590e-41e6-8e7f-4ddde06455b4"
+      Value: "2387fba0-e81e-45b8-8418-b77488622eb7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\tilak.sheta@sourceved.com
     - ID: "c8a731cc-fdc7-5496-83b9-5ba86edb7ec7"
       Hint: heading
       Value: General Link
@@ -50,7 +49,7 @@ Languages:
         <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240327T120624Z
+      Value: 20250528T124521Z
     - ID: "dc8134ff-b350-5d60-af8c-14dbbd195a56"
       Hint: description
       Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>

@@ -1,8 +1,8 @@
 ﻿---
-ID: "9c5e8262-e1e2-59ba-a591-af9b45a916bc"
-Parent: "33e0826a-f8f6-5961-a24a-2f4cc7fa946e"
+ID: "344529bf-ee34-40f6-b7cb-b654cc79b84c"
+Parent: "2ffafbcb-6497-4b01-8b0b-f4d006293902"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/sitecore-jss-app/Content"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content"
 Languages:
 - Language: en
   Fields:

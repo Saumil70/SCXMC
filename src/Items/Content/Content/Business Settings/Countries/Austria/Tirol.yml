@@ -1,8 +1,8 @@
 ﻿---
-ID: "9d489668-bb9b-45d8-92a2-e876fbede1a8"
-Parent: "99615e3c-3e17-4591-a154-9406e4cde5bf"
+ID: "6376f81c-3c0e-4bd3-b471-fd04db725720"
+Parent: "c321f05b-9ee4-4544-91e8-07e81b023ef0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Austria/Tirol"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Austria/Tirol"
 Languages:
 - Language: en
   Versions:

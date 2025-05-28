@@ -1,8 +1,8 @@
 ﻿---
-ID: "78dd5a63-27ba-4bd8-8bdb-ca5fc108f853"
-Parent: "aa97e08a-ed17-4f15-9248-6261f1c11802"
+ID: "216268bb-3bcc-41e7-ab73-5ea144b56436"
+Parent: "f1918163-fce0-4479-b55a-0f755fccbbe3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Vietnam/Long An"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Vietnam/Long An"
 Languages:
 - Language: en
   Versions:

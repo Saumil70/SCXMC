@@ -1,8 +1,8 @@
 ﻿---
-ID: "cf3b2034-9964-4fec-87c4-79c2798af610"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "cfe123e6-5597-426a-b025-dd2ec712c016"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Tipperary"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Tipperary"
 Languages:
 - Language: en
   Versions:

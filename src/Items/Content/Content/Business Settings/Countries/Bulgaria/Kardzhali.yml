@@ -1,8 +1,8 @@
 ﻿---
-ID: "436155ac-cd82-4e62-bf04-5987399f6251"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "d7bfba34-155b-431e-bead-7775ce73a940"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Kardzhali"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Kardzhali"
 Languages:
 - Language: en
   Versions:

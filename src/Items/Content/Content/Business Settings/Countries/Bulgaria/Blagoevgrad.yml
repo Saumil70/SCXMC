@@ -1,8 +1,8 @@
 ﻿---
-ID: "c855b523-ce14-405b-b5c3-93d1733f53ee"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "a71832a8-233e-43fb-ab90-66fdc78c397a"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Blagoevgrad"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Blagoevgrad"
 Languages:
 - Language: en
   Versions:

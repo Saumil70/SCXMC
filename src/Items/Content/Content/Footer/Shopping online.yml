@@ -1,8 +1,8 @@
 ﻿---
-ID: "eda5edd1-4dc5-4599-afa7-6ead6f709fad"
-Parent: "dd65b116-2d12-41c9-af80-d58eef4e1db5"
+ID: "c7659e04-17e4-4621-a1ac-cdad5b5dabc5"
+Parent: "79de7eda-24ef-42df-bd16-aa61a3f0ca65"
 Template: "71fb8ab7-a0b8-4ccc-9bb3-e58971ed5910"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Shopping online"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Shopping online"
 Languages:
 - Language: en
   Versions:
@@ -13,22 +13,22 @@ Languages:
       Value: 20240521T121250Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7c4a2496-2b30-4181-8d91-bb189f2e87d1"
+      Value: "01268dac-ebd6-42f4-a2c4-e5fe28aecda1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240521T122534Z
+      Value: 20250528T125159Z
     - ID: "f64fcfc3-59da-46ce-88ae-68bcf78ec4f9"
       Hint: Links
       Value: |
-        {D796048E-AD70-4E40-9CA1-2A3488BB2628}
-        {3CFB29CE-6753-4474-9A76-D401EABBFD1D}
-        {9CD2814E-23B8-444A-8C0A-D2CBFA69D388}
-        {86899770-0153-4453-B08E-4D9B7B613A7F}
-        {4BE3F421-3376-4CBE-BEE9-0A8837738CCC}
+        {D5DE3C63-FBF4-43FA-BBF3-8F5D2B63EBF4}
+        {C37FB351-9E58-47C8-B82E-CD90AA09885F}
+        {2CBD1C2D-203D-45FA-8E19-20463A08C105}
+        {6B42FC43-2C7F-4C6A-87B5-C4CC7A70851A}
+        {4A5B46C4-F48A-4F88-8E32-94C4EBACC4D6}
     - ID: "f72b1b7f-eb56-4c99-bcaa-61ab5953a9ca"
       Hint: SectionHeader
       Value: Shopping online

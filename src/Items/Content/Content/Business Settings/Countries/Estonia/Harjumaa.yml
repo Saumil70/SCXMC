@@ -1,8 +1,8 @@
 ﻿---
-ID: "8a9da6f7-64e0-4572-93b5-fd0e275e53b4"
-Parent: "fcd7c541-cb2e-43c6-bc98-d33b5fbc9fbc"
+ID: "fd0b99e5-e744-4235-8975-0707e79c3088"
+Parent: "fe86ed54-3c82-4266-a595-2d2ea2591d47"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Estonia/Harjumaa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Estonia/Harjumaa"
 Languages:
 - Language: en
   Versions:

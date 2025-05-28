@@ -1,8 +1,8 @@
 ﻿---
-ID: "1d764a4d-9e30-4f86-a07d-c9049fb348e8"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "7a289284-6b23-4b40-aef4-00bcf903179e"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/South Yorkshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/South Yorkshire"
 Languages:
 - Language: en
   Versions:

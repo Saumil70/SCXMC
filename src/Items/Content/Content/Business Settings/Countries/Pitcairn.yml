@@ -1,8 +1,8 @@
 ﻿---
-ID: "a6220c15-9ab4-4a33-aeeb-e682a66f44d9"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "76fb2b70-0b66-41ae-ada3-71ef4488c6e9"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Pitcairn"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Pitcairn"
 Languages:
 - Language: en
   Versions:

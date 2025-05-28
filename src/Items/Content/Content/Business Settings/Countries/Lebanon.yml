@@ -1,8 +1,8 @@
 ﻿---
-ID: "9f385152-7e81-419d-bd01-30bd66b6ab76"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "1e6eb205-1dfe-4464-bad4-af4782c30ab4"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Lebanon"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Lebanon"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "a53c13e7-2a9b-4c56-a07a-533db4859df7"
-Parent: "b086aa6c-507c-44c1-9c2f-0dcffb277b60"
+ID: "b95168a4-62cb-459c-8fc6-c6252d17320b"
+Parent: "d115c217-b9a6-4b22-81eb-5353db0ebbad"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Lithuania/Vilniaus apskritis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Lithuania/Vilniaus apskritis"
 Languages:
 - Language: en
   Versions:

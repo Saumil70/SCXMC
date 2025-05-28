@@ -1,8 +1,8 @@
 ﻿---
-ID: "17eb63c8-da1e-4601-b92a-ab74c790ae56"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "99bebac9-d7b9-4607-bc49-343830b1fbb0"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Pesaro e Urbino"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Pesaro e Urbino"
 Languages:
 - Language: en
   Versions:

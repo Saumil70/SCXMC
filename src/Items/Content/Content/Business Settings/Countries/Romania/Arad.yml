@@ -1,8 +1,8 @@
 ﻿---
-ID: "04563fcd-ac34-4127-896a-1b646d812443"
-Parent: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
+ID: "b0de6a06-d149-42d9-bbfc-5201e2658d66"
+Parent: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania/Arad"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania/Arad"
 Languages:
 - Language: en
   Versions:

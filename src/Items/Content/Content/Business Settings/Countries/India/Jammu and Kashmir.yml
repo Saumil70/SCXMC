@@ -1,8 +1,8 @@
 ﻿---
-ID: "37a9c749-e0dc-4536-9c16-0e8c497befcf"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "f4e0f7bd-71cc-43e4-8749-c6c5d1072c93"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Jammu and Kashmir"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Jammu and Kashmir"
 Languages:
 - Language: en
   Versions:

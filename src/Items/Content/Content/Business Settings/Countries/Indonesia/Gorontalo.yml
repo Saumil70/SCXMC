@@ -1,8 +1,8 @@
 ﻿---
-ID: "2e55e708-b1b1-494c-8039-d1bd54a85173"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "c9445d89-1778-49fd-a6de-18419d7d221b"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Gorontalo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Gorontalo"
 Languages:
 - Language: en
   Versions:

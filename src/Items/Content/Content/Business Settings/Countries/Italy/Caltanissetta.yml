@@ -1,8 +1,8 @@
 ﻿---
-ID: "2bc3b0ed-34cc-41f1-9d56-806a49b7929e"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "2512771a-28c5-476e-9b50-2dacf502d475"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Caltanissetta"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Caltanissetta"
 Languages:
 - Language: en
   Versions:

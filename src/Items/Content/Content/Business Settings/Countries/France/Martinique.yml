@@ -1,8 +1,8 @@
 ﻿---
-ID: "be5753cd-67d1-4267-9142-13939495d38d"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "41c558cf-ce98-47c5-b9de-8851ea3b4d10"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Martinique"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Martinique"
 Languages:
 - Language: en
   Versions:

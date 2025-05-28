@@ -1,8 +1,8 @@
 ﻿---
-ID: "87bdf7bf-940b-44d2-bd4d-44c5862d259c"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "ab76c343-9040-48d2-b5ce-3899b2d298a3"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Limerick"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Limerick"
 Languages:
 - Language: en
   Versions:

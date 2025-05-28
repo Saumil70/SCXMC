@@ -1,8 +1,8 @@
 ﻿---
-ID: "7786f2d4-08c9-4cca-9a29-46fe98475774"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "73bd03d2-99cc-4020-84cd-eec5615b002f"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Manche"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Manche"
 Languages:
 - Language: en
   Versions:

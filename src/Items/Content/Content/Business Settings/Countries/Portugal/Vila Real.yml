@@ -1,8 +1,8 @@
 ﻿---
-ID: "3a88cb3d-e8de-4888-995a-c276260198b5"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "0af8e006-9080-4101-90fa-1ff598944656"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Vila Real"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Vila Real"
 Languages:
 - Language: en
   Versions:

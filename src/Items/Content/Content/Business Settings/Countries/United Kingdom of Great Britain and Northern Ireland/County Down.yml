@@ -1,8 +1,8 @@
 ﻿---
-ID: "8442847f-78c1-47da-93a7-2e4bbacac6d5"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "09538f86-18a3-4dfa-ab1f-3cae8cfce8c0"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Down"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/County Down"
 Languages:
 - Language: en
   Versions:

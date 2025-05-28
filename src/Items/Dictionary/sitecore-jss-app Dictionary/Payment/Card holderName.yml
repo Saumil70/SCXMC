@@ -1,8 +1,8 @@
 ﻿---
-ID: "00698db7-eb2d-4f13-afcd-993e1851fe23"
-Parent: "35fb448e-9e96-41fd-9032-eb7cc4c9d8a9"
+ID: "6fc02182-7b69-47f2-8ea3-dcab4e001154"
+Parent: "6b4eecfc-701e-4fda-8fbf-ae23239a90cf"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Payment/Card holderName"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Payment/Card holderName"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

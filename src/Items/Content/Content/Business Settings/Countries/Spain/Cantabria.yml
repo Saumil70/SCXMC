@@ -1,8 +1,8 @@
 ﻿---
-ID: "bf13cc47-a4fe-437f-bbd7-6fb814cc3b76"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "29df6e78-cefe-43da-a19b-1e5f67cfc3b5"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Cantabria"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Cantabria"
 Languages:
 - Language: en
   Versions:

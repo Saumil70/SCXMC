@@ -1,8 +1,8 @@
 ﻿---
-ID: "732a8bbc-6ef2-4b37-8c68-f6b3f59d3e98"
-Parent: "6e4d5838-bf80-473a-bb79-bb115eaf5683"
+ID: "8b08fb95-e827-4209-8647-089d3ad85740"
+Parent: "2eb76e71-a864-40e5-ad10-bf0c85833836"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Serbia/Kosovo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Serbia/Kosovo"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "3a2d1af0-6c4a-44e1-8f8d-8b4562fca540"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "d65b18b8-07b1-45e8-a3ec-4cfc0c2ec575"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Romania"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Romania"
 Languages:
 - Language: en
   Versions:

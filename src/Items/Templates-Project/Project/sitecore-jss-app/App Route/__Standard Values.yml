@@ -10,6 +10,9 @@ SharedFields:
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8db0eaf7-ae79-4e35-895b-5644185a2386"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -46,44 +49,44 @@ SharedFields:
           key="jss-reuse-example"
           md="{09816864-F677-56AE-96A1-08257EB4FF74}" />
         <r
-          ds="{36061976-0165-425F-B5AB-0D6FC96D4E6F}"
+          ds="{14B29EFA-CEBC-4788-B963-ECBA154EB86F}"
           id="{ED8220B1-EF23-4AF1-BEA4-2B10D8CD3DA8}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-left"
           uid="{C162FE7F-9012-4A29-8113-1B7665D84B78}"
           ccb="Clear on publish" />
         <r
-          ds="{EDA5EDD1-4DC5-4599-AFA7-6EAD6F709FAD}"
+          ds="{C7659E04-17E4-4621-A1AC-CDAD5B5DABC5}"
           id="{F1E383CB-60DB-42B5-A7D3-C08CE919102D}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-right"
           uid="{D96D4A74-D1C5-44BA-BBC1-63E237412C9F}"
           ccb="Clear on publish" />
         <r
-          ds="{7DB79EE4-683F-4913-BCAF-F11FC518898B}"
+          ds="{63B65337-4A27-44A4-A477-FE73ECD262F7}"
           id="{F1E383CB-60DB-42B5-A7D3-C08CE919102D}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-right"
           uid="{BF5F3F14-27F3-4E2C-A49F-93BA1DF8A0D6}"
           ccb="Clear on publish" />
         <r
-          ds="{06CD9940-914B-4C63-B845-909FE584CAC4}"
+          ds="{BD4CF689-D75E-41CB-8976-EDDA2C22C6CD}"
           id="{F1E383CB-60DB-42B5-A7D3-C08CE919102D}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-right"
           uid="{B39224CC-CF69-4B1D-A5EF-C9A211717B3B}"
           ccb="Clear on publish" />
         <r
-          ds="{C4E83A6D-8534-440B-B8FA-0F0248AD9703}"
+          ds="{5D07B590-4E4E-4BB0-B316-89DB8FCD8797}"
           id="{42EF9D12-13EF-47AE-9FDC-6E88D32C6DF6}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-left"
           uid="{C07F530A-0BE6-49ED-AAE8-D3268C9AD4F5}"
           ccb="Clear on publish" />
         <r
-          ds="{510D5A15-D433-45B7-B34E-A53102F370E3}"
+          ds="{3B0EF9E4-B57C-48C0-BCE3-51F68789F2BE}"
           id="{F174DADC-F669-4422-A81D-8A0C92F09412}"
-          par=""
+          par="CSSStyles"
           ph="jss-footer-bottom"
           uid="{CCDAF060-5113-4951-BF9F-292FB32B293B}"
           ccb="Clear on publish" />
@@ -107,11 +110,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d8f0308-be67-40e8-86b6-1460c92812d0"
+      Value: "a46ce805-7724-48d4-a596-6055e0811943"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240521T140729Z
+      Value: 20250528T125205Z

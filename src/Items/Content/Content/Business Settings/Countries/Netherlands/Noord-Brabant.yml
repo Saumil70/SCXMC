@@ -1,8 +1,8 @@
 ﻿---
-ID: "8c47c696-2208-445b-bf44-413ddbb542c5"
-Parent: "5c3f476f-c2cf-4fce-8b5a-a2978b1917fa"
+ID: "4e0edea8-3123-4817-b750-1ebb2ae56fe1"
+Parent: "0c2433aa-e475-4378-aa09-c725d343a985"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Netherlands/Noord-Brabant"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Netherlands/Noord-Brabant"
 Languages:
 - Language: en
   Versions:

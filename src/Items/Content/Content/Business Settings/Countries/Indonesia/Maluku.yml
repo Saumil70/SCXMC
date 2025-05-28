@@ -1,8 +1,8 @@
 ﻿---
-ID: "6205c608-7a62-4ea0-8765-32500642ed99"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "53eed17e-1135-45e6-8b38-e706d37b55a2"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Maluku"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Maluku"
 Languages:
 - Language: en
   Versions:

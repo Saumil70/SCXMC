@@ -1,8 +1,8 @@
 ﻿---
-ID: "81013913-b411-4dbd-98ff-a6b6c35b2030"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "f304b354-0a9c-46b2-b5b3-78842d34a346"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Ismailia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Ismailia"
 Languages:
 - Language: en
   Versions:

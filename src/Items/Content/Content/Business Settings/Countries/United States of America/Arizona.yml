@@ -1,8 +1,8 @@
 ﻿---
-ID: "592ee43e-3fb8-46f6-a79f-163581907dcb"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "d56dd1fd-067d-413c-8670-ea96400990c1"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Arizona"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Arizona"
 Languages:
 - Language: en
   Versions:

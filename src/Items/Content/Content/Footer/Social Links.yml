@@ -1,8 +1,8 @@
 ﻿---
-ID: "c4e83a6d-8534-440b-b8fa-0f0248ad9703"
-Parent: "dd65b116-2d12-41c9-af80-d58eef4e1db5"
+ID: "5d07b590-4e4e-4bb0-b316-89db8fcd8797"
+Parent: "79de7eda-24ef-42df-bd16-aa61a3f0ca65"
 Template: "71fb8ab7-a0b8-4ccc-9bb3-e58971ed5910"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Social Links"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Social Links"
 Languages:
 - Language: en
   Versions:
@@ -13,22 +13,22 @@ Languages:
       Value: 20240521T125257Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0f4366c-ad00-4cda-9626-2d4999656fdd"
+      Value: "8ad8e5a8-b4ed-4472-a493-354c2caea607"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240521T130325Z
+      Value: 20250528T125205Z
     - ID: "f64fcfc3-59da-46ce-88ae-68bcf78ec4f9"
       Hint: Links
       Value: |
-        {7F030066-0985-4EE6-89C4-2063242A2B17}
-        {E6CD6F61-57E8-4859-A47A-E2A943A124D7}
-        {2B1796AD-A785-4A92-A5ED-09EF03EE5FF6}
-        {D1007365-55AF-4A0D-AC3F-89D9AF4BF111}
-        {3B429E01-13F5-40BA-9C6B-DAF178E9970B}
+        {7FA9D1B6-65CD-4D16-8066-C6516638CFC6}
+        {86A461C3-DDDC-4941-A05F-EB331310044A}
+        {2964869B-B6E7-441E-9EA8-3852B58496F3}
+        {91FFB30C-666F-4A3C-97C2-6466EC7B4E9F}
+        {4C703BCB-3A26-4917-9741-2CBD58F84E7D}
     - ID: "f72b1b7f-eb56-4c99-bcaa-61ab5953a9ca"
       Hint: SectionHeader
       Value: Social Links

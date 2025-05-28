@@ -1,8 +1,8 @@
 ﻿---
-ID: "f94b9193-4110-4cec-a783-296ee5d71530"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "2b866bb3-b87d-4c91-9dfd-e9f374814a7a"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Imo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Imo"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "45696e22-8aec-480c-81fb-9cb07953e07f"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "17ed19a0-bc70-4288-aa05-bf722098552c"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/Free State"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/Free State"
 Languages:
 - Language: en
   Versions:

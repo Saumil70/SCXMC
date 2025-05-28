@@ -1,8 +1,8 @@
 ﻿---
-ID: "b617e471-b519-4f99-b6b7-82532b934c39"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "11caab17-86ee-409f-8802-0d7a89349734"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Portalegre"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Portalegre"
 Languages:
 - Language: en
   Versions:

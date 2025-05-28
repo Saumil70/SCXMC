@@ -1,8 +1,8 @@
 ﻿---
-ID: "3b122d89-7560-4f98-84c7-020e7c958b10"
-Parent: "453956c5-bf2f-45ed-b327-35256da91441"
+ID: "fb4ba67b-785c-4fd0-a4cf-7fc4a0eb6f6b"
+Parent: "25ecd3ec-1348-42ee-8fc4-d9fcb1c70a4b"
 Template: "a58162c7-9343-4456-aeb9-085a45b83454"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Overview/Page Components/Topic"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Overview/Page Components/Topic"
 BranchID: "570be036-290e-4e39-a6a1-19b42b429d7b"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "138b4a35-1042-4b15-86e7-ebe58632fac7"
       Hint: ImagePosition
-      Value: Bottom
+      Value: 
     - ID: "251a2957-3dd8-4ded-b794-c9cc18f88106"
       Hint: Image
       Value: |
@@ -31,14 +31,14 @@ Languages:
         <p class="feature-part-text" style="color: #383e4d; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; line-height: 27px;">Typical headless eCommerce architecture makes use of an application programming interface (API) via a RESTful system to deliver and provide content. The official&nbsp;<a href="https://www.nopcommerce.com/web-api" style="color: #25c8e0; background-color: transparent; margin: 0px; padding: 0px;">Web API plugin</a>&nbsp;from the nopCommerce team allows developers to interact with such third-party services as popular CMS, ERPs, PIMs, POS, custom front-end solutions, or mobile apps using REST. There are more than 1.100 back-end and front-end methods available.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed3f9a0d-b924-40a5-8bb0-8f17d7425b5f"
+      Value: "55d880d8-2c11-44e1-96a6-37bc148d465f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240522T100424Z
+      Value: 20250528T124512Z
     - ID: "f7b01856-5956-418f-a039-b0409aeecd6f"
       Hint: Heading
       Value: "What is headless eCommerce?"

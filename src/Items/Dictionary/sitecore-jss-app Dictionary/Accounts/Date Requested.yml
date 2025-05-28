@@ -1,8 +1,8 @@
 ﻿---
-ID: "a301df20-09b7-47bd-b652-160de3713447"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "93fe083f-6a59-4e64-a58c-e81198307979"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Date Requested"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Date Requested"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

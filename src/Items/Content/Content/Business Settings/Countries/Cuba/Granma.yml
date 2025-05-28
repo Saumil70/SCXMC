@@ -1,8 +1,8 @@
 ﻿---
-ID: "0ef48f3c-93a1-4cfd-8a4e-06074e07b0f7"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "7e8838d4-74f0-4bee-a387-2a965878959d"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Granma"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Granma"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "d14e7882-6359-49f3-b140-a3d5af97307f"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "cb25b7b4-0293-4c1e-8936-7fcd0d5b0ae1"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Diekirch"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Diekirch"
 Languages:
 - Language: en
   Versions:

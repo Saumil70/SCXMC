@@ -1,8 +1,8 @@
 ﻿---
-ID: "bc566c69-6680-4f48-9982-72855120d4b8"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "f3c08ad9-af81-421e-8786-c2c2fdb971ab"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Bahia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Bahia"
 Languages:
 - Language: en
   Versions:

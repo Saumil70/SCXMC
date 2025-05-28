@@ -1,8 +1,8 @@
 ﻿---
-ID: "cbd378d6-fb81-40ee-ac81-728215c68c3a"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "7eec1810-afc2-4e77-bd49-1e794e244ae3"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Quirino"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Quirino"
 Languages:
 - Language: en
   Versions:

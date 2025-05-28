@@ -1,8 +1,8 @@
 ﻿---
-ID: "dfcd48e1-9254-41d6-9989-ae8bd66c4169"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "ad967350-246a-4012-a80c-415fe4636543"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Bremen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Bremen"
 Languages:
 - Language: en
   Versions:

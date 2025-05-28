@@ -1,8 +1,8 @@
 ﻿---
-ID: "142142ac-43df-4c2e-82be-dc25a7d976ee"
-Parent: "68fb3104-fe46-4282-8cf5-9fda382e3e61"
+ID: "7843dbca-8e21-4552-bafb-ec3821e27256"
+Parent: "140b8442-3eea-4451-86d4-821d9c96b2f8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Australia/Victoria"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Australia/Victoria"
 Languages:
 - Language: en
   Versions:

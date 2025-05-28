@@ -1,8 +1,8 @@
 ﻿---
-ID: "702e8e41-5251-4e4a-b7c0-0c09b99de3f7"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "3ed7fdd7-75e9-4994-8e68-4db0341a0ee5"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Doubs"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Doubs"
 Languages:
 - Language: en
   Versions:

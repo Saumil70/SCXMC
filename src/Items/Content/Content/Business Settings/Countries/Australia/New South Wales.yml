@@ -1,8 +1,8 @@
 ﻿---
-ID: "3ae9e311-3898-478e-a8d1-ecd6dafc3856"
-Parent: "68fb3104-fe46-4282-8cf5-9fda382e3e61"
+ID: "dd63d9ab-0158-4441-8ad0-7eabba9568f5"
+Parent: "140b8442-3eea-4451-86d4-821d9c96b2f8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Australia/New South Wales"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Australia/New South Wales"
 Languages:
 - Language: en
   Versions:

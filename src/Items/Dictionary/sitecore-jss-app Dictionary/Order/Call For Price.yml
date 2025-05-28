@@ -1,8 +1,8 @@
 ﻿---
-ID: "38229af9-18d9-4b8c-ad96-6a798e200630"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "5a78510e-765b-45c9-bc69-d92e7fd36103"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Call For Price"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Call For Price"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

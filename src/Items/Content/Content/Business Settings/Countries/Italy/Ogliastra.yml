@@ -1,8 +1,8 @@
 ﻿---
-ID: "d25c7717-9d9a-4b89-b952-6a4ceaee9e2b"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "14d029e9-c932-4559-bbb4-db6c8a326043"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Ogliastra"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Ogliastra"
 Languages:
 - Language: en
   Versions:

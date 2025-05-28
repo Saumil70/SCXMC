@@ -1,8 +1,8 @@
 ﻿---
-ID: "d6b997a6-b220-4947-bc8a-3ec6ff02f23f"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "afbc50a2-df44-4417-bd75-d731121ab59b"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Guarda"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Guarda"
 Languages:
 - Language: en
   Versions:

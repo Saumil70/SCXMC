@@ -1,8 +1,8 @@
 ﻿---
-ID: "7aa219c2-96eb-4165-b27b-d530b3b0c5a5"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "f3e2606a-409e-4065-b40a-270bccc492a2"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Scottish Borders"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Scottish Borders"
 Languages:
 - Language: en
   Versions:

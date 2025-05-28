@@ -1,8 +1,8 @@
 ﻿---
-ID: "4b2eb3df-892c-472c-892b-13a012d0d24b"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "ddea3ffe-493c-4522-8ba9-09c96dd05709"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Newfoundland and Labrador"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Newfoundland and Labrador"
 Languages:
 - Language: en
   Versions:

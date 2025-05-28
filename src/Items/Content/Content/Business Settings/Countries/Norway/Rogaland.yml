@@ -1,8 +1,8 @@
 ﻿---
-ID: "aa5a12e5-4365-41b1-92ea-1718dfea07d8"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "21dce8d9-1170-4759-8b3b-8c1a81e7cad5"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Rogaland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Rogaland"
 Languages:
 - Language: en
   Versions:

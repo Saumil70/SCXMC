@@ -1,8 +1,8 @@
 ﻿---
-ID: "29e27bcb-c337-4d7d-a575-2dd074391a41"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "0d3ad15c-f426-4039-a075-1ad7bf44e7cc"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Alberta"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Alberta"
 Languages:
 - Language: en
   Versions:

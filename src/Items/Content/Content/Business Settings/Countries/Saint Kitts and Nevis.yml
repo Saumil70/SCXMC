@@ -1,8 +1,8 @@
 ﻿---
-ID: "40f98407-5e3b-4fee-aaa4-9dca0c9fd2b5"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "254e427e-78d5-4259-9622-8358e4a4d4e6"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Saint Kitts and Nevis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Saint Kitts and Nevis"
 Languages:
 - Language: en
   Versions:

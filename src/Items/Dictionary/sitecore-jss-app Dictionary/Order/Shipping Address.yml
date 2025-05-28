@@ -1,8 +1,8 @@
 ﻿---
-ID: "2b0af018-5f87-4916-8fb3-536eef445e15"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "ef436b22-72d1-4090-a888-10010f816d50"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Shipping Address"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Shipping Address"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

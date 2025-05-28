@@ -1,8 +1,8 @@
 ﻿---
-ID: "3464f5dc-1a1b-46e2-a664-0c41e570c16a"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "1fd6eba2-4a54-49f8-94ed-db83280e5d4a"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Uruguay"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Uruguay"
 Languages:
 - Language: en
   Versions:

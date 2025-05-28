@@ -1,8 +1,8 @@
 ﻿---
-ID: "6d8a7179-4259-4902-8af9-3ecee2acf6ac"
-Parent: "39b42163-1248-48ab-a9ba-9ac01e3587f9"
+ID: "eda2c857-37d0-4fc3-bbf2-bfaa70c2a293"
+Parent: "363bc0fc-d9f5-4bee-aedd-dcc553f45a62"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Kuwait/Al Farwaniya"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Kuwait/Al Farwaniya"
 Languages:
 - Language: en
   Versions:

@@ -12,9 +12,16 @@ SharedFields:
   Value: "{71FB8AB7-A0B8-4CCC-9BB3-E58971ED5910}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: "/sitecore/content/sitecore-jss-app/Content/Footer"
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "625a29d7-c8c0-43bc-b550-f235d30d1943"
 Languages:
 - Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "fb8073d2-7bc4-4605-bd0c-cfb01c83cbcf"
   Versions:
   - Version: 1
     Fields:
@@ -31,11 +38,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "86e666fb-2d1b-423d-91be-5fd5efd2421f"
+      Value: "715c982a-8233-4c24-871f-435d6e720ecf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240717T112554Z
+      Value: 20250528T124512Z

@@ -1,8 +1,8 @@
 ﻿---
-ID: "c84c41b2-d160-465e-b3e2-b33c072ca08c"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "82def393-e26b-43c8-9d83-478d3e44d8af"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Sokoto"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Sokoto"
 Languages:
 - Language: en
   Versions:

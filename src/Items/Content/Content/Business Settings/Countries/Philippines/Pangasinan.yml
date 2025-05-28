@@ -1,8 +1,8 @@
 ﻿---
-ID: "56eb3ed2-b4e3-4780-a143-35750cd38750"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "81e28b81-701e-4071-b9c4-e7add2331eea"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Pangasinan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Pangasinan"
 Languages:
 - Language: en
   Versions:

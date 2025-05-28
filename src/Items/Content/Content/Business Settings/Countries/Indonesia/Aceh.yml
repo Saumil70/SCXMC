@@ -1,8 +1,8 @@
 ﻿---
-ID: "f99f6d15-b0fd-4e6e-92d4-e8d6d6dcedb9"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "0a9ac343-2661-4f00-8e21-a5eae8f71295"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Aceh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Aceh"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "752496bb-3915-4497-a9a7-43dbbaf206e4"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "28279c88-c2a1-4e9d-9d34-b9563f961c27"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Shipping Method"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Shipping Method"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

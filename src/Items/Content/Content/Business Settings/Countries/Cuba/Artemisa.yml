@@ -1,8 +1,8 @@
 ﻿---
-ID: "7bbe8d9e-9b55-4734-9a5c-2834ff6937d2"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "cd494c78-dd19-4537-983a-441747019b0e"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Artemisa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Artemisa"
 Languages:
 - Language: en
   Versions:

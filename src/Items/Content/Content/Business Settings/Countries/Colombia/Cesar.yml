@@ -1,8 +1,8 @@
 ﻿---
-ID: "e1080b3a-d1f0-49f0-bb66-36bece76c0b8"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "d5d8a315-52ef-4173-bb3a-859fa83d3c13"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Cesar"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Cesar"
 Languages:
 - Language: en
   Versions:

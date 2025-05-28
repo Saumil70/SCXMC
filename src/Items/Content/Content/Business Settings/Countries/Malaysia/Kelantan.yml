@@ -1,8 +1,8 @@
 ﻿---
-ID: "a4693cca-0c2a-4c9d-bbee-c03b937c50a2"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "8ed252fb-4da3-47ff-ace7-3b27281da237"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Kelantan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Kelantan"
 Languages:
 - Language: en
   Versions:

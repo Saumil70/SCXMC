@@ -1,8 +1,8 @@
 ﻿---
-ID: "5eb31be5-ec00-4ad9-9471-f3665c13e22c"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "7798a37e-c9c5-4b0f-ab2b-a3c76e561e86"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/New Jersey"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/New Jersey"
 Languages:
 - Language: en
   Versions:

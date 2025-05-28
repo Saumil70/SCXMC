@@ -1,8 +1,8 @@
 ﻿---
-ID: "7e0f90c1-8745-4a00-8fad-dec00d2c0d97"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "25291425-a7a2-4290-a520-a3bee092c16a"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Western Isles"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Western Isles"
 Languages:
 - Language: en
   Versions:

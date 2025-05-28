@@ -1,8 +1,8 @@
 ﻿---
-ID: "06c1f87d-7635-4cdc-8a09-94bef6871e98"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "fb2cac9d-55a4-4a66-b565-2ca0ac46b35a"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Palawan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Palawan"
 Languages:
 - Language: en
   Versions:

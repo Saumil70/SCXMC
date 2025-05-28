@@ -1,8 +1,8 @@
 ﻿---
-ID: "e308d361-35fc-4556-a4f2-a23bad716796"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "47f63049-a7f2-46aa-b5b6-4ddce2a60b10"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Connecticut"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Connecticut"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "89586fee-8222-41c5-bad5-119ce06d496b"
-Parent: "98ff1768-a5e0-4ea1-b76a-0c6637c5a55e"
+ID: "602a03e0-accd-4dc7-8865-a50f7ca1b469"
+Parent: "d3fe0352-bda5-40af-bc32-0b5fa9c91e37"
 Template: "84b4281c-4c1d-4836-8987-ecaba72bec96"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Dimension/inches"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Dimension/inches"
 Languages:
 - Language: en
   Versions:

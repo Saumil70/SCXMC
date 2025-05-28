@@ -1,8 +1,8 @@
 ﻿---
-ID: "88b0615b-2d46-41e7-906d-c14bf9ec9a85"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "c1ae5ece-e8fe-4adc-8499-d236c0b05c8a"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Tarn et Garonne"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Tarn et Garonne"
 Languages:
 - Language: en
   Versions:

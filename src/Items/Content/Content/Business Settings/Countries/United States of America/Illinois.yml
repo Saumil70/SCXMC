@@ -1,8 +1,8 @@
 ﻿---
-ID: "3e7b12ac-07df-410e-8d0c-236a084f6cdb"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "7f21bea8-ab19-4d6f-983c-255273ed94b3"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Illinois"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Illinois"
 Languages:
 - Language: en
   Versions:

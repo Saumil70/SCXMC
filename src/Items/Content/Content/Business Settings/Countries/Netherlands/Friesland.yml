@@ -1,8 +1,8 @@
 ﻿---
-ID: "d7a4b93d-3296-47e4-ba13-eb807ec9fb8d"
-Parent: "5c3f476f-c2cf-4fce-8b5a-a2978b1917fa"
+ID: "a5c78ffe-bdfe-4362-9c21-2f62a399a1a1"
+Parent: "0c2433aa-e475-4378-aa09-c725d343a985"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Netherlands/Friesland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Netherlands/Friesland"
 Languages:
 - Language: en
   Versions:

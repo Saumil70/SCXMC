@@ -1,8 +1,8 @@
 ﻿---
-ID: "e3aea018-5654-48bc-944a-032e1eaed24e"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "2dbb2720-67cc-4c1b-8ba7-a047e25a5080"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/Order Status"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/Order Status"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

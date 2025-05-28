@@ -1,8 +1,8 @@
 ﻿---
-ID: "7cb52590-123d-4f9f-8bb8-47b30c3199fe"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "2f57d57d-5f6c-437a-884c-b40bbf262d91"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Laois"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Laois"
 Languages:
 - Language: en
   Versions:

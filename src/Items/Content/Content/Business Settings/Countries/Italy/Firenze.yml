@@ -1,8 +1,8 @@
 ﻿---
-ID: "f5c51c8c-246f-4565-9d26-3dce76766a06"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "27a40198-cb33-41e7-a82e-8a117b72177e"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Firenze"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Firenze"
 Languages:
 - Language: en
   Versions:

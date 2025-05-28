@@ -1,8 +1,8 @@
 ﻿---
-ID: "7cc12636-1bb2-4c1a-8f9c-038fd5f11e9b"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "bef4ca8b-5529-4406-b48b-81a643eccbd1"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Uganda"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Uganda"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "0c7fc62c-e403-489d-b5fc-0469d62314e9"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "6001d79a-6ebb-4c46-8e9c-93ae3269ab93"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Odisha"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Odisha"
 Languages:
 - Language: en
   Versions:

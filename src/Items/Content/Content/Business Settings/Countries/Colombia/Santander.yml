@@ -1,8 +1,8 @@
 ﻿---
-ID: "5e6c7284-2f40-4596-b529-0b285dd22652"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "17de47d4-a927-4837-9d03-dd4f777b9096"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Santander"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Santander"
 Languages:
 - Language: en
   Versions:

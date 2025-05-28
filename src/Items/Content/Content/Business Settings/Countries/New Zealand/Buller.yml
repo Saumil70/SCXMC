@@ -1,8 +1,8 @@
 ﻿---
-ID: "2b1c62d4-be7e-4939-a8a1-def917cd28f5"
-Parent: "a4ab6618-dc6a-47ba-aea0-b41491d5afdf"
+ID: "cfcd6230-2be2-4cd3-a7bf-d92470e9e060"
+Parent: "a14ac8db-7611-4b27-b212-8b04380e13d0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/New Zealand/Buller"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/New Zealand/Buller"
 Languages:
 - Language: en
   Versions:

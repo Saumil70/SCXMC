@@ -1,8 +1,8 @@
 ﻿---
-ID: "0e21d499-9c69-4607-9c74-947dfa1456c6"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "eac32911-57fb-40b4-b99d-739842b06d8d"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Dominica"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Dominica"
 Languages:
 - Language: en
   Versions:

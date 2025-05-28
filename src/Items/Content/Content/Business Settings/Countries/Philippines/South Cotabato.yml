@@ -1,8 +1,8 @@
 ﻿---
-ID: "bb965d32-5c06-48b3-b591-6a04ad5a93f2"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "89ed0e9e-c01a-4210-90d4-48507426baa2"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/South Cotabato"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/South Cotabato"
 Languages:
 - Language: en
   Versions:

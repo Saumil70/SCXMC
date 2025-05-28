@@ -1,8 +1,8 @@
 ﻿---
-ID: "825139fe-d3c2-43a6-b296-3340758c7e1b"
-Parent: "8ad74f3a-7d93-440a-8384-fa17b20bc7c3"
+ID: "af1ddc31-0c80-4f2b-bc21-f4181a808f0d"
+Parent: "0058ac4b-5cb1-44af-bf52-2aa61332a815"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Denmark/Nordjylland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Denmark/Nordjylland"
 Languages:
 - Language: en
   Versions:

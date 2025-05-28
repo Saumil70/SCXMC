@@ -1,8 +1,8 @@
 ﻿---
-ID: "5a81df3f-1f0e-4b91-a5b9-7070de4e0962"
-Parent: "7f7e6fbe-afbd-445d-9021-efea368d0966"
+ID: "78580007-6c5a-4f85-85b8-909439e66dad"
+Parent: "0f1d8039-c13e-4022-8505-5dbbab5a6e98"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Slovenia/Pomurska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Slovenia/Pomurska"
 Languages:
 - Language: en
   Versions:

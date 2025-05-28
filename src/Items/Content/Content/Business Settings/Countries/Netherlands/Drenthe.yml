@@ -1,8 +1,8 @@
 ﻿---
-ID: "53e04f03-236f-4650-b53c-935c1e79478e"
-Parent: "5c3f476f-c2cf-4fce-8b5a-a2978b1917fa"
+ID: "9790f9ac-8a67-4c71-bcf1-98ddae8966a1"
+Parent: "0c2433aa-e475-4378-aa09-c725d343a985"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Netherlands/Drenthe"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Netherlands/Drenthe"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "416ab186-7e47-4a8e-8fa4-ca6de1c7a370"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "449f1b01-f725-46e1-903e-2b68bbc6d2e8"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Inverclyde"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Inverclyde"
 Languages:
 - Language: en
   Versions:

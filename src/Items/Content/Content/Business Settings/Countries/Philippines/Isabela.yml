@@ -1,8 +1,8 @@
 ﻿---
-ID: "fad94d87-6388-4f53-b5e5-cb1dbcf443ae"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "7c2be64c-e87d-4800-bf3e-bfed68aed753"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Isabela"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Isabela"
 Languages:
 - Language: en
   Versions:

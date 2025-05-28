@@ -1,8 +1,8 @@
 ﻿---
-ID: "76013534-a240-4f2e-a1a1-b32ac844827e"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "4586236d-e936-4e51-ba62-f46064d4b2ce"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/Manitoba"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/Manitoba"
 Languages:
 - Language: en
   Versions:

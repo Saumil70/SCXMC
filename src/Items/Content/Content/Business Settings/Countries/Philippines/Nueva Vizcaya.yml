@@ -1,8 +1,8 @@
 ﻿---
-ID: "1e7d3773-d0af-4702-ba18-17550c8bc552"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "f9821c34-7771-4756-b4a8-5a65e0a1694d"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Nueva Vizcaya"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Nueva Vizcaya"
 Languages:
 - Language: en
   Versions:

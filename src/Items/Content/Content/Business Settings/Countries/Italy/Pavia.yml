@@ -1,8 +1,8 @@
 ﻿---
-ID: "932b32d7-14ac-41a7-a030-e8d9a6db0d7c"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "d161c96e-3d9b-4e19-be13-58eab5c747e5"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Pavia"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Pavia"
 Languages:
 - Language: en
   Versions:

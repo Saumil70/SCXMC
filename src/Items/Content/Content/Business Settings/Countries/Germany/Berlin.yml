@@ -1,8 +1,8 @@
 ﻿---
-ID: "7105440a-4d46-4329-932a-2be9d274a11a"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "d4629dfe-b54f-48bc-b9d5-d3592a584bf9"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Berlin"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Berlin"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "32b3fe13-4fb9-4812-b238-bed11a5762f7"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "018445a2-e16c-4400-bb5d-6d7944b3d1bd"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Mayotte"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Mayotte"
 Languages:
 - Language: en
   Versions:

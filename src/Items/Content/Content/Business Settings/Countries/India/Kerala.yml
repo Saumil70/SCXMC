@@ -1,8 +1,8 @@
 ﻿---
-ID: "77d0b6fa-765e-49f2-a20b-62832a96c3ab"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "8b6b68fc-9c32-46d6-a4a7-6f8b82e71c82"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Kerala"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Kerala"
 Languages:
 - Language: en
   Versions:

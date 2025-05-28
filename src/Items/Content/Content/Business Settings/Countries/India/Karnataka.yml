@@ -1,8 +1,8 @@
 ﻿---
-ID: "7df41eaa-6d47-4d5d-a5f2-dd687513a49d"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "599214a4-a353-4693-bb1a-088bc0e377e9"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Karnataka"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Karnataka"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "f3cffe09-858a-4e2f-89e1-997c175c366c"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "6ceef5e5-d76f-435a-acf3-79f6b1fa367c"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/La Rioja"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/La Rioja"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "818c6a70-f1b1-4261-82aa-d4d0bc0511df"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "039327fb-952a-4969-8e06-95491f20f2eb"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Campeche"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Campeche"
 Languages:
 - Language: en
   Versions:

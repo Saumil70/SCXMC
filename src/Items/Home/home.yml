@@ -1,8 +1,8 @@
 ﻿---
-ID: "5288d54b-295e-5fed-9225-d9a08f763234"
-Parent: "33e0826a-f8f6-5961-a24a-2f4cc7fa946e"
+ID: "9d40a625-af56-47b7-958e-5729adbaf492"
+Parent: "2ffafbcb-6497-4b01-8b0b-f4d006293902"
 Template: "ccd7acfa-6848-5b61-960c-fb0a533d3cd3"
-Path: "/sitecore/content/sitecore-jss-app/home"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -25,9 +25,9 @@ Languages:
             <r
               uid="{014AEBE3-D33A-4AA7-8F4E-4C740F5FDF47}"
               p:after="p[@uid='{F47F9667-2AE7-5B0B-BFA1-C552DA5B96A5}']"
-              s:ds="{5D5BAACF-43FC-44C9-A93F-B56875F180C1}"
+              s:ds="{7054D652-A383-4C28-999F-8977669104C7}"
               s:id="{5A218541-E475-4DDE-81A3-E51E39C981F0}"
-              s:par=""
+              s:par="CSSStyles"
               s:ph="/jss-main"
               s:ccb="Clear on publish" />
             <r
@@ -42,17 +42,17 @@ Languages:
       Value: 20240327T114708Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "50e0c6e5-f875-53c2-b98c-9b5b5a96705b"
       Hint: pageTitle
       Value: Welcome to SV Store
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "72862115-76c3-4034-8946-5fadb316326c"
+      Value: "73a5e50e-fb16-4c62-801f-2f95a8d98a58"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240609T054938Z
+      Value: 20250528T122758Z

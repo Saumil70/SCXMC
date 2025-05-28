@@ -1,8 +1,8 @@
 ﻿---
-ID: "9d67b55a-f204-4194-be2e-fa78493048dc"
-Parent: "16bbb266-2892-4ef1-88a5-8bbe9311b45d"
+ID: "54094be8-e521-4c97-87a9-1951bb62a9d7"
+Parent: "f90a031f-fdfc-4208-8b44-8eb33c3144b3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cyprus/Famagusta district"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cyprus/Famagusta district"
 Languages:
 - Language: en
   Versions:

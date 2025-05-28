@@ -1,8 +1,8 @@
 ﻿---
-ID: "5a9596d1-3483-484b-b768-201158ef18d3"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "124f6f76-9db9-4c62-ba08-6d7b62f244b4"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Georgia and the South Sandwich Islands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Georgia and the South Sandwich Islands"
 Languages:
 - Language: en
   Versions:

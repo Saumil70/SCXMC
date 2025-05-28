@@ -1,8 +1,8 @@
 ﻿---
-ID: "68f6d884-c970-436b-a8a2-198bf029c356"
-Parent: "3c1d255d-ff8a-47c4-9fab-657641c8dec8"
+ID: "3ebcd577-adc2-491d-afc3-168cb38e5c36"
+Parent: "84697694-fe36-47aa-a519-36d2b3206b99"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Germany/Hamburg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Germany/Hamburg"
 Languages:
 - Language: en
   Versions:

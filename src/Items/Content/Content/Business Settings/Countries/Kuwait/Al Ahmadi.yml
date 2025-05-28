@@ -1,8 +1,8 @@
 ﻿---
-ID: "24d15ded-4dd6-425a-8747-050853aa1976"
-Parent: "39b42163-1248-48ab-a9ba-9ac01e3587f9"
+ID: "090324f1-0cb4-4e21-b47a-cf08edc86de6"
+Parent: "363bc0fc-d9f5-4bee-aedd-dcc553f45a62"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Kuwait/Al Ahmadi"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Kuwait/Al Ahmadi"
 Languages:
 - Language: en
   Versions:

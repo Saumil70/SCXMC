@@ -1,8 +1,8 @@
 ﻿---
-ID: "03f3738e-adc5-4b63-870d-94bf513c3fce"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "5da147e8-9295-4be2-90f9-455625ff6a60"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Jharkhand"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Jharkhand"
 Languages:
 - Language: en
   Versions:

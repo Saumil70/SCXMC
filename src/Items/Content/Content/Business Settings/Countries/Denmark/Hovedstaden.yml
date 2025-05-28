@@ -1,8 +1,8 @@
 ﻿---
-ID: "f16b58f3-b9b6-45cb-adff-ae0f001184bc"
-Parent: "8ad74f3a-7d93-440a-8384-fa17b20bc7c3"
+ID: "d37821b0-dc97-4583-8fa9-b73c7cbc175b"
+Parent: "0058ac4b-5cb1-44af-bf52-2aa61332a815"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Denmark/Hovedstaden"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Denmark/Hovedstaden"
 Languages:
 - Language: en
   Versions:

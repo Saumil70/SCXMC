@@ -1,8 +1,8 @@
 ﻿---
-ID: "9af66e37-9453-40a9-bce1-04d5f3566406"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "6c37e300-3bad-47a0-b7f3-77212e8754c1"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Nueva Ecija"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Nueva Ecija"
 Languages:
 - Language: en
   Versions:

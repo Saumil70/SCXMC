@@ -1,8 +1,8 @@
 ﻿---
-ID: "10d81395-39a7-4510-af00-e3baff379131"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "6ec27d4f-6256-4049-ad79-7bce056af087"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Papua"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Papua"
 Languages:
 - Language: en
   Versions:

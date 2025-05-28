@@ -1,8 +1,8 @@
 ﻿---
-ID: "4fc9c6c4-3cf0-436c-9643-fe804207e3d9"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "22b3239d-eff3-443f-af30-4d2910ee22c3"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Nuoro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Nuoro"
 Languages:
 - Language: en
   Versions:

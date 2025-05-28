@@ -1,8 +1,8 @@
 ﻿---
-ID: "f89b1024-f8cc-4b30-ad2d-323fcd27770b"
-Parent: "7f7e6fbe-afbd-445d-9021-efea368d0966"
+ID: "4b7926b2-236f-479d-84dc-45f5454849f3"
+Parent: "0f1d8039-c13e-4022-8505-5dbbab5a6e98"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Slovenia/Zasavska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Slovenia/Zasavska"
 Languages:
 - Language: en
   Versions:

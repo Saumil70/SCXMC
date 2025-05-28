@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d4cfbd7-d61f-4f9d-a337-ebf384baa3fb"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "e0b55014-20a2-4949-828a-a6e1c2f4acba"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Aveiro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Aveiro"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "c150d5c0-0c28-47a7-83f9-09bc7e2a231d"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "86eb35dd-d209-4486-bb36-cc12f8aa927c"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Campobasso"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Campobasso"
 Languages:
 - Language: en
   Versions:

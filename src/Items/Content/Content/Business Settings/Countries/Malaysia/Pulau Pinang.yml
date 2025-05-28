@@ -1,8 +1,8 @@
 ﻿---
-ID: "2afb7ca4-9dfc-48b1-85d4-9adc4b40a8cc"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "2ed6026a-9058-4d2a-b5aa-95e1f2e692a1"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Pulau Pinang"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Pulau Pinang"
 Languages:
 - Language: en
   Versions:

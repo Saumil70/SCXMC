@@ -1,8 +1,8 @@
 ﻿---
-ID: "d3134b18-4c25-4e96-943b-e86dfd3d0ef2"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "407d3346-da82-42c7-a011-7bdc6b6d22d9"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Roraima"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Roraima"
 Languages:
 - Language: en
   Versions:

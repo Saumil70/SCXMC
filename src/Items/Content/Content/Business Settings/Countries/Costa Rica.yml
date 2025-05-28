@@ -1,8 +1,8 @@
 ﻿---
-ID: "137391fd-25ac-4884-abf7-a9d1498af3e1"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "5f76ff65-aad6-4a82-b258-ab41db2cc582"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Costa Rica"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Costa Rica"
 Languages:
 - Language: en
   Versions:

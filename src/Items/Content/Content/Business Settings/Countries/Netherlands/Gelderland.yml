@@ -1,8 +1,8 @@
 ﻿---
-ID: "7e4b0f69-174b-4952-b746-062d2d5b2dac"
-Parent: "5c3f476f-c2cf-4fce-8b5a-a2978b1917fa"
+ID: "96c35c2a-a882-4c4a-a5ba-d07519147ff1"
+Parent: "0c2433aa-e475-4378-aa09-c725d343a985"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Netherlands/Gelderland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Netherlands/Gelderland"
 Languages:
 - Language: en
   Versions:

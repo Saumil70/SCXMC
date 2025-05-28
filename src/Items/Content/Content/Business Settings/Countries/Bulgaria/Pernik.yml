@@ -1,8 +1,8 @@
 ﻿---
-ID: "9c263fc2-16b6-4c35-9d45-53f912a2fff3"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "3eb87582-a173-4269-88fe-c7496c8094ae"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Pernik"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Pernik"
 Languages:
 - Language: en
   Versions:

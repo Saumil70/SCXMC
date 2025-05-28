@@ -1,8 +1,8 @@
 ﻿---
-ID: "8dd00a42-100e-4fe6-b622-2cbe1a8200f3"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "43258979-ac33-46c2-ae74-cd75a0b131ce"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Clare"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Clare"
 Languages:
 - Language: en
   Versions:

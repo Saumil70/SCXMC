@@ -1,8 +1,8 @@
 ﻿---
-ID: "919e4ff9-c255-4cae-a168-6b8601c0c77c"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "4a3f0630-df81-498b-80cf-7050cb5ab140"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Montenegro"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Montenegro"
 Languages:
 - Language: en
   Versions:

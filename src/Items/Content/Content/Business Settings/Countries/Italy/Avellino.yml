@@ -1,8 +1,8 @@
 ﻿---
-ID: "0b964f3d-bf34-43d1-adb5-fa8aa90de0e2"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "3b1c3149-07b2-46df-8dde-19d01b7c393e"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Avellino"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Avellino"
 Languages:
 - Language: en
   Versions:

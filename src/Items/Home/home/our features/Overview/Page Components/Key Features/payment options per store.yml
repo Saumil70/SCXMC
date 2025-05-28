@@ -1,8 +1,8 @@
 ﻿---
-ID: "ac2b71ca-1f8e-4616-8683-cfc95d7e2a90"
-Parent: "a0c07aed-1263-4c98-bb0b-2d143d0c35c0"
+ID: "a48c0e72-8e7b-4c6d-a82b-1ca1115ac87c"
+Parent: "d7f80ea3-fcf3-4062-9cf6-3374d612cf86"
 Template: "49bb78df-c027-49fe-8258-f357cf000d18"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Overview/Page Components/Key Features/payment options per store"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Overview/Page Components/Key Features/payment options per store"
 Languages:
 - Language: en
   Versions:

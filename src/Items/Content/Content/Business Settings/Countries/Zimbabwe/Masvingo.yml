@@ -1,8 +1,8 @@
 ﻿---
-ID: "b05ed62b-1478-4ff0-a82e-93265f6661e8"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "2211aae6-4cba-4d96-9ac4-39105ff8c263"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Masvingo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Masvingo"
 Languages:
 - Language: en
   Versions:

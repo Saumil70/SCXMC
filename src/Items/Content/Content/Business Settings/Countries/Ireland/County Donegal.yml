@@ -1,8 +1,8 @@
 ﻿---
-ID: "a6df7c01-179a-4b05-a280-c8b433c39991"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "c3a2cfda-e6a8-4883-b10d-10f369b32a18"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Donegal"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Donegal"
 Languages:
 - Language: en
   Versions:

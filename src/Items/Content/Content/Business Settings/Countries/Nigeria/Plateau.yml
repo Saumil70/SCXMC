@@ -1,8 +1,8 @@
 ﻿---
-ID: "88ca8feb-af33-4862-b3d0-5f5c0eade6a0"
-Parent: "7a37d51a-f716-4efe-af12-81f54d351b8c"
+ID: "cfc6fbc5-eff7-4958-b333-40767172defa"
+Parent: "556793cc-7308-4b41-ab6e-c8708baa4545"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Nigeria/Plateau"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Nigeria/Plateau"
 Languages:
 - Language: en
   Versions:

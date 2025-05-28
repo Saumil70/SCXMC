@@ -1,8 +1,8 @@
 ﻿---
-ID: "02098bc1-a095-4d9c-8c5e-4c6c34fb7e12"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "ca2050db-8b9a-4aaf-94e7-de3f978b9a99"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Orkney"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Orkney"
 Languages:
 - Language: en
   Versions:

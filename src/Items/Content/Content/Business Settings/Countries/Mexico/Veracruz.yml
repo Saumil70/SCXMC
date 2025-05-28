@@ -1,8 +1,8 @@
 ﻿---
-ID: "ce140e8e-d605-49ed-9d01-0ebbf2002855"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "2d8aa041-a3ab-403a-8c91-7aee7124ebf0"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Veracruz"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Veracruz"
 Languages:
 - Language: en
   Versions:

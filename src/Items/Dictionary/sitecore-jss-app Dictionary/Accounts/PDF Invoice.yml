@@ -1,8 +1,8 @@
 ﻿---
-ID: "7e95ac57-6e19-4012-90ad-e08356338a5c"
-Parent: "4900e1a2-615c-4279-a7ac-9f842540e7f6"
+ID: "2e2460f3-94c5-4b2c-9876-ca5cb8a41af6"
+Parent: "5e77c93d-8cab-4203-bf71-e0d5f1e21b2f"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Accounts/PDF Invoice"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Accounts/PDF Invoice"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

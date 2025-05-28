@@ -1,8 +1,8 @@
 ﻿---
-ID: "0f5fd5b2-0457-4aae-83ad-bb7439cf5d5f"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "e19d4dd9-36b8-4510-93b3-8b1bdd6c1ec8"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Sligo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Sligo"
 Languages:
 - Language: en
   Versions:

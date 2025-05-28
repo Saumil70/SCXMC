@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d499482-47ca-591a-9c45-af24e82f5611"
-Parent: "cb29bdd0-c55d-5f05-b15d-10761a2af71f"
+ID: "b4ec90e9-ed42-4cae-a37f-f328e0bf2b57"
+Parent: "667c1dbc-2f6f-4cb8-88e9-f68b26c3e532"
 Template: "ccd7acfa-6848-5b61-960c-fb0a533d3cd3"
-Path: "/sitecore/content/sitecore-jss-app/home/graphql/sample-1"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/graphql/sample-1"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -12,6 +12,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -23,9 +26,9 @@ Languages:
               uid="{9157CC8C-5760-5114-9F2D-93CBE39B30DC}"
               p:after="*[1=2]"
               s:rname="ContentBlock"
-              s:ds="{44E8D88B-BE3C-59DC-B6DD-6CDE08E4DCA7}"
+              s:ds="{1D00517E-70E5-47EF-9FF3-6F880D55371D}"
               s:id="{744EA022-6D8B-5A5B-AB95-805A0E6AAD36}"
-              s:par=""
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="/jss-main" />
           </d>
         </r>
@@ -34,17 +37,17 @@ Languages:
       Value: 20240327T114709Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "50e0c6e5-f875-53c2-b98c-9b5b5a96705b"
       Hint: pageTitle
       Value: Sample 1 Page Title
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "65594328-e7fc-4d20-8d9e-d364c4a0ee59"
+      Value: "5d74a0c3-0794-4c42-8d0e-921b610160a8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240327T120624Z
+      Value: 20250528T123210Z

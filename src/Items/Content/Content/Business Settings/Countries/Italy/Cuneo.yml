@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9f1f091-720b-4d66-8c34-112d733acbce"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "16df6080-098f-4810-b07a-e6ac221b3e73"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Cuneo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Cuneo"
 Languages:
 - Language: en
   Versions:

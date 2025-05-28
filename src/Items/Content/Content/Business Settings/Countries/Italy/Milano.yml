@@ -1,8 +1,8 @@
 ﻿---
-ID: "8ae88427-b307-43b4-a135-a390eebc0585"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "d3d139c5-4ce1-4c83-98e3-baf64dff6c80"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Milano"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Milano"
 Languages:
 - Language: en
   Versions:

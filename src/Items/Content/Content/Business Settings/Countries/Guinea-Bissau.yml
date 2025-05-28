@@ -1,8 +1,8 @@
 ﻿---
-ID: "f4ae7a33-b1ca-444e-aea1-d301b795a7ae"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "962e33ec-29a5-49d1-81b2-237e5cbe24a4"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Guinea-Bissau"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Guinea-Bissau"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "f4c87c67-8b3e-4766-92f9-c3701159ceda"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "007ca956-f4be-4b75-8100-c7b5960233cc"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/New Mexico"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/New Mexico"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "430ddd3a-9872-4c67-8f7c-23ef5bec95f4"
-Parent: "68fb3104-fe46-4282-8cf5-9fda382e3e61"
+ID: "1949dbbc-b3cc-4c81-9744-5cf4de2cd7bc"
+Parent: "140b8442-3eea-4451-86d4-821d9c96b2f8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Australia/Queensland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Australia/Queensland"
 Languages:
 - Language: en
   Versions:

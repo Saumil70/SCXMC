@@ -1,8 +1,8 @@
 ﻿---
-ID: "184dea0b-34f5-44b9-be70-9a381528a359"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "f35a72a8-471b-427d-a4e7-909638f777c7"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Lisboa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Lisboa"
 Languages:
 - Language: en
   Versions:

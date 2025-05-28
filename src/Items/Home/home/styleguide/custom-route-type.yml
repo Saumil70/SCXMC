@@ -1,8 +1,8 @@
 ﻿---
-ID: "4efb5d6f-2c97-5694-b606-a0a92e46bc05"
-Parent: "d60912e6-2b96-5cee-a2c1-fc117ee034cf"
+ID: "eef038d6-4d80-4cc8-a2b3-70e9b7d2b5ca"
+Parent: "52eae43b-ba51-485d-9841-b4bd29fec05d"
 Template: "4c582156-286b-5243-a81a-d4a04202befb"
-Path: "/sitecore/content/sitecore-jss-app/home/styleguide/custom-route-type"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/styleguide/custom-route-type"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow

@@ -1,8 +1,8 @@
 ﻿---
-ID: "e0699d7e-1f9f-4539-ba45-1b7ec36e0604"
-Parent: "26e70e96-b4b5-461f-a80a-5aeb602bcbe0"
+ID: "2e41f0e9-6b4c-46d8-8ab1-c1a72957554f"
+Parent: "2bb1e001-d285-4282-b08a-ba508bb61c36"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norway/Oppland"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norway/Oppland"
 Languages:
 - Language: en
   Versions:

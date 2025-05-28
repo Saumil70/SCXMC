@@ -1,8 +1,8 @@
 ﻿---
-ID: "8b7a7fc1-7185-4b23-ba44-a4eaefc32b39"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "32516ac1-a341-43a6-ab54-156816a939c1"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Jawa Tengah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Jawa Tengah"
 Languages:
 - Language: en
   Versions:

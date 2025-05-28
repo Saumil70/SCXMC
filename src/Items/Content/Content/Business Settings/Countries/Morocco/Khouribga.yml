@@ -1,8 +1,8 @@
 ﻿---
-ID: "db1d8b9f-eb09-4e46-bb26-8ec2e41eed1d"
-Parent: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
+ID: "860bdd5e-cb55-4941-acbc-b2646fe53e3c"
+Parent: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco/Khouribga"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco/Khouribga"
 Languages:
 - Language: en
   Versions:

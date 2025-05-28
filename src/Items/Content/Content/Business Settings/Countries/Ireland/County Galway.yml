@@ -1,8 +1,8 @@
 ﻿---
-ID: "8d76272f-8b57-45ff-8a55-0352e5762de6"
-Parent: "a81651c0-0582-4cf3-b87d-c2cb7f2f5dcb"
+ID: "78cdaf90-a513-4c04-a569-d9334d904753"
+Parent: "2a79a39a-4127-4a52-886a-e4d86610e500"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Ireland/County Galway"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Ireland/County Galway"
 Languages:
 - Language: en
   Versions:

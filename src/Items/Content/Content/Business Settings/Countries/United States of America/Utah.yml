@@ -1,8 +1,8 @@
 ﻿---
-ID: "b61c3c56-0c11-4bb6-8e87-d9b546b110c2"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "72227b9b-d37e-4348-8729-a53dc7a0e0ba"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Utah"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Utah"
 Languages:
 - Language: en
   Versions:

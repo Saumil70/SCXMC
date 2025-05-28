@@ -1,8 +1,8 @@
 ﻿---
-ID: "97633fee-5b4c-44b1-9013-4be5528dfe6b"
-Parent: "ea69730e-99ff-49c0-a241-ce7fa2893942"
+ID: "966a25e3-13e5-4eaf-8f54-d87238447244"
+Parent: "54012faa-83df-45d4-879b-ef1ba0830df8"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Canada/New Brunswick"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Canada/New Brunswick"
 Languages:
 - Language: en
   Versions:

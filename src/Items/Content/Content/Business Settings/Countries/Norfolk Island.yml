@@ -1,8 +1,8 @@
 ﻿---
-ID: "8c54f4d9-130c-48f6-bb24-cdef1b725dc1"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "79b9aff6-d89a-4a8f-8c74-7022b54306cd"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Norfolk Island"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Norfolk Island"
 Languages:
 - Language: en
   Versions:

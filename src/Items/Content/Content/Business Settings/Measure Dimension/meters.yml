@@ -1,8 +1,8 @@
 ﻿---
-ID: "fcba5b4f-f9c1-44bd-ac44-6e5df447171b"
-Parent: "98ff1768-a5e0-4ea1-b76a-0c6637c5a55e"
+ID: "52e83a72-b0ac-485f-bb50-f1acd45c9853"
+Parent: "d3fe0352-bda5-40af-bc32-0b5fa9c91e37"
 Template: "84b4281c-4c1d-4836-8987-ecaba72bec96"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Dimension/meters"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Dimension/meters"
 Languages:
 - Language: en
   Versions:

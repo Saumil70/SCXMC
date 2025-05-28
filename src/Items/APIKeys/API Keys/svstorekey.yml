@@ -10,10 +10,13 @@ SharedFields:
     extranet\anonymous
 - ID: "780c8e48-fe03-4a73-90dc-9bb5296b95d7"
   Hint: CORS Origins
-  Value: "https://scnextjstesting"
+  Value: "http://localhost:3000"
 - ID: "99ba91ec-f0d3-4372-b638-67c2402a2484"
   Hint: AllowedControllers
   Value: *
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "753aa3ba-208e-43c9-b1c0-6774c9b29a2c"
 Languages:
 - Language: en
   Versions:
@@ -32,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "839a9779-3e59-4ef1-b018-6e1a0c26ef7b"
+      Value: "a5474b72-da25-4e0e-b598-b8ac56e20f4f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250427T113603Z
+      Value: 20250528T110012Z

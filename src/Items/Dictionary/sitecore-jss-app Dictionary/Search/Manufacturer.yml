@@ -1,8 +1,8 @@
 ﻿---
-ID: "b89fe29d-db06-4f55-aa91-ea57deea86e2"
-Parent: "24685db7-a56a-40b6-a9b7-5db25687c4bb"
+ID: "bd72e21c-5695-4d55-a524-d102f954ef60"
+Parent: "db0d235c-46c3-4d70-bb60-4c9c431d63e3"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Search/Manufacturer"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Search/Manufacturer"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

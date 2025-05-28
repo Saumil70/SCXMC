@@ -1,8 +1,8 @@
 ﻿---
-ID: "60271f9c-39b4-4715-be45-528538484246"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "7fbb2867-5b34-436a-9f21-dcd1a2de8c7b"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Colorado"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Colorado"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "9f6eca21-7ee0-4283-a0fe-6fce58cc3beb"
-Parent: "b202d35f-cf25-476f-b775-ad6ef861e551"
+ID: "d5474ee2-714a-45d6-a17c-e5b4c4e336ed"
+Parent: "bd0490e2-c23b-4de5-bd27-6e6b1e9f4a9a"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Shopping Cart/Terms Of Service"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Shopping Cart/Terms Of Service"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

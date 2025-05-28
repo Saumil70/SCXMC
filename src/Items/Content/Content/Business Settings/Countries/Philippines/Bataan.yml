@@ -1,8 +1,8 @@
 ﻿---
-ID: "2b24d80f-b23c-4be8-b598-05ea64c96d64"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "cb43e17a-bda3-45f8-b05d-5ee89cfa1c12"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Bataan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Bataan"
 Languages:
 - Language: en
   Versions:

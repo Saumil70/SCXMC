@@ -1,8 +1,8 @@
 ﻿---
-ID: "294743a9-65e4-4a17-bc0d-db0b39c7bd93"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "9830fe07-25b3-46c8-92c6-94156eab0fb1"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Basel-Landschaft"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Basel-Landschaft"
 Languages:
 - Language: en
   Versions:

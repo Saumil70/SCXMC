@@ -1,8 +1,8 @@
 ﻿---
-ID: "d30f3c56-66e6-447a-a46b-b299903e6e98"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "0ed13ad5-2ac2-44f3-89f6-baafbc53b011"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/La Guajira"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/La Guajira"
 Languages:
 - Language: en
   Versions:

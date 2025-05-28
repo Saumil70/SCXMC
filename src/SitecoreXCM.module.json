@@ -51,24 +51,24 @@
         },
         {
           "name": "Site",
-          "path":"/sitecore/content/sitecore-jss-app",
+          "path":"/sitecore/content/sv-commerce/sv-commerce",
           "scope": "SingleItem"
         },
         {
           "name": "Home",
-          "path":"/sitecore/content/sitecore-jss-app/home",
+          "path":"/sitecore/content/sv-commerce/sv-commerce/home",
           "allowedPushOperations": "createUpdateAndDelete",
           "scope": "ItemAndDescendants"
         },
         {
           "name": "Content",
-          "path":"/sitecore/content/sitecore-jss-app/Content",
+          "path":"/sitecore/content/sv-commerce/sv-commerce/Content",
           "allowedPushOperations": "createUpdateAndDelete",
           "scope": "ItemAndDescendants"
         },
         {
           "name": "Dictionary",
-          "path":"/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary",
+          "path":"/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary",
           "allowedPushOperations": "createUpdateAndDelete",
           "scope": "ItemAndDescendants"
         },

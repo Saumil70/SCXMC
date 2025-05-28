@@ -1,8 +1,8 @@
 ﻿---
-ID: "3a047c6d-3b23-4b6a-938b-b5f0e4f7086a"
-Parent: "1fa2c459-2191-4f2d-a476-04203eff73c6"
+ID: "8f4ed425-19dc-4340-aff5-50332a6579a2"
+Parent: "e58f2705-efa5-486f-8d5c-87cffdd1b5ee"
 Template: "d2e8495c-467b-4e23-ba94-b2a07f3d0456"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Product attributes/Custom Text"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Product attributes/Custom Text"
 Languages:
 - Language: en
   Versions:

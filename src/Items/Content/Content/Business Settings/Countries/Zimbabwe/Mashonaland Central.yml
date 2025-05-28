@@ -1,8 +1,8 @@
 ﻿---
-ID: "0012f4ce-1189-4f26-9f4f-c7e9a3cf0609"
-Parent: "091715e2-63a6-4a38-866b-9d28230792d0"
+ID: "53b9c410-7a5f-4e8a-9e0d-74caeeb80030"
+Parent: "69b165a9-2fdf-4054-a9d4-55ccaf71f755"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Zimbabwe/Mashonaland Central"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Zimbabwe/Mashonaland Central"
 Languages:
 - Language: en
   Versions:

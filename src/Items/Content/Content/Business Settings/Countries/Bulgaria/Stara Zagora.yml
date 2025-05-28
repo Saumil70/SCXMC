@@ -1,8 +1,8 @@
 ﻿---
-ID: "29dd04bb-594a-436f-8a78-6e1cfe2a99dd"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "40bbcd1f-ad72-47be-a7f7-56096e76910a"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Stara Zagora"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Stara Zagora"
 Languages:
 - Language: en
   Versions:

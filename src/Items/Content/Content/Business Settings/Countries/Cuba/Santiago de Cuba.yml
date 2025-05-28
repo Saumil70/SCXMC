@@ -1,8 +1,8 @@
 ﻿---
-ID: "c163b254-127c-46e9-882f-81ae3a4cca76"
-Parent: "9ba30d5f-e376-4f9b-be7c-e26dad6f0c08"
+ID: "c0944ef2-a84d-4eab-92c9-285f425ef208"
+Parent: "dcfdf6a0-b112-485f-afbc-383f124cdc5c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Cuba/Santiago de Cuba"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Cuba/Santiago de Cuba"
 Languages:
 - Language: en
   Versions:

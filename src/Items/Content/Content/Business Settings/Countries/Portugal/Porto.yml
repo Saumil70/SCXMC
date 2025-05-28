@@ -1,8 +1,8 @@
 ﻿---
-ID: "29251d0d-1652-4aa5-8394-13bfe3ed27bd"
-Parent: "2347e8ce-8a66-4d7d-8a6f-d6bd1e3cfa8e"
+ID: "d897fcd0-c854-471f-b66f-0013a8773301"
+Parent: "d1920acb-299d-4d25-8301-04d6b913e718"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Portugal/Porto"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Portugal/Porto"
 Languages:
 - Language: en
   Versions:

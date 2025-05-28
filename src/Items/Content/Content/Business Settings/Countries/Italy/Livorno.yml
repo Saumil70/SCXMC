@@ -1,8 +1,8 @@
 ﻿---
-ID: "27c590aa-9157-45ab-8ca8-5f37220f2a1a"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "a89a22de-3baf-48a6-9d72-c0a07d8d8b6c"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Livorno"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Livorno"
 Languages:
 - Language: en
   Versions:

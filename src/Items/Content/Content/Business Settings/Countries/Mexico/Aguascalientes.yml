@@ -1,8 +1,8 @@
 ﻿---
-ID: "0e1873d1-f6fd-4c8a-a3fe-3f1ca19e4c38"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "091491ec-dba1-4138-8565-90ee1d08b6af"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Aguascalientes"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Aguascalientes"
 Languages:
 - Language: en
   Versions:

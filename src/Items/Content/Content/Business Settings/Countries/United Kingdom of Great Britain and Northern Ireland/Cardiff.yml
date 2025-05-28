@@ -1,8 +1,8 @@
 ﻿---
-ID: "8e21253b-2bc5-4212-8192-ffca34008c2a"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "207af952-cedd-4abf-99a4-13c9088f85f7"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Cardiff"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Cardiff"
 Languages:
 - Language: en
   Versions:

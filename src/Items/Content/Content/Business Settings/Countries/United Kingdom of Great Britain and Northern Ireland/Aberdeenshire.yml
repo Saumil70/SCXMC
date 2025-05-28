@@ -1,8 +1,8 @@
 ﻿---
-ID: "19c5333b-ac58-454d-b5fe-417a9e4c93b6"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "b18cbd4d-8563-484a-a12f-375ee3d11150"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Aberdeenshire"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Aberdeenshire"
 Languages:
 - Language: en
   Versions:

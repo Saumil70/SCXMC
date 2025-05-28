@@ -1,8 +1,8 @@
 ﻿---
-ID: "e4fdd1ca-0a57-4e53-a4f2-f0893ade941f"
-Parent: "1ff0b873-5fd4-4383-a162-80c224a5072e"
+ID: "0e16e065-6602-4199-be08-bf9564a73e5c"
+Parent: "4ea63a76-07f3-4c02-af74-938e3912ab09"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Colombia/Norte de Santander"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Colombia/Norte de Santander"
 Languages:
 - Language: en
   Versions:

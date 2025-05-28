@@ -1,8 +1,8 @@
 ﻿---
-ID: "5911bddc-9032-454d-8981-6ab58915b51e"
-Parent: "3ed3daa8-5877-4d84-9357-6d4f872f4c39"
+ID: "c46d982d-99af-4d74-bd5a-f2858cf2b15a"
+Parent: "68fd0b82-cf40-43b7-ad15-9f7e60fae35e"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Products/Agree Terms services"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Products/Agree Terms services"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

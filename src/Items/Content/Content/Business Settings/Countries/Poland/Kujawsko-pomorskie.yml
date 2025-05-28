@@ -1,8 +1,8 @@
 ﻿---
-ID: "4aac37df-c04b-410c-84d3-93b64152148e"
-Parent: "f2b5fe7a-4526-46f9-8cc1-cd7e7412e9c2"
+ID: "1daac920-fbb4-41f5-984b-672accf5fbb2"
+Parent: "a9b7e6ee-0993-485a-a74b-f80eff2cdeb3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Poland/Kujawsko-pomorskie"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Poland/Kujawsko-pomorskie"
 Languages:
 - Language: en
   Versions:

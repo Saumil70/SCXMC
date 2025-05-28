@@ -1,8 +1,8 @@
 ﻿---
-ID: "2c1d2502-5908-484e-9f05-2fc6368aee3d"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "184596ec-fa26-4e88-8cf5-be7f57df4a32"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Entre Rios"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Entre Rios"
 Languages:
 - Language: en
   Versions:

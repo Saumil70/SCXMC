@@ -1,8 +1,8 @@
 ﻿---
-ID: "c5bdd071-a2f3-49a1-9e52-3a01c5915e9c"
-Parent: "fde9391b-cff7-420d-8ba9-bc32ec44a841"
+ID: "a945a3c6-dc2c-4ad1-9da8-1b56a9c66018"
+Parent: "9d45ae82-ea41-416b-8d8a-ccdda60540ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Spain/Huelva"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Spain/Huelva"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "9ef82f5f-db26-4b56-a36d-ecbeac4c6398"
-Parent: "fc49c0d0-8e39-479c-82a3-6419413c1e5c"
+ID: "fdb17cdc-45b1-4f73-b27b-2f08fd5f44bb"
+Parent: "6b381a67-1e81-4c4f-8f07-b76e90fe3f69"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/France/Allier"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/France/Allier"
 Languages:
 - Language: en
   Versions:

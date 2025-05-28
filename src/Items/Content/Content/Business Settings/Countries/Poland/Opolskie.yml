@@ -1,8 +1,8 @@
 ﻿---
-ID: "5c8ba6d3-0334-40b3-945d-31f96638ebc6"
-Parent: "f2b5fe7a-4526-46f9-8cc1-cd7e7412e9c2"
+ID: "bf191685-4ee3-4601-8c0e-6a2bb1bb97ce"
+Parent: "a9b7e6ee-0993-485a-a74b-f80eff2cdeb3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Poland/Opolskie"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Poland/Opolskie"
 Languages:
 - Language: en
   Versions:

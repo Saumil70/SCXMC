@@ -1,8 +1,8 @@
 ﻿---
-ID: "bc2523a7-4e71-41d0-9b72-64618ef5364d"
-Parent: "8808aa52-8374-46aa-aadf-077b94f6f733"
+ID: "4357e6f3-dfd5-44b5-99a7-2af3046494e3"
+Parent: "574b6ab2-2879-4e63-aa1e-fb47cd6d9863"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Order/Ship to the same address"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Order/Ship to the same address"
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key

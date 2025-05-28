@@ -1,8 +1,8 @@
 ﻿---
-ID: "e3d52402-7b2c-47a4-a6d0-300450a0607e"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "29b3971a-4dd3-4e95-bbca-078fe8f6a90e"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Haryana"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Haryana"
 Languages:
 - Language: en
   Versions:

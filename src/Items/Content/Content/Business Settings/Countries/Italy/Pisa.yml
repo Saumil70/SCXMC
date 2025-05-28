@@ -1,8 +1,8 @@
 ﻿---
-ID: "3aac11d6-b130-4464-90c2-036064bfac52"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "403ab379-a95e-433a-93fe-16dc3680dc96"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Pisa"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Pisa"
 Languages:
 - Language: en
   Versions:

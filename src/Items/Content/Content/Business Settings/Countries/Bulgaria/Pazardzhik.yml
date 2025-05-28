@@ -1,8 +1,8 @@
 ﻿---
-ID: "10d9f503-7b8b-445a-835d-393c56be059c"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "2a27e32c-ddce-4134-8fc7-5a4c986d4f26"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Pazardzhik"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Pazardzhik"
 Languages:
 - Language: en
   Versions:

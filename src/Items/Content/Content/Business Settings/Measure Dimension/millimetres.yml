@@ -1,8 +1,8 @@
 ﻿---
-ID: "32e4ec59-20e0-4583-a3a5-e5e4cc4d6301"
-Parent: "98ff1768-a5e0-4ea1-b76a-0c6637c5a55e"
+ID: "5928d105-667c-49bb-aa51-75528ed8056e"
+Parent: "d3fe0352-bda5-40af-bc32-0b5fa9c91e37"
 Template: "84b4281c-4c1d-4836-8987-ecaba72bec96"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Dimension/millimetres"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Dimension/millimetres"
 Languages:
 - Language: en
   Versions:

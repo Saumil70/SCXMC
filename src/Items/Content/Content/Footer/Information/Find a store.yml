@@ -1,8 +1,8 @@
 ﻿---
-ID: "21b2fb66-cbfd-459f-9e37-e51c15d44b47"
-Parent: "7db79ee4-683f-4913-bcaf-f11fc518898b"
+ID: "a0b9c3b0-f5ab-432e-b59e-7c94ac047012"
+Parent: "63b65337-4a27-44a4-a477-fe73ecd262f7"
 Template: "f30c429e-01cb-4f69-b2f0-1cb3c5ab40bc"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Information/Find a store"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Information/Find a store"
 Languages:
 - Language: en
   Versions:

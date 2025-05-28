@@ -1,8 +1,8 @@
 ﻿---
-ID: "b9a353c1-8f3c-42b9-8587-77b9137b251a"
-Parent: "0d25265c-8db3-42c9-8d99-1518587b3f54"
+ID: "e0a2edc7-623f-4b87-a89e-4f8ace9a3b18"
+Parent: "809c41d3-b0c2-4884-954b-4fd78008b85c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Indonesia/Kalimantan Utara"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Indonesia/Kalimantan Utara"
 Languages:
 - Language: en
   Versions:

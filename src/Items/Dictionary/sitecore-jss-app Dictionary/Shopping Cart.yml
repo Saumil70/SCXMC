@@ -1,8 +1,8 @@
 ﻿---
-ID: "b202d35f-cf25-476f-b775-ad6ef861e551"
-Parent: "037e0c1b-7448-52b2-a58e-782201b96286"
+ID: "bd0490e2-c23b-4de5-bd27-6e6b1e9f4a9a"
+Parent: "3a31506f-f946-47d4-8428-72ee1a6fee82"
 Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
-Path: "/sitecore/content/sitecore-jss-app/sitecore-jss-app Dictionary/Shopping Cart"
+Path: "/sitecore/content/sv-commerce/sv-commerce/sitecore-jss-app Dictionary/Shopping Cart"
 Languages:
 - Language: en
   Versions:

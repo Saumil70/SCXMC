@@ -1,8 +1,8 @@
 ﻿---
-ID: "cd1fa0ed-9d46-4a19-88fb-1789aab6bcb6"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "a3e9c52b-ba4f-4d2b-8683-a0efcb45c72e"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Nidwalden"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Nidwalden"
 Languages:
 - Language: en
   Versions:

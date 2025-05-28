@@ -1,8 +1,8 @@
 ﻿---
-ID: "67d34eb7-3e01-4fdb-a914-6277f39dfb3c"
-Parent: "49cc6daf-71b1-4e85-bfb6-4c018728694b"
+ID: "193124c6-b041-48d3-9389-582bb91f2050"
+Parent: "9355450a-a490-425e-85ed-061248dc7281"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/South Africa/Limpopo"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/South Africa/Limpopo"
 Languages:
 - Language: en
   Versions:

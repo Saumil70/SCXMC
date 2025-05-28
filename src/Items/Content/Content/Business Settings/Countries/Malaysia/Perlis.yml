@@ -1,8 +1,8 @@
 ﻿---
-ID: "a73303cd-a1d0-4d0e-b26b-403f48ed576f"
-Parent: "9a778447-d049-43f2-a195-656e9c159ba2"
+ID: "0a476999-932f-4626-9a78-de9ace52854d"
+Parent: "b265623b-74b2-4da0-b5d9-30c7ec0e973e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Malaysia/Perlis"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Malaysia/Perlis"
 Languages:
 - Language: en
   Versions:

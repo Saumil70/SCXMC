@@ -1,8 +1,8 @@
 ﻿---
-ID: "df301a8d-ce56-4d39-8d01-6986e72729c5"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "c7bf1ecc-45be-487e-ad58-c6cf4c399705"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Iraq"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Iraq"
 Languages:
 - Language: en
   Versions:

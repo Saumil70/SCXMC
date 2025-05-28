@@ -1,8 +1,8 @@
 ﻿---
-ID: "11fb2498-f0f5-4898-9de7-e02f9e167304"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "c7caa1ec-165c-4119-a852-2f5a54fc7243"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Bohol"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Bohol"
 Languages:
 - Language: en
   Versions:

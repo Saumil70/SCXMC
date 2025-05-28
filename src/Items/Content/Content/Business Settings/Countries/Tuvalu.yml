@@ -1,8 +1,8 @@
 ﻿---
-ID: "1a5ff4f1-5ed6-4193-b569-3037a21f9ee7"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "221b6d66-2d7d-4f6d-a22d-4a5e9d671eb6"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Tuvalu"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Tuvalu"
 Languages:
 - Language: en
   Versions:

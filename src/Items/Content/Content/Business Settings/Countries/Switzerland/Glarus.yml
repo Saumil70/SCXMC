@@ -1,8 +1,8 @@
 ﻿---
-ID: "6aa8f5a6-e8c4-4bb8-9344-f98e94ccc59d"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "c44d85cc-9464-44cf-b90f-8777628850e4"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Glarus"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Glarus"
 Languages:
 - Language: en
   Versions:

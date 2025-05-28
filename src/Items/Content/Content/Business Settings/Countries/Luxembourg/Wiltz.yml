@@ -1,8 +1,8 @@
 ﻿---
-ID: "f4187366-b74c-4023-b214-5fcfc863468d"
-Parent: "4764c76f-6310-4a7c-afb1-0d4eeab2956d"
+ID: "267a2ef4-c98f-46e1-971f-17059ebbe8f0"
+Parent: "62977a38-70f5-4f5a-8d98-09ccfead3dda"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Luxembourg/Wiltz"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Luxembourg/Wiltz"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "2fc6c593-4666-4a61-8cb1-fcc8961cf976"
-Parent: "28013f2e-6537-466d-a218-f3967a70583d"
+ID: "cebc3e1c-971c-4ad6-9de6-7b00ab3fe30a"
+Parent: "d3cf363c-587e-4aa9-9815-454eecdaa336"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/India/Tamil Nadu"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/India/Tamil Nadu"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "139b4b97-3f20-4c09-8ca2-43162e4a6ed9"
-Parent: "5288d54b-295e-5fed-9225-d9a08f763234"
+ID: "086563a1-b8a9-4a8f-8fbc-465d8e42ec3e"
+Parent: "9d40a625-af56-47b7-958e-5729adbaf492"
 Template: "ccd7acfa-6848-5b61-960c-fb0a533d3cd3"
-Path: "/sitecore/content/sitecore-jss-app/home/ordersuccess"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/ordersuccess"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -48,11 +48,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "66bc1eee-2b16-4cae-b4a4-55abe9331dcf"
+      Value: "5a13d191-54b4-4a71-b84e-bcfbab1138e6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240410T062506Z
+      Value: 20250528T123404Z

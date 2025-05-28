@@ -1,8 +1,8 @@
 ﻿---
-ID: "c695e98c-b3b5-48ce-8b14-351fa3dbf4b8"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "9b6612a7-0950-461a-a479-89b9b240a558"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/British Indian Ocean Territory"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/British Indian Ocean Territory"
 Languages:
 - Language: en
   Versions:

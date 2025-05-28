@@ -1,8 +1,8 @@
 ﻿---
-ID: "7963839b-6a33-427b-8620-8a06fa3e27b7"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "e2208e53-6e96-4485-8ca5-6f0563be20d2"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/West-Vlaanderen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/West-Vlaanderen"
 Languages:
 - Language: en
   Versions:

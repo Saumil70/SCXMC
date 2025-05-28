@@ -1,8 +1,8 @@
 ﻿---
-ID: "5d13bfd9-bdf6-4f54-a7b1-f0affdae69e9"
-Parent: "b8799d28-7849-43dd-8da0-f5e58c5ca603"
+ID: "1a49cab4-155d-4cad-a6fc-98c68223581d"
+Parent: "520e13cc-0cbc-4959-b442-0432a0725dfe"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Argentina/Chaco"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Argentina/Chaco"
 Languages:
 - Language: en
   Versions:

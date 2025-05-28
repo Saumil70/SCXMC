@@ -1,8 +1,8 @@
 ﻿---
-ID: "be25e025-a210-4396-8945-80266bc57ce2"
-Parent: "1800fa7d-7bae-42d9-8e0b-d62dc60dd1a3"
+ID: "de07d7fa-f792-4483-a037-ecfac2d3e161"
+Parent: "c1812b58-4b1e-4cd5-945c-5515e3879bca"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Morocco/Kenitra"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Morocco/Kenitra"
 Languages:
 - Language: en
   Versions:

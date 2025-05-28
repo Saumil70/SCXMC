@@ -1,8 +1,8 @@
 ﻿---
-ID: "dc89dc4e-429b-48d4-8ede-ecb2f0ffaca8"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "f0fea397-55e1-4518-8a6f-ad1a33375868"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Brabant wallon"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Brabant wallon"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "9c07448e-5014-4575-9f88-76e8c433510b"
-Parent: "6619d4a3-ce0c-4df1-b39a-75f9e3784fce"
+ID: "5a388a5d-dea8-4bbc-99ec-00b589f32280"
+Parent: "6cbc129b-2d99-4b68-9465-b95c85398baf"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Brazil/Minas Gerais"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Brazil/Minas Gerais"
 Languages:
 - Language: en
   Versions:

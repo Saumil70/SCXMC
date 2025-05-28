@@ -1,8 +1,8 @@
 ﻿---
-ID: "8dcba3e2-4dea-4ea4-af40-a90f3846b42f"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "f51c25e5-f8f0-4a50-a73b-1d34d2fd6852"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Misamis Oriental"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Misamis Oriental"
 Languages:
 - Language: en
   Versions:

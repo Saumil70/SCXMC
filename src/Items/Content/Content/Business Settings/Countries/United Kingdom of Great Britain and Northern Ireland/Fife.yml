@@ -1,8 +1,8 @@
 ﻿---
-ID: "3665c095-8590-4f62-a760-6b72fd061862"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "96fcdc3f-39d6-432b-85c5-96e677bb760d"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Fife"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Fife"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "69311556-1093-4253-99d9-f97cce021ca2"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "ea43c941-0fd5-45f0-b8c2-06019703d330"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Tunceli"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Tunceli"
 Languages:
 - Language: en
   Versions:

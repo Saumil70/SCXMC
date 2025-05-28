@@ -1,8 +1,8 @@
 ﻿---
-ID: "09219230-af8f-40c8-b72a-6dc8c83530da"
-Parent: "cbecbf5a-299b-4b05-a1ef-f5601fa5b6e5"
+ID: "5355e440-c6c7-4536-8547-7f41b8d75ce0"
+Parent: "17f2991d-cf18-4dc8-aa84-ad901be92e19"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Hungary/Baranya"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Hungary/Baranya"
 Languages:
 - Language: en
   Versions:

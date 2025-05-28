@@ -1,8 +1,8 @@
 ﻿---
-ID: "6893ede0-e121-45c8-9c11-57489b8c112f"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "f5a428bc-5c1b-4e2e-9312-75dcac1c978f"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Marinduque"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Marinduque"
 Languages:
 - Language: en
   Versions:

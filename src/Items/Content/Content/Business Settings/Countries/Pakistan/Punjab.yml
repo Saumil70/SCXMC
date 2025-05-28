@@ -1,8 +1,8 @@
 ﻿---
-ID: "3debf192-b44b-4b0a-a0e8-c9a5369c1e6d"
-Parent: "fd886250-271f-4595-bae2-ba8465531c5c"
+ID: "b0dcb9cb-d20b-457c-a85a-754be6c23723"
+Parent: "cd7ffadb-f880-4a5a-ab42-9b9adddecec3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Pakistan/Punjab"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Pakistan/Punjab"
 Languages:
 - Language: en
   Versions:

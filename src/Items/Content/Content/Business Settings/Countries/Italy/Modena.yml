@@ -1,8 +1,8 @@
 ﻿---
-ID: "f72d0bf3-89dd-4f11-baf9-f0e624faa3c8"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "2d84c459-57fd-4518-ace0-f16b75dace92"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Modena"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Modena"
 Languages:
 - Language: en
   Versions:

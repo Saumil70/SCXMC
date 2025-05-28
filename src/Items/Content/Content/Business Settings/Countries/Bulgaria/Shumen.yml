@@ -1,8 +1,8 @@
 ﻿---
-ID: "a65d88a3-961f-45af-9d9e-1556af1ca58b"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "3c12644e-8e45-4007-9453-7d54dc46cfa4"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Shumen"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Shumen"
 Languages:
 - Language: en
   Versions:

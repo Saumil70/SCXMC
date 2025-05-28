@@ -1,8 +1,8 @@
 ﻿---
-ID: "407e0423-d195-4f74-b429-767bf7a6ec6d"
-Parent: "99615e3c-3e17-4591-a154-9406e4cde5bf"
+ID: "820a845e-fda5-4093-8c3e-140978656e3e"
+Parent: "c321f05b-9ee4-4544-91e8-07e81b023ef0"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Austria/Vorarlberg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Austria/Vorarlberg"
 Languages:
 - Language: en
   Versions:

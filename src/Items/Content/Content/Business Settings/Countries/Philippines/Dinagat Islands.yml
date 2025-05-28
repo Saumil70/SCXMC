@@ -1,8 +1,8 @@
 ﻿---
-ID: "65050d54-acd1-4798-8835-d4257b04d5ec"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "fd645feb-05e2-4f54-b379-af05c2d1a1a4"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Dinagat Islands"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Dinagat Islands"
 Languages:
 - Language: en
   Versions:

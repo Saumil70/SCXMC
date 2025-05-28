@@ -1,8 +1,8 @@
 ﻿---
-ID: "3f9b4f75-9c2b-4dd5-8bc3-19dd7ac1e8d5"
-Parent: "128c0b9f-8af0-4d48-9de5-1816a8f45095"
+ID: "54cf9c83-0891-4f54-a99b-e46a788a18b3"
+Parent: "18507fd5-300d-4665-aa5c-529937c7b4a5"
 Template: "730acfdf-9b8e-44d0-8918-f4e213533649"
-Path: "/sitecore/content/sitecore-jss-app/home/our features/Overview/Page Components/FAQList/Why use headless commerce"
+Path: "/sitecore/content/sv-commerce/sv-commerce/home/our features/Overview/Page Components/FAQList/Why use headless commerce"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "60b41b85-09fe-4eef-bab2-702d337cf79c"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "0441d58f-7958-4a05-ac27-ba315af16cb9"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Senegal"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Senegal"
 Languages:
 - Language: en
   Versions:

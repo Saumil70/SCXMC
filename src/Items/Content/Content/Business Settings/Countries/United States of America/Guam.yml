@@ -1,8 +1,8 @@
 ﻿---
-ID: "90db57cd-a5ec-470b-84ae-b2db73f8017f"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "20977f37-1286-4111-876b-75a9e24b2fec"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Guam"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Guam"
 Languages:
 - Language: en
   Versions:

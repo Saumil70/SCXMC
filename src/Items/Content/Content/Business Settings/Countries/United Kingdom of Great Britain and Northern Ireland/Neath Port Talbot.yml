@@ -1,8 +1,8 @@
 ﻿---
-ID: "70e36a90-eb29-4b05-8f88-2f817474e9cc"
-Parent: "663b1dd8-f56c-4094-a7a8-638e3f458b3b"
+ID: "a2ab7ce5-7bd4-4fe3-9dad-08cfbc672f9c"
+Parent: "fb0f4421-0baa-4432-a813-f274ced4a66e"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Neath Port Talbot"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United Kingdom of Great Britain and Northern Ireland/Neath Port Talbot"
 Languages:
 - Language: en
   Versions:

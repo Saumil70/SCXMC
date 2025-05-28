@@ -1,8 +1,8 @@
 ﻿---
-ID: "ceda6157-cdff-4e06-82e6-c47fb5850a35"
-Parent: "5e6477be-a8a4-427b-998b-23e9917440c6"
+ID: "4775c4bb-6530-4b47-825b-eb8d473c8cef"
+Parent: "0db6e046-519b-4b11-b35c-251a59cec959"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Belgium/Luxembourg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Belgium/Luxembourg"
 Languages:
 - Language: en
   Versions:

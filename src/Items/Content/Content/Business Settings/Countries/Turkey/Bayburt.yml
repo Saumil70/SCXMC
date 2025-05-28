@@ -1,8 +1,8 @@
 ﻿---
-ID: "f3e50a95-b853-4ec1-a05f-16aa986f7563"
-Parent: "9cfb37e9-274b-4134-b20f-ce1f068c0d59"
+ID: "cf6b9d4e-b58d-4bdd-9c08-9f01e90ba38b"
+Parent: "5a483f7e-4c40-4aed-8ead-773fef1282c1"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Turkey/Bayburt"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Turkey/Bayburt"
 Languages:
 - Language: en
   Versions:

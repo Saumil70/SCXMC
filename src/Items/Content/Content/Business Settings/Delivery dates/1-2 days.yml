@@ -1,8 +1,8 @@
 ﻿---
-ID: "cd97b938-619e-4848-b41d-0a4a81e28d42"
-Parent: "14355430-30f5-4d11-a931-ae00ceb3c13e"
+ID: "ad599ce8-0c9c-466c-83ba-7d91e338309b"
+Parent: "041ed087-474d-435f-a375-62bffbdbb729"
 Template: "da37599a-751c-499f-a122-23c394bf9c26"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Delivery dates/1-2 days"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Delivery dates/1-2 days"
 Languages:
 - Language: en
   Versions:

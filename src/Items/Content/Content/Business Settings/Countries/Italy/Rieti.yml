@@ -1,8 +1,8 @@
 ﻿---
-ID: "388536d9-f88a-493b-a177-98372f132f40"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "78217bfb-6db0-4b97-b96c-ddc557358067"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Rieti"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Rieti"
 Languages:
 - Language: en
   Versions:

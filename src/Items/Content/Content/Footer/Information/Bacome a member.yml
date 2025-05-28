@@ -1,8 +1,8 @@
 ﻿---
-ID: "5bc6ad77-490d-4ed3-866f-47da51caa856"
-Parent: "7db79ee4-683f-4913-bcaf-f11fc518898b"
+ID: "466c30cf-7a26-43c9-a9a0-5efbb79e7d69"
+Parent: "63b65337-4a27-44a4-a477-fe73ecd262f7"
 Template: "f30c429e-01cb-4f69-b2f0-1cb3c5ab40bc"
-Path: "/sitecore/content/sitecore-jss-app/Content/Footer/Information/Bacome a member"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Footer/Information/Bacome a member"
 Languages:
 - Language: en
   Versions:
@@ -10,21 +10,20 @@ Languages:
     Fields:
     - ID: "1688aefb-43d7-4595-a5e6-f29082ecf5d9"
       Hint: Link
-      Value: |
-        <link class="" querystring="" id="{A282A88A-094D-48E4-BD2B-1180BF30CDD1}" anchor="" target="" title="" linktype="internal" text="" url="/sitecore-jss-app/home/register" />
+      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240521T121711Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6b101302-31ec-46e8-9110-a6b5133a3ef7"
+      Value: "bf48933b-e96d-4c2c-a56d-0d13b48d8018"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\tilak.sheta@sourceved.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240717T112554Z
+      Value: 20250528T124516Z
     - ID: "e9005b1e-a413-4f01-87eb-0ef1d1abc06e"
       Hint: Name
       Value: Bacome a member

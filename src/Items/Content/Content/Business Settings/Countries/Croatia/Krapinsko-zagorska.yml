@@ -1,8 +1,8 @@
 ﻿---
-ID: "7f985273-2ec5-4f38-8410-52acbb78c1af"
-Parent: "a4226bc2-72c9-49b7-811c-321edb21c633"
+ID: "d17e3aa2-f882-444d-9b4d-9853bc0b19fe"
+Parent: "e7d207ab-9f25-4547-bcd3-941b106d45af"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Croatia/Krapinsko-zagorska"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Croatia/Krapinsko-zagorska"
 Languages:
 - Language: en
   Versions:

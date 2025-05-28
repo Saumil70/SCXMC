@@ -1,8 +1,8 @@
 ﻿---
-ID: "a5fa7269-de07-4ec1-99fd-8942e09f9341"
-Parent: "37d87d3c-cc69-4f58-aafc-8b5d1b34ef88"
+ID: "d5d248fb-1f52-4474-962c-e3ae4b4d19c0"
+Parent: "fcbf221c-2e71-4440-9d72-2c010572c2e5"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Bulgaria/Smolyan"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Bulgaria/Smolyan"
 Languages:
 - Language: en
   Versions:

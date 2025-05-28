@@ -1,8 +1,8 @@
 ﻿---
-ID: "8ad74f3a-7d93-440a-8384-fa17b20bc7c3"
-Parent: "0e8ea6d1-86a1-4434-abe3-93e35bdf007c"
+ID: "0058ac4b-5cb1-44af-bf52-2aa61332a815"
+Parent: "019c1b99-2fb6-4081-b564-5084a4df3467"
 Template: "40172274-da2f-47c4-bc26-d95c5f5bafdd"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Denmark"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Denmark"
 Languages:
 - Language: en
   Versions:

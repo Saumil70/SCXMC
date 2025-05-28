@@ -1,8 +1,8 @@
 ﻿---
-ID: "c6cc3f4c-b7e1-4653-859b-d66fcb3ca717"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "07cd3895-6154-4647-89bb-117febdab126"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Quezon"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Quezon"
 Languages:
 - Language: en
   Versions:

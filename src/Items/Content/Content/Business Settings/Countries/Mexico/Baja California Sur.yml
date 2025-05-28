@@ -1,8 +1,8 @@
 ﻿---
-ID: "89dc4d37-0f46-47ce-8888-9d9618e29d4b"
-Parent: "b838755d-980f-4081-8855-85d37c98fd57"
+ID: "ae3ffb5d-09b6-49f5-839c-15c394df9665"
+Parent: "4f34dd92-c8ef-45d5-a6eb-f4bb43d259a3"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Mexico/Baja California Sur"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Mexico/Baja California Sur"
 Languages:
 - Language: en
   Versions:

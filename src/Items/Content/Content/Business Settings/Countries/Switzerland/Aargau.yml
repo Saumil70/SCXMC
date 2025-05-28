@@ -1,8 +1,8 @@
 ﻿---
-ID: "0f103d29-1c14-43ae-8743-117dc990699c"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "1b033c7d-d33e-415e-93dc-62bdff7bcb67"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Aargau"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Aargau"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "c61a3e00-f867-4da9-b784-b17f0c1448ca"
-Parent: "7d019523-d1e5-419d-81af-113b5c6cf2ad"
+ID: "3de4896a-6b46-404f-8406-4275a8543f1b"
+Parent: "12561e73-193b-4fd8-bd5f-f3f0d0c522ec"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Switzerland/Ticino"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Switzerland/Ticino"
 Languages:
 - Language: en
   Versions:

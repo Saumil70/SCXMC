@@ -1,8 +1,8 @@
 ﻿---
-ID: "7c338379-404c-41af-9b94-9a3cab370702"
-Parent: "29b9a0ed-4973-4699-baed-5d9d321c026c"
+ID: "47d40584-57a5-4f4e-b260-ae39bd3a0115"
+Parent: "740a3088-0187-45a3-ba30-c97f31cbb33f"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Egypt/Kafr El Sheikh"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Egypt/Kafr El Sheikh"
 Languages:
 - Language: en
   Versions:

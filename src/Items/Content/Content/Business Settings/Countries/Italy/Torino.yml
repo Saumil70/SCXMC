@@ -1,8 +1,8 @@
 ﻿---
-ID: "0b697c9f-269c-4f76-bcee-8c82012c92c1"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "a981d8bc-a08a-4c94-8cce-963e6dba9045"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Torino"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Torino"
 Languages:
 - Language: en
   Versions:

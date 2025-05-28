@@ -1,8 +1,8 @@
 ﻿---
-ID: "4c0a4f15-5a68-4cb5-8d01-2acfcd3c547f"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "966cfc6d-c375-471d-9440-19e420820ac7"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Lecce"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Lecce"
 Languages:
 - Language: en
   Versions:

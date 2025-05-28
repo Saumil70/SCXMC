@@ -1,8 +1,8 @@
 ﻿---
-ID: "90b85ce5-a3a5-441a-80df-a3f208671b30"
-Parent: "07f40345-e232-4449-8ae0-2e8a14c9b9fe"
+ID: "023af350-b22c-4be0-89cd-486878315882"
+Parent: "161977ca-84e0-421c-a11a-6a366e633386"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Italy/Biella"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Italy/Biella"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "ec77fbdf-810f-4110-9859-de7b322d238b"
-Parent: "6af342e2-3140-4e39-838f-6ac3e92752ff"
+ID: "3bd65cce-7a1d-46ac-a5a4-4edb241d6f30"
+Parent: "3e80fc80-dbd8-4867-9256-a787ffd8cd2c"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/United States of America/Maine"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/United States of America/Maine"
 Languages:
 - Language: en
   Versions:

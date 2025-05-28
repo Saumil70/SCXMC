@@ -1,8 +1,8 @@
 ﻿---
-ID: "76fdb76a-b552-441c-8918-1c10da4765a0"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "c0d656b4-a90c-4c17-b5a4-044070653f40"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Albay"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Albay"
 Languages:
 - Language: en
   Versions:

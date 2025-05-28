@@ -1,8 +1,8 @@
 ﻿---
-ID: "9f356c79-6387-4129-b274-665b76db0ea5"
-Parent: "5d85509c-44b0-4e9e-b0a0-cb8a1508d477"
+ID: "41e62f75-c865-458f-9bcf-4af41626bddb"
+Parent: "31955be3-fbb8-40e5-b2da-9dd856cafb5c"
 Template: "8c602b9c-9de3-42bb-aef2-92ed4c263ec1"
-Path: "/sitecore/content/sitecore-jss-app/Content/Global Settings/Image Position/Top"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Global Settings/Image Position/Top"
 Languages:
 - Language: en
   Versions:

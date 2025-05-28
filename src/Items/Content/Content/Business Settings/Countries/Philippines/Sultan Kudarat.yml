@@ -1,8 +1,8 @@
 ﻿---
-ID: "07bfed09-5805-4783-8ead-915a79a1359c"
-Parent: "2dd1e849-b3fa-43bb-ae53-9f45b0c828c5"
+ID: "8706e743-61b7-4dca-b42d-4f17d7f3ec48"
+Parent: "9011bb77-f73c-493a-afb6-03af50a0d2cc"
 Template: "37198cf8-fa6b-4ec3-9acb-d0fb9bfddf17"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Countries/Philippines/Sultan Kudarat"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Countries/Philippines/Sultan Kudarat"
 Languages:
 - Language: en
   Versions:

@@ -1,8 +1,8 @@
 ﻿---
-ID: "75021f2f-8d13-4ce3-b73a-a63d54022c62"
-Parent: "da282a63-e03f-47d1-b4f7-c4a7840a95f8"
+ID: "043cecf1-719a-467f-9107-c5642eda3225"
+Parent: "1c19b64f-1319-4c10-a9d1-9a1c29473579"
 Template: "a8c3ce2f-3d65-4049-bd23-890b6ae1b4df"
-Path: "/sitecore/content/sitecore-jss-app/Content/Business Settings/Measure Weight/kg"
+Path: "/sitecore/content/sv-commerce/sv-commerce/Content/Business Settings/Measure Weight/kg"
 Languages:
 - Language: en
   Versions:
