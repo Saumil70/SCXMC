@@ -33,6 +33,7 @@
   "dependencies": {
     "@apollo/client": "^3.13.9",
     "@sitecore-cloudsdk/events": "^0.3.0",
+    "@sitecore-cloudsdk/personalize": "^0.3.1",
     "@sitecore-feaas/clientside": "^0.5.17",
     "@sitecore-jss/sitecore-jss-nextjs": "~22.0.0",
     "@sitecore/components": "^1.1.10",

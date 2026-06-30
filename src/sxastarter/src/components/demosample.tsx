@@ -2,14 +2,17 @@
 import React, { useState } from 'react';
 import { loadEngage } from '../lib/engageClient';
 
-let engageInstance: any = null;
+interface EngageInstance {
+  pageView: (data: unknown) => Promise<unknown>;
+  identity: (data: unknown) => Promise<unknown>;
+}
+
+let engageInstance: EngageInstance | null = null;
 
 const DemoSample = () => {
   const [status, setStatus] = useState('');
-  const [sessionStarted, setSessionStarted] = useState(false);
   const [guestRef, setGuestRef] = useState<string | null>(null);
 
-  // ✅ helper to read cookies
   const getCookie = (name: string): string | null => {
     const match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
     return match ? decodeURIComponent(match[2]) : null;
@@ -18,16 +21,15 @@ const DemoSample = () => {
   const handleInit = async () => {
     try {
       if (!engageInstance) {
-        engageInstance = await loadEngage();
+        engageInstance = (await loadEngage()) as EngageInstance;
         console.log('✅ Engage initialized:', engageInstance);
         setStatus('Engage SDK initialized successfully!');
       } else {
         setStatus('Engage is already initialized.');
       }
 
-      // read bx_guest_ref after initialization
       const guestId = getCookie('bx_guest_ref');
-      console.log("Guest Ref:", guestId);
+      console.log('Guest Ref:', guestId);
       setGuestRef(guestId);
     } catch (err) {
       console.error('❌ Error initializing Engage:', err);
@@ -46,13 +48,12 @@ const DemoSample = () => {
         channel: 'WEB',
         currency: 'USD',
         language: 'en',
-        page: 'home', // static
-        item: { id: guestRef || '' } // 👈 passing guestRef also if needed
+        page: 'home',
+        item: { id: guestRef || '' },
       });
 
       console.log('✅ Page view event sent!');
       setStatus('Page view event sent! (session started)');
-      setSessionStarted(true);
     } catch (err) {
       console.error('❌ Error sending page view:', err);
       setStatus('Error sending page view.');
@@ -67,21 +68,21 @@ const DemoSample = () => {
       }
 
       const eventData = {
-        channel: "WEB",
-        currency: "USD",
-        pointOfSale: "demo",
-        language: "EN",
-        page: "home",
-        email: "dhruvtrivedi2002@gmail.com",
-        firstName: "dhruv",
-        lastName: "trivedi",
+        channel: 'WEB',
+        currency: 'USD',
+        pointOfSale: 'demo',
+        language: 'EN',
+        page: 'home',
+        email: 'dhruvtrivedi2002@gmail.com',
+        firstName: 'dhruv',
+        lastName: 'trivedi',
         identifiers: [
           {
-            "provider": "email",
-            "id": "dhruvtrivedi2002@gmail.com"
-          }
+            provider: 'email',
+            id: 'dhruvtrivedi2002@gmail.com',
+          },
         ],
-        item: { id: guestRef || '' } // 👈 include bx_guest_ref here too
+        item: { id: guestRef || '' },
       };
 
       await engageInstance.identity(eventData);
@@ -102,8 +103,14 @@ const DemoSample = () => {
         <button onClick={handlePageView}>Send Page View</button>
         <button onClick={handleIdentity}>Send Identity</button>
       </div>
-      <p><strong>Status:</strong> {status}</p>
-      {guestRef && <p>🎯 <strong>bx_guest_ref:</strong> {guestRef}</p>}
+      <p>
+        <strong>Status:</strong> {status}
+      </p>
+      {guestRef && (
+        <p>
+          🎯 <strong>bx_guest_ref:</strong> {guestRef}
+        </p>
+      )}
     </div>
   );
 };

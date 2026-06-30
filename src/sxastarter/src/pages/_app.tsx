@@ -9,17 +9,22 @@ import 'assets/main.scss';
 import { useEffect, useRef } from 'react';
 import { loadEngage } from '../lib/engageClient';
 
+interface EngageInstance {
+  pageView: (data: unknown) => Promise<unknown>;
+}
+
 function App({ Component, pageProps, router }: AppProps<SitecorePageProps>): JSX.Element {
   const { dictionary, ...rest } = pageProps;
+  const itemId = pageProps.layoutData?.sitecore?.route?.itemId ?? null;
 
   // ✅ Keep engageInstance stable across renders
-  const engageRef = useRef<any>(null);
+  const engageRef = useRef<EngageInstance | null>(null);
 
   useEffect(() => {
     const initEngage = async () => {
       if (!engageRef.current) {
         try {
-          const engageInstance = await loadEngage();
+          const engageInstance = (await loadEngage()) as EngageInstance;
           engageRef.current = engageInstance;
 
           console.log('✅ Engage initialized in _app.tsx');
@@ -30,7 +35,7 @@ function App({ Component, pageProps, router }: AppProps<SitecorePageProps>): JSX
             currency: 'USD',
             language: pageProps.locale || 'en',
             page: router.asPath,
-            itemId: (pageProps as any)?.itemId || null,
+            itemId,
           });
         } catch (err) {
           console.error('❌ Error initializing Engage:', err);
@@ -61,7 +66,7 @@ function App({ Component, pageProps, router }: AppProps<SitecorePageProps>): JSX
     return () => {
       router.events.off('routeChangeComplete', handleRouteChange);
     };
-  }, [router, pageProps.locale, pageProps.itemId]);
+  }, [itemId, pageProps.locale, router]);
 
   return (
     <>

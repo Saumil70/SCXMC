@@ -6,7 +6,7 @@ interface Fields {
 }
 
 export type RichTextProps = {
-  params: { [key: string]: string };
+  params?: { [key: string]: string };
   fields: Fields;
 };
 
@@ -16,14 +16,16 @@ export const Default = (props: RichTextProps): JSX.Element => {
   ) : (
     <span className="is-empty-hint">Rich text</span>
   );
-  const id = props.params.RenderingIdentifier;
+  const id = props.params?.RenderingIdentifier;
 
   return (
     <div
-      className={`component rich-text ${props.params.styles.trimEnd()}`}
+      className={`component rich-text ${props.params?.styles?.trimEnd() ?? ''}`}
       id={id ? id : undefined}
     >
       <div className="component-content">{text}</div>
     </div>
   );
 };
+
+export default Default;

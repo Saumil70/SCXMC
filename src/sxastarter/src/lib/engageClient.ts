@@ -1,7 +1,13 @@
 // lib/engageClient.ts
 import { init } from '@sitecore/engage';
 
-let engage: any = null;
+interface EngageInstance {
+  pageView: (data: unknown) => Promise<unknown>;
+  event: (name: string, data: unknown) => Promise<unknown>;
+  identity: (data: unknown) => Promise<unknown>;
+}
+
+let engage: EngageInstance | null = null;
 
 const loadEngage = async () => {
   if (engage) return engage; // ✅ Reuse existing instance
@@ -12,7 +18,6 @@ const loadEngage = async () => {
     pointOfSale: 'demo',
     cookieDomain: 'localhost',
     cookieExpiryDays: 365,
-    channel: 'WEB',
     forceServerCookieMode: false,
     includeUTMParameters: true,
     webPersonalization: true,

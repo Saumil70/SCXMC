@@ -43,8 +43,9 @@
     "noImplicitReturns": true,
     "noImplicitAny": true,
     "noImplicitThis": true,
-    "noUnusedLocals": false, // 👈 changed
-    "noUnusedParameters": false, // 👈 changed
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "ignoreDeprecations": "6.0",
     "incremental": true,
     "forceConsistentCasingInFileNames": false
   },
