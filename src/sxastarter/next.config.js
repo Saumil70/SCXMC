@@ -17,9 +17,7 @@ const nextConfig = {
   env: {
     PUBLIC_URL: publicUrl,
   },
- eslint: {
-    ignoreDuringBuilds: true,
-  },
+
   i18n: {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
@@ -42,7 +40,6 @@ const nextConfig = {
         hostname: 'edge*.**',
         port: '',
       },
-      
       {
         protocol: 'https',
         hostname: 'feaas*.blob.core.windows.net',
