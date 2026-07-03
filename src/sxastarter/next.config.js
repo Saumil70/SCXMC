@@ -13,9 +13,11 @@ const nextConfig = {
   // Allow specifying a distinct distDir when concurrently running app in a container
   distDir: process.env.NEXTJS_DIST_DIR || '.next',
 
-  // Make the same PUBLIC_URL available as an environment variable on the client bundle
+  // Make the same PUBLIC_URL and GraphQL settings available as environment variables on the client bundle
   env: {
     PUBLIC_URL: publicUrl,
+    NEXT_PUBLIC_GRAPHQL_ENDPOINT: jssConfig.graphQLEndpoint,
+    NEXT_PUBLIC_SITECORE_API_KEY: jssConfig.sitecoreApiKey,
   },
 
   i18n: {
