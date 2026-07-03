@@ -1,21 +1,11 @@
 // lib/apolloClient.ts
-import { ApolloClient, HttpLink, InMemoryCache } from '@apollo/client';
-import config from 'temp/config';
-
-const graphqlEndpoint = process.env.NEXT_PUBLIC_GRAPHQL_ENDPOINT || config.graphQLEndpoint;
-
-const authHeader = config.sitecoreApiKey
-  ? { Authorization: `Bearer ${config.sitecoreApiKey}` }
-  : undefined;
+import { ApolloClient, InMemoryCache } from '@apollo/client';
 
 const client = new ApolloClient({
-  link: new HttpLink({
-    uri: graphqlEndpoint,
-    headers: {
-      'Content-Type': 'application/json',
-      ...authHeader,
-    },
-  }),
+  uri: process.env.NEXT_PUBLIC_GRAPHQL_ENDPOINT, // XM Cloud GraphQL endpoint
+  headers: {
+    Authorization: `Bearer aWxGYTYyTmcxQ0ZGUCt4ekNxNUEwU25RV3JPSUo3QWdOcytOUi9sZ3VRdz18c291cmNldmVkMTU0MzQtanNpdGVjb3JleG1jNDEzLWRldjA0OTQtYzllNQ==`, // if API key needed
+  },
   cache: new InMemoryCache(),
 });
 

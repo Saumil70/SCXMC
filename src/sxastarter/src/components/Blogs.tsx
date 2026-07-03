@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Field, ImageField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import config from 'temp/config';
 import BlogsItem from './BlogsItem';
 import { loadEngage } from '../lib/engageClient';
 
@@ -31,7 +30,8 @@ export type BlogsProps = {
   fields: Fields;
 };
 
-const GRAPH_QL_ENDPOINT = process.env.NEXT_PUBLIC_GRAPHQL_ENDPOINT || config.graphQLEndpoint;
+const GRAPH_QL_ENDPOINT =
+  'https://xmc-sourceved15434-jsitecorexmc413-dev0494.sitecorecloud.io/sitecore/api/graph/edge';
 
 const SEARCH_QUERY = `
   query SearchBlogs($searchText: String!) {
@@ -86,7 +86,7 @@ export const Default = (props: BlogsProps): JSX.Element => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          ...(config.sitecoreApiKey ? { sc_apikey: config.sitecoreApiKey } : {}),
+          sc_apikey: 'B12D98C5-FB7B-48AE-8BF9-EBF7B0546DC9',
         },
         body: JSON.stringify({
           query: SEARCH_QUERY,
